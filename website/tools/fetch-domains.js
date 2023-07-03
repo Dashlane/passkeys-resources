@@ -123,7 +123,7 @@ async function findBestAccessibleIcon(icons, debug = false) {
     }
 
     // If no accessible icon is found, return the URL of the first icon
-    return bestIcon || icons[0];
+    return bestIcon || '';
 }
 
 async function getIconSize(iconUrl) {

@@ -1,7 +1,10 @@
 "use client";
 
 import { useState } from "react";
+import Image from "next/image";
 import data from "../../public/domains.json";
+import emptyIcon from "../../public/link.svg";
+import passkeyIcon from "../../public/passkey.svg";
 
 type SortedField = "domain" | "name";
 
@@ -34,7 +37,10 @@ const Page = () => {
 
     return (
         <div className="container mx-auto px-4 py-8">
-            <h1 className="text-3xl font-bold mb-4">Passkeys Resources</h1>
+            <h1 className="text-3xl font-bold mb-4 color-major">
+                <Image alt="Passkey icon" height={40} src={passkeyIcon} className="inline pb-1 mr-1" />
+                Passkeys Resources
+            </h1>
 
             <form className="mb-4">
                 <input
@@ -75,15 +81,46 @@ const Page = () => {
                     {sortedData.map((item, index) => (
                         <tr key={index}>
                             <td className="px-6 py-4 whitespace-no-wrap">
-                                <img src={item.icon} alt={item.name} className="h-8 w-8" />
+                                {item.icon !== "" ? (
+                                    <img src={item.icon} alt={item.name} className="h-8 w-8" />
+                                ) : (
+                                    <Image src={emptyIcon} alt={item.name} className="h-8 w-8" />
+                                )}
                             </td>
-                            <td className="px-6 py-4 whitespace-no-wrap">{item.domain}</td>
-                            <td className="px-6 py-4 whitespace-no-wrap">{item.name}</td>
+                            <td className="px-6 py-4 whitespace-no-wrap">
+                                <a href={"https://" + item.domain} rel="nofollow" target="_blank">
+                                    {item.domain}
+                                </a>
+                            </td>
+                            <td className="px-6 py-4 whitespace-no-wrap">
+                                {item.name !== ""
+                                    ? item.name
+                                    : item.domain.charAt(0).toUpperCase() + item.domain.slice(1)}
+                            </td>
                             <td className="px-6 py-4 whitespace-no-wrap">{item.description}</td>
                         </tr>
                     ))}
                 </tbody>
             </table>
+            <hr />
+            <p className="text-sm text-gray-500 mt-4">
+                {" "}
+                This website is provided by{" "}
+                <a
+                    href="https://www.dashlane.com/"
+                    className="font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                >
+                    Dashlane
+                </a>{" "}
+                as a free resource for the community. Contribute on{" "}
+                <a
+                    href="https://github.com/Dashlane/passkeys-resources"
+                    className="font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                >
+                    GitHub
+                </a>
+                .
+            </p>
         </div>
     );
 };
