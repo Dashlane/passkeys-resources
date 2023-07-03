@@ -108,6 +108,12 @@
     "icon": "https://assets.website-files.com/64516fef70e3c53e580425b7/64516fef70e3c50a1104266d_Logo-Webclip_Icon%20Only-Light-31.png"
   },
   {
+    "domain": "passkeys.eu",
+    "name": "",
+    "description": "",
+    "icon": "https://passkeys.eu/favicon.png"
+  },
+  {
     "domain": "pastery.net",
     "name": "Pastery - The sweetest pastebin in the world!",
     "description": "Pastery is the sweetest pastebin in the world. Pastery is a secure website where you can store text online for a set period of time.",
@@ -327,7 +333,7 @@
     "domain": "boursorama.com",
     "name": "Actualité économique, Bourse, Banque en ligne - Boursorama",
     "description": "Découvrez Boursorama, Banque la moins chère et leader de l'information boursière et financière (cours des actions, des indices, des devises, de l'or...)",
-    "icon": "https://boursorama.com/bundles/boursoramaui/images/favicons/android-chrome-512x512.png"
+    "icon": "https://boursorama.com/bundles/boursoramaui/images/favicons/apple-touch-icon.png"
   },
   {
     "domain": "microsoft.com",
@@ -346,11 +352,5 @@
     "name": "Yahoo! JAPAN",
     "description": "あなたの毎日をアップデートする情報ポータル。検索、ニュース、天気、スポーツ、メール、ショッピング、オークションなど便利なサービスを展開しています。",
     "icon": "https://s.yimg.jp/c/icon/s/bsc/2.0/y120.png"
-  },
-  {
-    "domain": "yahoo.com",
-    "name": "Yahoo | Mail, Weather, Search, Politics, News, Finance, Sports & Videos",
-    "description": "Latest news coverage, email, free stock quotes, live scores and video are just the beginning. Discover more every day at Yahoo!",
-    "icon": "https://s.yimg.com/cv/apiv2/09062018/manifest/yahoo_install_512.png"
   }
 ]
