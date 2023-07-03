@@ -48,36 +48,36 @@ const Page = () => {
                     placeholder="Search by domain"
                     value={searchTerm}
                     onChange={(e) => setSearchTerm(e.target.value)}
-                    className="border border-gray-300 rounded-md px-4 py-2 focus:outline-none focus:ring-2 focus:ring-blue-500 w-full"
+                    className="border border-gray-300 text-gray-600 rounded-md px-4 py-2 focus:outline-none focus:ring-2 focus:ring-blue-500 w-full"
                 />
             </form>
 
-            <table className="min-w-full divide-y divide-gray-200">
+            <table className="min-w-full divide-y divide-gray-200 dark:divide-gray-500">
                 <thead>
                     <tr>
-                        <th className="px-6 py-3 bg-gray-50 text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider">
+                        <th className="px-6 py-3 bg-gray-50 dark:bg-slate-700 dark:text-white text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider">
                             Icon
                         </th>
                         <th
-                            className="px-6 py-3 bg-gray-50 text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider cursor-pointer"
+                            className="px-6 py-3 bg-gray-50 dark:bg-slate-700 dark:text-white text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider cursor-pointer"
                             onClick={() => sortData("domain")}
                         >
                             Domain
                             {sortedField === "domain" && <span className="ml-1">{sortedAscending ? "▲" : "▼"}</span>}
                         </th>
                         <th
-                            className="px-6 py-3 bg-gray-50 text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider cursor-pointer"
+                            className="px-6 py-3 bg-gray-50 dark:bg-slate-700 dark:text-white text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider cursor-pointer"
                             onClick={() => sortData("name")}
                         >
                             Name
                             {sortedField === "name" && <span className="ml-1">{sortedAscending ? "▲" : "▼"}</span>}
                         </th>
-                        <th className="px-6 py-3 bg-gray-50 text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider">
+                        <th className="px-6 py-3 bg-gray-50 dark:bg-slate-700 dark:text-white text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider">
                             Description
                         </th>
                     </tr>
                 </thead>
-                <tbody className="bg-white divide-y divide-gray-200">
+                <tbody className="bg-white dark:bg-slate-800 divide-y divide-gray-200 dark:divide-gray-600">
                     {sortedData.map((item, index) => (
                         <tr key={index}>
                             <td className="px-6 py-4 whitespace-no-wrap">
@@ -103,7 +103,7 @@ const Page = () => {
                 </tbody>
             </table>
             <hr />
-            <p className="text-sm text-gray-500 mt-4">
+            <p className="text-sm text-gray-500 dark:text-white mt-4">
                 {" "}
                 This website is provided by{" "}
                 <a
