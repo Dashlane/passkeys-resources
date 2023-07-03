@@ -25,7 +25,7 @@ jobs:
                   touch out/.nojekyll
 
             - name: Deploy
-              uses: JamesIves/github-pages-deploy-action@4.4.0
+              uses: JamesIves/github-pages-deploy-action@4
               with:
                   branch: gh-pages
                   folder: website/out
