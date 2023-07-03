@@ -51,7 +51,7 @@
     "domain": "godaddy.com",
     "name": "Access Denied",
     "description": "",
-    "icon": "https://godaddy.com/favicon.ico"
+    "icon": ""
   },
   {
     "domain": "hanko.io",
@@ -75,7 +75,7 @@
     "domain": "mangadex.org",
     "name": "",
     "description": "Read manga online for free on MangaDex with no ads, high quality images and support scanlation groups!",
-    "icon": "https://mangadex.org/favicon.ico"
+    "icon": ""
   },
   {
     "domain": "id.moneyforward.com",
@@ -159,19 +159,13 @@
     "domain": "thehendrixjc.com",
     "name": "The Hendrix | Jersey City Luxury Rentals | Studio - 3 Bed",
     "description": "Culture, arts, & amenities moments from the PATH. An original lifestyle experience with spacious interiors and incredible modern design. Visit Today.",
-    "icon": "https://thehendrixjc.com/favicon.ico"
-  },
-  {
-    "domain": "zoho.com",
-    "name": "Zoho | Cloud Software Suite for Businesses",
-    "description": "More than 90 million users in 150+ countries rely on Zoho to get work done. A unique and powerful business software suite. Try now for free.",
-    "icon": "https://zoho.com/favicon.ico"
+    "icon": ""
   },
   {
     "domain": "id.smt.docomo.ne.jp",
     "name": "dアカウント",
     "description": "dアカウント(旧docomo ID)はドコモの端末をお持ちでない方でも無料で使える共通IDです。ネットショッピングやデジタルコンテンツ等の様々なサービスを、デバイス、ネットワーク回線の種類を問わず利用できます。サービスを利用すればポイントも貯まり幅広くご利用頂けます。",
-    "icon": "https://id.smt.docomo.ne.jp/favicon.ico"
+    "icon": ""
   },
   {
     "domain": "trusona.com",
@@ -201,7 +195,7 @@
     "domain": "laakari.chat",
     "name": "Lääkäri.chat – Helppo ja nopea lääkäri-chat",
     "description": "Lääkäri.chatissä asioit helposti ja turvallisesti yksityisen etälääkärin kanssa. Suomen edullisin reseptin uusiminen 12,50 €. Chat-vastaanotot alkaen 29,90 €.",
-    "icon": "https://laakari.chat/favicon.ico"
+    "icon": ""
   },
   {
     "domain": "qapital.com",
@@ -249,7 +243,7 @@
     "domain": "marshmallow-qa.com",
     "name": "Just a moment...",
     "description": "",
-    "icon": "https://marshmallow-qa.com/favicon.ico"
+    "icon": ""
   },
   {
     "domain": "adobe.com",
@@ -327,7 +321,7 @@
     "domain": "boursorama.com",
     "name": "Actualité économique, Bourse, Banque en ligne - Boursorama",
     "description": "Découvrez Boursorama, Banque la moins chère et leader de l'information boursière et financière (cours des actions, des indices, des devises, de l'or...)",
-    "icon": "https://boursorama.com/bundles/boursoramaui/images/favicons/apple-touch-icon.png"
+    "icon": "https://boursorama.com/bundles/boursoramaui/images/favicons/android-chrome-512x512.png"
   },
   {
     "domain": "microsoft.com",
