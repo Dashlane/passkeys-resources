@@ -48,7 +48,7 @@ const Page = () => {
 
                     <p className="text-sm text-center text-gray-500 dark:text-white mb-6">
                         Passkeys Resources is a community-driven index of websites, apps, and services that offer
-                        signing in with Passkeys.
+                        signing in with passkeys.
                     </p>
 
                     <a href="https://www.dashlane.com" target="_blank">
@@ -70,9 +70,9 @@ const Page = () => {
                 </div>
             </div>
 
-            <div className="container mx-auto px-4 py-8">
-                <div className="border rounded-lg overflow-hidden border-gray-200 dark:border-gray-700">
-                    <table className="min-w-full divide-y divide-gray-200 dark:divide-gray-500 rounded-lg">
+            <div className="container mx-auto px-12% py-8">
+                <div className="border rounded-lg overflow-hidden overflow-x-auto border-gray-200 dark:border-gray-700">
+                    <table className="table-fixed min-w-full divide-y divide-gray-200 dark:divide-gray-500 rounded-lg">
                         <thead>
                             <tr>
                                 <th className="px-6 py-3 bg-gray-50 dark:bg-slate-700 dark:text-white text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider">

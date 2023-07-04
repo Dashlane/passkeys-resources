@@ -21,6 +21,11 @@ body {
     color: #0f6476;
 }
 
+.px-12\% {
+    padding-right: 12%;
+    padding-left: 12%;
+}
+
 @media (prefers-color-scheme: dark) {
     :root {
         --foreground-rgb: 255, 255, 255;
@@ -34,5 +39,12 @@ body {
 
     .color-major {
         color: #c6dadf;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .px-12\% {
+        padding-right: 10px;
+        padding-left: 10px;
     }
 }
