@@ -24,6 +24,12 @@
     "icon": "https://cardpointers.com/android-chrome-192x192.png"
   },
   {
+    "domain": "carnival.com",
+    "name": "\n\tCruises | Carnival Cruise Deals: Caribbean, Bahamas, Alaska, Mexico\n",
+    "description": "Carnival cruise deals and cruise packages to the most popular destinations. Find great deals and specials on Caribbean, The Bahamas, Alaska, and Mexico cruises. ",
+    "icon": "https://carnival.com/apple-touch-icon.png"
+  },
+  {
     "domain": "cloudflare.com",
     "name": "Cloudflare - The Web Performance & Security Company | Cloudflare",
     "description": "Here at Cloudflare, we make the Internet work the way it should. Offering CDN, DNS, DDoS protection and security, find out how we can help your site.",
