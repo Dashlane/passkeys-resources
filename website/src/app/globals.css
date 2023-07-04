@@ -4,13 +4,17 @@
 
 :root {
     --foreground-rgb: 0, 0, 0;
-    --background-start-rgb: 198, 218, 223;
+    --background-start-rgb: 255, 255, 255;
     --background-end-rgb: 255, 255, 255;
 }
 
 body {
     color: rgb(var(--foreground-rgb));
     background: linear-gradient(to bottom, transparent, rgb(var(--background-end-rgb))) rgb(var(--background-start-rgb));
+}
+
+.background-major {
+    background: #c6dadf;
 }
 
 .color-major {
@@ -20,8 +24,12 @@ body {
 @media (prefers-color-scheme: dark) {
     :root {
         --foreground-rgb: 255, 255, 255;
-        --background-start-rgb: 9, 54, 63;
-        --background-end-rgb: 9, 54, 63;
+        --background-start-rgb: 13, 13, 13;
+        --background-end-rgb: 13, 13, 13;
+    }
+
+    .background-major {
+        background: #18282d;
     }
 
     .color-major {
