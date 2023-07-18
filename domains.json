@@ -174,6 +174,12 @@
     "icon": ""
   },
   {
+    "domain": "zoho.com",
+    "name": "Zoho | Cloud Software Suite for Businesses",
+    "description": "More than 90 million users in 150+ countries rely on Zoho to get work done. A unique and powerful business software suite. Try now for free.",
+    "icon": "https://zoho.com/favicon.ico"
+  },
+  {
     "domain": "id.smt.docomo.ne.jp",
     "name": "dアカウント",
     "description": "dアカウント(旧docomo ID)はドコモの端末をお持ちでない方でも無料で使える共通IDです。ネットショッピングやデジタルコンテンツ等の様々なサービスを、デバイス、ネットワーク回線の種類を問わず利用できます。サービスを利用すればポイントも貯まり幅広くご利用頂けます。",
@@ -184,12 +190,6 @@
     "name": "Trusona",
     "description": "Trusona improves business growth and profitability with faster, phishing-resistant sign-ins that delight your customers.",
     "icon": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_192,h_192/https://www.trusona.com/wp-content/uploads/2021/01/cropped-Trusona-PurpleFav-500-192x192.png"
-  },
-  {
-    "domain": "virginmedia.com",
-    "name": "Virgin Media - Official Site | Our best Cable & Mobile Deals",
-    "description": "Welcome to Virgin Media, home of Superfast broadband, TV, landline & mobile deals. Working hard to help connect the nation, shop our offers and order online.",
-    "icon": "https://virginmedia.com/favicon.ico"
   },
   {
     "domain": "webauthn.io",
@@ -346,6 +346,12 @@
     "name": "Payroll Software That's Smart, Simple & Stress-Free | PayFit",
     "description": "HMRC-recognised, PayFit combines best-in-class payroll software with expert support. Automate your payroll & HR admin and save time.",
     "icon": "https://payfit.com/favicon.ico"
+  },
+  {
+    "domain": "tiktok.com",
+    "name": "TikTok - Make Your Day",
+    "description": "TikTok - trends start here. On a device or on the web, viewers can watch and discover millions of personalized short videos. Download the app to get started.",
+    "icon": "https://sf16-sg.tiktokcdn.com/obj/eden-sg/uvkuhyieh7lpqpbj/pwa/512x512.png"
   },
   {
     "domain": "yahoo.co.jp",
