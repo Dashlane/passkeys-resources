@@ -114,6 +114,12 @@
     "icon": "https://gitlab.com/favicon.ico"
   },
   {
+    "domain": "godaddy.com",
+    "name": "Access Denied",
+    "description": "",
+    "icon": ""
+  },
+  {
     "domain": "google.com",
     "name": "Google",
     "description": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking for.",
@@ -364,5 +370,11 @@
     "name": "Yahoo | Mail, Weather, Search, Politics, News, Finance, Sports & Videos",
     "description": "Latest news coverage, email, free stock quotes, live scores and video are just the beginning. Discover more every day at Yahoo!",
     "icon": "https://s.yimg.com/cv/apiv2/09062018/manifest/yahoo_install_512.png"
+  },
+  {
+    "domain": "zoho.com",
+    "name": "Zoho | Cloud Software Suite for Businesses",
+    "description": "More than 90 million users in 150+ countries rely on Zoho to get work done. A unique and powerful business software suite. Try now for free.",
+    "icon": "https://zoho.com/favicon.ico"
   }
 ]
