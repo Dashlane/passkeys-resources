@@ -1,4 +1,4 @@
-name: Passkeys Resources Website Deploy CI
+name: Passkeys Directory Website Deploy CI
 
 on:
     push:

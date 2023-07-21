@@ -43,11 +43,11 @@ const Page = () => {
                 <div className="mx-auto max-w-xl flex flex-col justify-center">
                     <h1 className="text-3xl text-center font-bold mb-4 color-major">
                         <Image alt="Passkey icon" height={40} src={passkeyIcon} className="inline pb-1 mr-1" />
-                        Passkeys Resources
+                        Passkeys Directory
                     </h1>
 
                     <p className="text-sm text-center text-gray-500 dark:text-white mb-6">
-                        Passkeys Resources is a community-driven index of websites, apps, and services that offer
+                        Passkeys Directory is a community-driven index of websites, apps, and services that offer
                         signing in with passkeys.
                     </p>
 

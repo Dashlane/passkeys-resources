@@ -4,7 +4,7 @@ import { Inter } from "next/font/google";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-    title: "Passkeys Resources",
+    title: "Passkeys Directory",
     description: "Domains compatible with Passkeys",
 };
 
