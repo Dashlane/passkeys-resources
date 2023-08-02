@@ -102,12 +102,6 @@
     "icon": "https://uploads-ssl.webflow.com/5f102a848635195a643b1e08/61a4931b644bf7799a1d8455_fx-favicon-touch.png"
   },
   {
-    "domain": "frontegg.com",
-    "name": "Frontegg | User Management for modern B2B SaaS",
-    "description": "Frontegg is an end-to-end user management platform for B2B SaaS, powering strategies from PLG to enterprise readiness. Easy migration, no credit card required.",
-    "icon": "https://frontegg.com/wp-content/uploads/2021/11/ficon.svg"
-  },
-  {
     "domain": "github.com",
     "name": "GitHub: Let’s build from here · GitHub",
     "description": "GitHub is where over 100 million developers shape the future of software, together. Contribute to the open source community, manage your Git repositories, review code like a pro, track bugs and features, power your CI/CD and DevOps workflows, and secure code before you commit it.",
@@ -168,12 +162,6 @@
     "icon": "https://ivoclar.com/favicon/android-chrome-310x310.png"
   },
   {
-    "domain": "kayak.com",
-    "name": "Search Flights, Hotels & Rental Cars | KAYAK",
-    "description": "KAYAK searches hundreds of other travel sites at once to find the information you need to make the right decisions on flights, hotels & rental cars.",
-    "icon": "https://kayak.com/apple-touch-icon.png"
-  },
-  {
     "domain": "laakari.chat",
     "name": "Lääkäri.chat – Helppo ja nopea lääkäri-chat",
     "description": "Lääkäri.chatissä asioit helposti ja turvallisesti yksityisen etälääkärin kanssa. Suomen edullisin reseptin uusiminen 12,50 €. Chat-vastaanotot alkaen 29,90 €.",
@@ -184,12 +172,6 @@
     "name": "\n    The public’s one account for government.\n  | Login.gov",
     "description": "\n    Use one account and password for secure, private access to participating government agencies.\n  ",
     "icon": "https://login.gov/android-chrome-192x192.png"
-  },
-  {
-    "domain": "magic.link",
-    "name": "Magic | Web3 Auth & Key Management SDKs | Magic",
-    "description": "Onboard users to your dApp with just an email, phone number, or social login. Multi-chain, highly scalable, and battle-tested.",
-    "icon": "https://magic.link/favicon.ico"
   },
   {
     "domain": "mangadex.org",
@@ -349,8 +331,8 @@
   },
   {
     "domain": "tiktok.com",
-    "name": "TikTok - Make Your Day",
-    "description": "TikTok - trends start here. On a device or on the web, viewers can watch and discover millions of personalized short videos. Download the app to get started.",
+    "name": "Explore - Find your favourite videos on TikTok",
+    "description": "Discover the latest TikTok videos on our Explore page. Stay up-to-date on the latest trends and explore your interests here!",
     "icon": "https://sf16-sg.tiktokcdn.com/obj/eden-sg/uvkuhyieh7lpqpbj/pwa/512x512.png"
   },
   {
