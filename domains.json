@@ -36,6 +36,12 @@
     "icon": "https://bin.bnbstatic.com/static/images/common/favicon.ico"
   },
   {
+    "domain": "boursorama.com",
+    "name": "Actualité économique, Bourse, Banque en ligne - Boursorama",
+    "description": "Découvrez Boursorama, Banque la moins chère et leader de l'information boursière et financière (cours des actions, des indices, des devises, de l'or...)",
+    "icon": "https://boursorama.com/bundles/boursoramaui/images/favicons/android-chrome-512x512.png"
+  },
+  {
     "domain": "bridgecrest.com",
     "name": "Bridgecrest | Car Payment Management & Account Servicing",
     "description": "Keep your vehicle finances on the road to success with Bridgecrest. We make it easy to manage your account online, find convenient payment options, and get assistance when you need it.",
@@ -130,6 +136,12 @@
     "name": "Hanko - Open source authentication beyond passwords",
     "description": "Our mission is to provide a login that's passwordless, more secure than anything else, and can be integrated in minutes.",
     "icon": "https://uploads-ssl.webflow.com/5e6f5bf4a2ae9702a833f3ee/5e8cbd73d2b1fa2ae262c716_Webclip_256x256.png"
+  },
+  {
+    "domain": "haeppie.com",
+    "name": "Create personalised spaces in seconds and close deals faster",
+    "description": "haeppie is made for Sales & Customer Success Teams - Turn buyer journeys into more revenue and get all decision makers on the same page",
+    "icon": "https://haeppie.com/wp-content/uploads/2021/10/favicon.ico"
   },
   {
     "domain": "homedepot.com",
