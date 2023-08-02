@@ -36,12 +36,6 @@
     "icon": "https://bin.bnbstatic.com/static/images/common/favicon.ico"
   },
   {
-    "domain": "boursorama.com",
-    "name": "Actualité économique, Bourse, Banque en ligne - Boursorama",
-    "description": "Découvrez Boursorama, Banque la moins chère et leader de l'information boursière et financière (cours des actions, des indices, des devises, de l'or...)",
-    "icon": "https://boursorama.com/bundles/boursoramaui/images/favicons/android-chrome-512x512.png"
-  },
-  {
     "domain": "bridgecrest.com",
     "name": "Bridgecrest | Car Payment Management & Account Servicing",
     "description": "Keep your vehicle finances on the road to success with Bridgecrest. We make it easy to manage your account online, find convenient payment options, and get assistance when you need it.",
@@ -252,6 +246,12 @@
     "icon": "https://cdn.cache.lol/favicons/omg.lol/apple-touch-icon.png"
   },
   {
+    "domain": "onlyfans.com",
+    "name": "OnlyFans",
+    "description": "OnlyFans",
+    "icon": "https://static.onlyfans.com/theme/onlyfans/spa/icons/maskable_icon.png"
+  },
+  {
     "domain": "passage.1password.com",
     "name": "Passwordless authentication powered by passkeys | Passage by 1Password",
     "description": "Passage provides passwordless authentication that you can add to your app or website with just a few lines of code. Learn more.",
@@ -399,6 +399,6 @@
     "domain": "zoho.com",
     "name": "Zoho | Cloud Software Suite for Businesses",
     "description": "More than 90 million users in 150+ countries rely on Zoho to get work done. A unique and powerful business software suite. Try now for free.",
-    "icon": "https://www.zohowebstatic.com/sites/zweb/images/favicon.ico"
+    "icon": "https://zoho.com/favicon.ico"
   }
 ]
