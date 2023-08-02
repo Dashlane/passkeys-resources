@@ -68,7 +68,7 @@
   {
     "domain": "corbado.com",
     "name": "Corbado - We help you bring passkeys to your customers",
-    "description": "We help you transition all your customers and take care of cross-platform and cross-device aspects. Provide the most secure and most convienent passwordless authentication with passkeys to onboard, authenticate and engage users. Boost your conversion rates and  improve the user experience.",
+    "description": "We help you transition all your customers and take care of cross-platform and cross-device aspects. Provide the most secure and most convienent passwordless authentication with passkeys to onboard, authenticate and engage users. Boost your conversion rates and improve the user experience.",
     "icon": "https://uploads-ssl.webflow.com/626a572dd59ab59d107b26c6/628529d647ae6e42b0542c23_Favicon_256x256_Corbado.png"
   },
   {
@@ -138,12 +138,6 @@
     "icon": "https://homedepot.com/favicon.ico"
   },
   {
-    "domain": "horizon.pics",
-    "name": "Horizon Pics - Supercharged File Sharing",
-    "description": "Horizon is a supercharged file sharing platform. With Horizon, you can upload images, videos, and other files and share them online using secure links. Whether that's a family photo, game-play footage or documentation, Horizon gives you the power to share and collaborate.",
-    "icon": "https://horizon.pics/logo/horizon_discord.png"
-  },
-  {
     "domain": "id.moneyforward.com",
     "name": "マネーフォワード ID",
     "description": "",
@@ -154,6 +148,12 @@
     "name": "dアカウント",
     "description": "dアカウント(旧docomo ID)はドコモの端末をお持ちでない方でも無料で使える共通IDです。ネットショッピングやデジタルコンテンツ等の様々なサービスを、デバイス、ネットワーク回線の種類を問わず利用できます。サービスを利用すればポイントも貯まり幅広くご利用頂けます。",
     "icon": ""
+  },
+  {
+    "domain": "ivoclar.com",
+    "name": "Ivoclar : Ivoclar",
+    "description": "Ivoclar is a leading international dental company with a comprehensive product and system range for dentists and dental technicians.",
+    "icon": "https://ivoclar.com/favicon/android-chrome-310x310.png"
   },
   {
     "domain": "kayak.com",
@@ -172,6 +172,12 @@
     "name": "\n    The public’s one account for government.\n  | Login.gov",
     "description": "\n    Use one account and password for secure, private access to participating government agencies.\n  ",
     "icon": "https://login.gov/android-chrome-192x192.png"
+  },
+  {
+    "domain": "magic.link",
+    "name": "Magic | Web3 Auth & Key Management SDKs | Magic",
+    "description": "Onboard users to your dApp with just an email, phone number, or social login. Multi-chain, highly scalable, and battle-tested.",
+    "icon": "https://magic.link/favicon.ico"
   },
   {
     "domain": "mangadex.org",
@@ -218,7 +224,7 @@
   {
     "domain": "okta.com",
     "name": "Identity | Okta",
-    "description": "Okta's identity platform is easy-to-use, neutral, and works with your existing solutions, so you're free to choose the best technology for now and the future.",
+    "description": "Okta's Workforce and Customer Identity Clouds enable secure access, authentication, and automation—putting identity at the heart of business security and growth.",
     "icon": "https://okta.com/favicon.ico"
   },
   {
@@ -331,8 +337,8 @@
   },
   {
     "domain": "tiktok.com",
-    "name": "TikTok - Make Your Day",
-    "description": "TikTok - trends start here. On a device or on the web, viewers can watch and discover millions of personalized short videos. Download the app to get started.",
+    "name": "Explore - Find your favourite videos on TikTok",
+    "description": "Discover the latest TikTok videos on our Explore page. Stay up-to-date on the latest trends and explore your interests here!",
     "icon": "https://sf16-sg.tiktokcdn.com/obj/eden-sg/uvkuhyieh7lpqpbj/pwa/512x512.png"
   },
   {
@@ -349,7 +355,7 @@
   },
   {
     "domain": "virginmedia.com",
-    "name": "Virgin Media - Official Site | Our best Cable & Mobile Deals",
+    "name": "Virgin Media | Broadband & Cable Deals  - See What You Can Do",
     "description": "Welcome to Virgin Media, home of Superfast broadband, TV, landline & mobile deals. Working hard to help connect the nation, shop our offers and order online.",
     "icon": "https://virginmedia.com/favicon.ico"
   },
