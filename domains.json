@@ -102,6 +102,12 @@
     "icon": "https://uploads-ssl.webflow.com/5f102a848635195a643b1e08/61a4931b644bf7799a1d8455_fx-favicon-touch.png"
   },
   {
+    "domain": "frontegg.com",
+    "name": "Frontegg | User Management for modern B2B SaaS",
+    "description": "Frontegg is an end-to-end user management platform for B2B SaaS, powering strategies from PLG to enterprise readiness. Easy migration, no credit card required.",
+    "icon": "https://frontegg.com/wp-content/uploads/2021/11/ficon.svg"
+  },
+  {
     "domain": "github.com",
     "name": "GitHub: Let’s build from here · GitHub",
     "description": "GitHub is where over 100 million developers shape the future of software, together. Contribute to the open source community, manage your Git repositories, review code like a pro, track bugs and features, power your CI/CD and DevOps workflows, and secure code before you commit it.",
@@ -136,6 +142,12 @@
     "name": "The Home Depot",
     "description": "Shop online for all your home improvement needs: appliances, bathroom decorating ideas, kitchen remodeling, patio furniture, power tools, bbq grills, carpeting, lumber, concrete, lighting, ceiling fans and more at The Home Depot.",
     "icon": "https://homedepot.com/favicon.ico"
+  },
+  {
+    "domain": "horizon.pics",
+    "name": "Horizon Pics - Supercharged File Sharing",
+    "description": "Horizon is a supercharged file sharing platform. With Horizon, you can upload images, videos, and other files and share them online using secure links. Whether that's a family photo, game-play footage or documentation, Horizon gives you the power to share and collaborate.",
+    "icon": "https://horizon.pics/logo/horizon_discord.png"
   },
   {
     "domain": "id.moneyforward.com",
@@ -337,8 +349,8 @@
   },
   {
     "domain": "tiktok.com",
-    "name": "Explore - Find your favourite videos on TikTok",
-    "description": "Discover the latest TikTok videos on our Explore page. Stay up-to-date on the latest trends and explore your interests here!",
+    "name": "TikTok - Make Your Day",
+    "description": "TikTok - trends start here. On a device or on the web, viewers can watch and discover millions of personalized short videos. Download the app to get started.",
     "icon": "https://sf16-sg.tiktokcdn.com/obj/eden-sg/uvkuhyieh7lpqpbj/pwa/512x512.png"
   },
   {
