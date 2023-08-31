@@ -6,6 +6,12 @@
     "icon": "https://adobe.com/favicon.ico"
   },
   {
+    "domain": "airnewzealand.com",
+    "name": "Air New Zealand – United States Official Site",
+    "description": "Get on board with Air New Zealand for cheap flights to New Zealand, Australia and the Pacific Islands. Direct flights to New Zealand from Los Angeles, San Francisco, Houston, Chicago, Honolulu & New York.",
+    "icon": "https://airnewzealand.com/koru-icon-256.png"
+  },
+  {
     "domain": "amazon.com",
     "name": "Amazon.com",
     "description": "",
@@ -412,11 +418,5 @@
     "name": "Yahoo | Mail, Weather, Search, Politics, News, Finance, Sports & Videos",
     "description": "Latest news coverage, email, free stock quotes, live scores and video are just the beginning. Discover more every day at Yahoo!",
     "icon": "https://s.yimg.com/cv/apiv2/09062018/manifest/yahoo_install_512.png"
-  },
-  {
-    "domain": "zoho.com",
-    "name": "Zoho | Cloud Software Suite for Businesses",
-    "description": "More than 90 million users in 150+ countries rely on Zoho to get work done. A unique and powerful business software suite. Try now for free.",
-    "icon": "https://zoho.com/favicon.ico"
   }
 ]
