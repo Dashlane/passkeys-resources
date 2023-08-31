@@ -6,6 +6,12 @@
     "icon": "https://adobe.com/favicon.ico"
   },
   {
+    "domain": "amazon.com",
+    "name": "Amazon.com",
+    "description": "",
+    "icon": "https://amazon.com/favicon.ico"
+  },
+  {
     "domain": "arpari.com",
     "name": "Arpari  - Treasury Management for CRE",
     "description": "Treasury management built for commercial real estate. Seamlessly and securely manage your banking from a single platform.",
@@ -85,7 +91,7 @@
   },
   {
     "domain": "docusign.com",
-    "name": "DocuSign | #1 in Electronic Signature and Agreement Cloud",
+    "name": "DocuSign | #1 in Electronic Signature",
     "description": "DocuSign ensures the security & mobility to digitally transform businesses. Sign docs for free.",
     "icon": "https://docusign.com/themes/custom/cubic/favicon/android-chrome-192x192.png"
   },
@@ -105,7 +111,7 @@
     "domain": "frontegg.com",
     "name": "Frontegg | User Management for modern B2B SaaS",
     "description": "Frontegg is an end-to-end user management platform for B2B SaaS, powering strategies from PLG to enterprise readiness. Easy migration, no credit card required.",
-    "icon": "https://frontegg.com/wp-content/uploads/2021/11/ficon.svg"
+    "icon": "https://frontegg.com/favicon.ico"
   },
   {
     "domain": "github.com",
@@ -121,9 +127,9 @@
   },
   {
     "domain": "godaddy.com",
-    "name": "Access Denied",
-    "description": "",
-    "icon": ""
+    "name": "Domain Names, Websites, Hosting & Online Marketing Tools - GoDaddy",
+    "description": "Your all in one solution to grow online. Start a free trial to create a beautiful website, get a domain name, fast hosting, online marketing and award-winning 24/7 support.",
+    "icon": "https://img6.wsimg.com/ux/favicon/apple-icon-114x114.png"
   },
   {
     "domain": "google.com",
@@ -169,8 +175,8 @@
   },
   {
     "domain": "ivoclar.com",
-    "name": "Ivoclar : Ivoclar",
-    "description": "Ivoclar is a leading international dental company with a comprehensive product and system range for dentists and dental technicians.",
+    "name": "Modern Solutions for Dentists & Technicians | Ivoclar : Ivoclar",
+    "description": "Transform smiles with Ivoclar's innovative dental solutions. Our efficient workflows and revolutionary products deliver exceptional results. Discover Ivoclar. ",
     "icon": "https://ivoclar.com/favicon/android-chrome-310x310.png"
   },
   {
@@ -361,9 +367,9 @@
   },
   {
     "domain": "thehendrixjc.com",
-    "name": "The Hendrix | Jersey City Luxury Rentals | Studio - 3 Bed",
+    "name": "The Hendrix | Jersey City Luxury Rentals | Studio - 3 Bedroom Residences",
     "description": "Culture, arts, & amenities moments from the PATH. An original lifestyle experience with spacious interiors and incredible modern design. Visit Today.",
-    "icon": ""
+    "icon": "https://thehendrixjc.com/favicons/android-icon-192x192.png"
   },
   {
     "domain": "tiktok.com",
