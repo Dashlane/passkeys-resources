@@ -2,7 +2,7 @@
   {
     "domain": "adobe.com",
     "name": "Adobe: Creative, marketing and document management solutions",
-    "description": "Adobe is changing the world through digital experiences. We help our customers create, deliver and optimize content and applications.",
+    "description": "Adobe is changing the world through digital experiences. Powered by generative AI, we help our customers create, deliver & optimize content & applications.",
     "icon": "https://adobe.com/favicon.ico"
   },
   {
@@ -48,12 +48,6 @@
     "icon": "https://bin.bnbstatic.com/static/images/common/favicon.ico"
   },
   {
-    "domain": "boursorama.com",
-    "name": "Actualité économique, Bourse, Banque en ligne - Boursorama",
-    "description": "Découvrez Boursorama, Banque la moins chère et leader de l'information boursière et financière (cours des actions, des indices, des devises, de l'or...)",
-    "icon": "https://boursorama.com/bundles/boursoramaui/images/favicons/android-chrome-512x512.png"
-  },
-  {
     "domain": "bridgecrest.com",
     "name": "Bridgecrest | Car Payment Management & Account Servicing",
     "description": "Keep your vehicle finances on the road to success with Bridgecrest. We make it easy to manage your account online, find convenient payment options, and get assistance when you need it.",
@@ -97,7 +91,7 @@
   },
   {
     "domain": "docusign.com",
-    "name": "DocuSign | #1 in Electronic Signature",
+    "name": "DocuSign | #1 in Electronic Signature and Contract Lifecycle Management",
     "description": "DocuSign ensures the security & mobility to digitally transform businesses. Sign docs for free.",
     "icon": "https://docusign.com/themes/custom/cubic/favicon/android-chrome-192x192.png"
   },
@@ -246,6 +240,12 @@
     "icon": "https://namecheap.com/favicon.ico"
   },
   {
+    "domain": "nintendo.com",
+    "name": "Nintendo Official Site: Consoles, Games, News, and More",
+    "description": "Visit the official Nintendo site to shop for Nintendo Switch™ systems and video games, read the latest news, find fun gear and gifts with a Nintendo twist, and much more.",
+    "icon": "https://assets.nintendo.com/image/upload/ncom/icons/fav-icons/android-chrome-512x512.png"
+  },
+  {
     "domain": "nvidia.com",
     "name": "World Leader in Artificial Intelligence Computing | NVIDIA",
     "description": "NVIDIA invents the GPU and drives advances in AI, HPC, gaming, creative design, autonomous vehicles, and robotics.",
@@ -259,7 +259,7 @@
   },
   {
     "domain": "okta.com",
-    "name": "Identity | Okta",
+    "name": "Employee and Customer Identity Solutions | Okta",
     "description": "Okta's Workforce and Customer Identity Clouds enable secure access, authentication, and automation—putting identity at the heart of business security and growth.",
     "icon": "https://okta.com/favicon.ico"
   },
@@ -277,13 +277,13 @@
   },
   {
     "domain": "passage.1password.com",
-    "name": "Passwordless authentication powered by passkeys | Passage by 1Password",
+    "name": "Passwordless Authentication Powered by Passkeys | Passage by 1Password",
     "description": "Passage provides passwordless authentication that you can add to your app or website with just a few lines of code. Learn more.",
     "icon": "https://assets.website-files.com/64516fef70e3c53e580425b7/64516fef70e3c50a1104266d_Logo-Webclip_Icon%20Only-Light-31.png"
   },
   {
     "domain": "passage.id",
-    "name": "Passwordless authentication powered by passkeys | Passage by 1Password",
+    "name": "Passwordless Authentication Powered by Passkeys | Passage by 1Password",
     "description": "Passage provides passwordless authentication that you can add to your app or website with just a few lines of code. Learn more.",
     "icon": "https://assets.website-files.com/64516fef70e3c53e580425b7/64516fef70e3c50a1104266d_Logo-Webclip_Icon%20Only-Light-31.png"
   },
@@ -418,5 +418,11 @@
     "name": "Yahoo | Mail, Weather, Search, Politics, News, Finance, Sports & Videos",
     "description": "Latest news coverage, email, free stock quotes, live scores and video are just the beginning. Discover more every day at Yahoo!",
     "icon": "https://s.yimg.com/cv/apiv2/09062018/manifest/yahoo_install_512.png"
+  },
+  {
+    "domain": "zoho.com",
+    "name": "Zoho | Cloud Software Suite for Businesses",
+    "description": "More than 90 million users in 150+ countries rely on Zoho to get work done. A unique and powerful business software suite. Try now for free.",
+    "icon": "https://zoho.com/favicon.ico"
   }
 ]
