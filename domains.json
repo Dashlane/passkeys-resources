@@ -234,6 +234,12 @@
     "icon": "https://monespacesante.fr/favicon/android-icon-192x192.png"
   },
   {
+    "domain": "moneyforward.com",
+    "name": "マネーフォワード｜家計簿アプリやクラウド会計ソフト",
+    "description": "\\テレビCM放送中/ すべての人のお金のプラットフォーム MoneyForward - お金・資産管理なら家計簿アプリ「マネーフォワード ME (ミー)」を今すぐダウンロード！法人・個人事業主向け「マネーフォワード クラウド」で会計ソフトなどバックオフィス効率化も",
+    "icon": "https://assets.moneyforward.com/assets/favicon-710b014dd04a85070bb0a55fa894b599015b5310333d38da9c85ad03594bbc20.ico"
+  },
+  {
     "domain": "namecheap.com",
     "name": "Buy a domain name - Register cheap domain names from $0.99 - Namecheap",
     "description": "Register domain names at Namecheap. Buy cheap domain names and enjoy 24/7 support. With over 16 million domains under management, you know you’re in good hands.",
@@ -418,11 +424,5 @@
     "name": "Yahoo | Mail, Weather, Search, Politics, News, Finance, Sports & Videos",
     "description": "Latest news coverage, email, free stock quotes, live scores and video are just the beginning. Discover more every day at Yahoo!",
     "icon": "https://s.yimg.com/cv/apiv2/09062018/manifest/yahoo_install_512.png"
-  },
-  {
-    "domain": "zoho.com",
-    "name": "Zoho | Cloud Software Suite for Businesses",
-    "description": "More than 90 million users in 150+ countries rely on Zoho to get work done. A unique and powerful business software suite. Try now for free.",
-    "icon": "https://zoho.com/favicon.ico"
   }
 ]
