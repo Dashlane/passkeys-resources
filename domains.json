@@ -306,12 +306,6 @@
     "icon": "https://passkeys.guru/assets/favicon.746293d2.svg"
   },
   {
-    "domain": "pastery.net",
-    "name": "Pastery - The sweetest pastebin in the world!",
-    "description": "Pastery is the sweetest pastebin in the world. Pastery is a secure website where you can store text online for a set period of time.",
-    "icon": "https://pastery.net/static/images/icons/android-chrome-512x512.png"
-  },
-  {
     "domain": "payfit.com",
     "name": "Payroll Software That's Smart, Simple & Stress-Free | PayFit",
     "description": "HMRC-recognised, PayFit combines best-in-class payroll software with expert support. Automate your payroll & HR admin and save time.",
@@ -385,8 +379,8 @@
   },
   {
     "domain": "tiktok.com",
-    "name": "Explore - Find your favourite videos on TikTok",
-    "description": "Discover the latest TikTok videos on our Explore page. Stay up-to-date on the latest trends and explore your interests here!",
+    "name": "TikTok - Make Your Day",
+    "description": "TikTok - trends start here. On a device or on the web, viewers can watch and discover millions of personalized short videos. Download the app to get started.",
     "icon": "https://sf16-sg.tiktokcdn.com/obj/eden-sg/uvkuhyieh7lpqpbj/pwa/512x512.png"
   },
   {
