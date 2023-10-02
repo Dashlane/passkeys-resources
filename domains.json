@@ -48,6 +48,12 @@
     "icon": "https://bin.bnbstatic.com/static/images/common/favicon.ico"
   },
   {
+    "domain": "boursorama.com",
+    "name": "Actualité économique, Bourse, Banque en ligne - Boursorama",
+    "description": "Découvrez Boursorama, Banque la moins chère et leader de l'information boursière et financière (cours des actions, des indices, des devises, de l'or...)",
+    "icon": "https://boursorama.com/bundles/boursoramaui/images/favicons/android-chrome-512x512.png"
+  },
+  {
     "domain": "bridgecrest.com",
     "name": "Bridgecrest | Car Payment Management & Account Servicing",
     "description": "Keep your vehicle finances on the road to success with Bridgecrest. We make it easy to manage your account online, find convenient payment options, and get assistance when you need it.",
@@ -70,6 +76,12 @@
     "name": "Cloudflare - The Web Performance & Security Company | Cloudflare",
     "description": "Here at Cloudflare, we make the Internet work the way it should. Offering CDN, DNS, DDoS protection and security, find out how we can help your site.",
     "icon": "https://cloudflare.com/favicon.ico"
+  },
+  {
+    "domain": "coinbase.com",
+    "name": "Just a moment...",
+    "description": "",
+    "icon": "https://coinbase.com/favicon.ico"
   },
   {
     "domain": "corbado.com",
@@ -306,6 +318,12 @@
     "icon": "https://passkeys.guru/assets/favicon.746293d2.svg"
   },
   {
+    "domain": "pastery.net",
+    "name": "Pastery - The sweetest pastebin in the world!",
+    "description": "Pastery is the sweetest pastebin in the world. Pastery is a secure website where you can store text online for a set period of time.",
+    "icon": "https://pastery.net/static/images/icons/android-chrome-512x512.png"
+  },
+  {
     "domain": "payfit.com",
     "name": "Payroll Software That's Smart, Simple & Stress-Free | PayFit",
     "description": "HMRC-recognised, PayFit combines best-in-class payroll software with expert support. Automate your payroll & HR admin and save time.",
@@ -379,8 +397,8 @@
   },
   {
     "domain": "tiktok.com",
-    "name": "TikTok - Make Your Day",
-    "description": "TikTok - trends start here. On a device or on the web, viewers can watch and discover millions of personalized short videos. Download the app to get started.",
+    "name": "Explore - Find your favourite videos on TikTok",
+    "description": "Discover the latest TikTok videos on our Explore page. Stay up-to-date on the latest trends and explore your interests here!",
     "icon": "https://sf16-sg.tiktokcdn.com/obj/eden-sg/uvkuhyieh7lpqpbj/pwa/512x512.png"
   },
   {
@@ -418,5 +436,11 @@
     "name": "Yahoo | Mail, Weather, Search, Politics, News, Finance, Sports & Videos",
     "description": "Latest news coverage, email, free stock quotes, live scores and video are just the beginning. Discover more every day at Yahoo!",
     "icon": "https://s.yimg.com/cv/apiv2/09062018/manifest/yahoo_install_512.png"
+  },
+  {
+    "domain": "zoho.com",
+    "name": "Zoho | Cloud Software Suite for Businesses",
+    "description": "A unique and powerful software suite for businesses of all sizes. With 55+ applications, Zoho caters to 100 million+ users for their end-to-end business needs.",
+    "icon": "https://zoho.com/favicon.ico"
   }
 ]
