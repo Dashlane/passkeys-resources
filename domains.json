@@ -20,7 +20,7 @@
   {
     "domain": "apple.com",
     "name": "Apple",
-    "description": "",
+    "description": "Discover the innovative world of Apple and shop everything iPhone, iPad, Apple Watch, Mac, and Apple TV, plus explore accessories, entertainment, and expert device support.",
     "icon": "https://apple.com/favicon.ico"
   },
   {
@@ -198,6 +198,12 @@
     "icon": "https://ivoclar.com/favicon/android-chrome-310x310.png"
   },
   {
+    "domain": "justpass.me",
+    "name": "justpass.me Passkeys in Minutes",
+    "description": "Justpass.me provides passkeys as a service for both web apps and mobile apps over openID Connect Protocol. It supports Firebase as well.",
+    "icon": "https://www.justpass.me/images/justpass_logo.png"
+  },
+  {
     "domain": "kayak.com",
     "name": "Search Flights, Hotels & Rental Cars | KAYAK",
     "description": "KAYAK searches hundreds of other travel sites at once to find the information you need to make the right decisions on flights, hotels & rental cars.",
@@ -290,7 +296,7 @@
   {
     "domain": "omg.lol",
     "name": "omg.lol - A lovable web page and email address, just for you",
-    "description": "",
+    "description": "Treat yourself to an awesome web address, a devastatingly gorgeous profile page, a stellar email address, and tons more",
     "icon": "https://cdn.cache.lol/favicons/omg.lol/apple-touch-icon.png"
   },
   {
@@ -339,7 +345,7 @@
     "domain": "paypal.com",
     "name": "",
     "description": "",
-    "icon": "https://paypal.com/favicon.ico"
+    "icon": ""
   },
   {
     "domain": "porkbun.com",
@@ -356,7 +362,7 @@
   {
     "domain": "rad.dad",
     "name": "rad.dad — Rad email, web address, and DNS",
-    "description": "",
+    "description": "Rad internet tech for dads and non-dads alike",
     "icon": "https://rad.dad/favicon.ico"
   },
   {
@@ -396,6 +402,12 @@
     "icon": "https://tailscale.com/files/apple-touch-icon.png"
   },
   {
+    "domain": "thehendrixjc.com",
+    "name": "The Hendrix | Jersey City Luxury Rentals | Studio - 3 Bedroom Residences",
+    "description": "Culture, arts, & amenities moments from the PATH. An original lifestyle experience with spacious interiors and incredible modern design. Visit Today.",
+    "icon": "https://thehendrixjc.com/favicons/android-icon-192x192.png"
+  },
+  {
     "domain": "tiktok.com",
     "name": "Explore - Find your favourite videos on TikTok",
     "description": "Discover the latest TikTok videos on our Explore page. Stay up-to-date on the latest trends and explore your interests here!",
@@ -422,7 +434,7 @@
   {
     "domain": "webauthn.io",
     "name": "WebAuthn.io",
-    "description": "",
+    "description": "Demonstration of the WebAuthn specification.",
     "icon": "https://webauthn.io/static/images/favicon.png"
   },
   {
@@ -436,5 +448,11 @@
     "name": "Yahoo | Mail, Weather, Search, Politics, News, Finance, Sports & Videos",
     "description": "Latest news coverage, email, free stock quotes, live scores and video are just the beginning. Discover more every day at Yahoo!",
     "icon": "https://s.yimg.com/cv/apiv2/09062018/manifest/yahoo_install_512.png"
+  },
+  {
+    "domain": "zoho.com",
+    "name": "Zoho | Cloud Software Suite for Businesses",
+    "description": "A unique and powerful software suite for businesses of all sizes. With 55+ applications, Zoho caters to 100 million+ users for their end-to-end business needs.",
+    "icon": "https://zoho.com/favicon.ico"
   }
 ]
