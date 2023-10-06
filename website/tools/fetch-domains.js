@@ -13,9 +13,20 @@ async function fetchDomainInfo(domain, debug = false) {
     try {
         const protocol = 'https://';
         const url = new URL(domain.startsWith('http') ? domain : protocol + domain);
-        const baseUrl = url.origin;
 
-        const response = await axios.get(url.href, axiosOptions);
+        const wwwUrl = new URL(domain.startsWith('http') ? domain : protocol + 'www.' + domain);
+
+        let response;
+        try {
+            response = await axios.get(url.href, axiosOptions);
+        } catch (error) {
+            if (error.code !== 'ECONNRESET') {
+                throw error;
+            }
+            // if the root domain is not accessible we fallback to www.
+            response = await axios.get(wwwUrl.href, axiosOptions);
+        }
+
         const html = response.data;
 
         const dom = new JSDOM(html);
@@ -24,10 +35,12 @@ async function fetchDomainInfo(domain, debug = false) {
         const titleElement = document.querySelector('title');
         const title = titleElement ? titleElement.textContent : '';
 
-        const descriptionElement = document.querySelector('meta[name="description"]');
+        const descriptionElement = document.querySelector('meta[name="description"]')
+            ?? document.querySelector('meta[name="Description"]')
+            ?? document.querySelector('meta[property="og:description"]');
         const description = descriptionElement ? descriptionElement.getAttribute('content') : '';
 
-        const icons = await getIcons(document, baseUrl, debug);
+        const icons = await getIcons(document, response.config.url, debug);
 
         const bestQualityIcon = await findBestAccessibleIcon(icons, debug);
 
@@ -109,7 +122,7 @@ async function findBestAccessibleIcon(icons, debug = false) {
         try {
             const response = await axios.head(icon);
             if (response.status === 200) {
-                const { size } = await getIconSize(icon);
+                const { size } = await getIconSize(icon, debug);
                 if (size > bestIconSize) {
                     bestIcon = icon;
                     bestIconSize = size;
@@ -126,7 +139,7 @@ async function findBestAccessibleIcon(icons, debug = false) {
     return bestIcon || '';
 }
 
-async function getIconSize(iconUrl) {
+async function getIconSize(iconUrl, debug = false) {
     try {
         const response = await axios.get(iconUrl, { responseType: 'arraybuffer', ...axiosOptions });
         const buffer = Buffer.from(response.data, 'binary');
@@ -134,35 +147,41 @@ async function getIconSize(iconUrl) {
         const size = dimensions.width * dimensions.height;
         return { size, width: dimensions.width, height: dimensions.height };
     } catch (error) {
-        console.error(`Error retrieving icon size for ${iconUrl}:`, error);
+        if (debug) {
+            console.error(`Error retrieving icon size for ${iconUrl}:`, error);
+        }
         throw new Error(`Failed to retrieve icon size for ${iconUrl}`);
     }
 }
 
 async function processDomains(inputFile, outputFile, debug = false) {
-    try {
-        const data = await fs.readFile(inputFile, 'utf8');
-        const domains = JSON.parse(data);
+    const data = await fs.readFile(inputFile, 'utf8');
+    const domains = JSON.parse(data);
 
-        const results = [];
+    const results = [];
 
-        for (const domain of domains) {
-            const result = await fetchDomainInfo(domain, debug);
-            if (result) {
-                results.push(result);
-            }
+    for (const domain of domains) {
+        const result = await fetchDomainInfo(domain, debug);
+        console.log(domain, result);
+        if (result) {
+            results.push(result);
         }
-
-        const jsonOutput = JSON.stringify(results, null, 2);
-        await fs.writeFile(outputFile, jsonOutput);
-        console.log(`Output written to ${outputFile}`);
-    } catch (error) {
-        console.error('Error processing domains:', error);
     }
+
+    const jsonOutput = JSON.stringify(results, null, 2);
+    await fs.writeFile(outputFile, jsonOutput);
+    console.log(`Output written to ${outputFile}`);
 }
 
-// Usage example
 const inputFile = '../resources/compatible-domains.json';
 const outputFile = 'public/domains.json';
 const debug = process.argv.includes('--debug');
-processDomains(inputFile, outputFile, debug);
+
+(async () => {
+    try {
+        await processDomains(inputFile, outputFile, debug);
+    } catch (error) {
+        console.error('Error processing domains:', error);
+        process.exit(1);
+    }
+})();
