@@ -18,6 +18,12 @@
     "icon": "https://amazon.com/favicon.ico"
   },
   {
+    "domain": "apple.com",
+    "name": "Apple",
+    "description": "",
+    "icon": "https://apple.com/favicon.ico"
+  },
+  {
     "domain": "arpari.com",
     "name": "Arpari  - Treasury Management for CRE",
     "description": "Treasury management built for commercial real estate. Seamlessly and securely manage your banking from a single platform.",
@@ -390,12 +396,6 @@
     "icon": "https://tailscale.com/files/apple-touch-icon.png"
   },
   {
-    "domain": "thehendrixjc.com",
-    "name": "The Hendrix | Jersey City Luxury Rentals | Studio - 3 Bedroom Residences",
-    "description": "Culture, arts, & amenities moments from the PATH. An original lifestyle experience with spacious interiors and incredible modern design. Visit Today.",
-    "icon": "https://thehendrixjc.com/favicons/android-icon-192x192.png"
-  },
-  {
     "domain": "tiktok.com",
     "name": "Explore - Find your favourite videos on TikTok",
     "description": "Discover the latest TikTok videos on our Explore page. Stay up-to-date on the latest trends and explore your interests here!",
@@ -436,11 +436,5 @@
     "name": "Yahoo | Mail, Weather, Search, Politics, News, Finance, Sports & Videos",
     "description": "Latest news coverage, email, free stock quotes, live scores and video are just the beginning. Discover more every day at Yahoo!",
     "icon": "https://s.yimg.com/cv/apiv2/09062018/manifest/yahoo_install_512.png"
-  },
-  {
-    "domain": "zoho.com",
-    "name": "Zoho | Cloud Software Suite for Businesses",
-    "description": "A unique and powerful software suite for businesses of all sizes. With 55+ applications, Zoho caters to 100 million+ users for their end-to-end business needs.",
-    "icon": "https://zoho.com/favicon.ico"
   }
 ]
