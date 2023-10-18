@@ -3,25 +3,25 @@
     "domain": "adobe.com",
     "name": "Adobe: Creative, marketing and document management solutions",
     "description": "Adobe is changing the world through digital experiences. We help our customers create, deliver and optimize content and applications.",
-    "icon": "https://adobe.com/favicon.ico"
+    "icon": "https://www.adobe.com/favicon.ico"
   },
   {
     "domain": "airnewzealand.com",
     "name": "Air New Zealand – United States Official Site",
     "description": "Get on board with Air New Zealand for cheap flights to New Zealand, Australia and the Pacific Islands. Direct flights to New Zealand from Los Angeles, San Francisco, Houston, Chicago, Honolulu & New York.",
-    "icon": "https://airnewzealand.com/koru-icon-256.png"
+    "icon": "https://www.airnewzealand.com/koru-icon-256.png"
   },
   {
     "domain": "amazon.com",
     "name": "Amazon.com",
     "description": "",
-    "icon": "https://amazon.com/favicon.ico"
+    "icon": "https://www.amazon.com/favicon.ico"
   },
   {
     "domain": "apple.com",
     "name": "Apple",
     "description": "Discover the innovative world of Apple and shop everything iPhone, iPad, Apple Watch, Mac, and Apple TV, plus explore accessories, entertainment, and expert device support.",
-    "icon": "https://apple.com/favicon.ico"
+    "icon": "https://www.apple.com/favicon.ico"
   },
   {
     "domain": "arpari.com",
@@ -36,10 +36,16 @@
     "icon": "https://assets-global.website-files.com/60658b46b03f0cf83ac1485d/61a4932314defdf4873e2231_ag-favicon-touch.png"
   },
   {
+    "domain": "bestbuy.com",
+    "name": "",
+    "description": "",
+    "icon": ""
+  },
+  {
     "domain": "beyondidentity.com",
     "name": "Beyond Identity | Secure MFA for Workforces and Customers",
     "description": "The industry’s most secure phishing-resistant MFA provides a frictionless and passwordless experience that protects your critical resources.",
-    "icon": "https://beyondidentity.com/icon/android-icon-192x192.png"
+    "icon": "https://www.beyondidentity.com/icon/android-icon-192x192.png"
   },
   {
     "domain": "binance.com",
@@ -51,13 +57,13 @@
     "domain": "boursorama.com",
     "name": "Actualité économique, Bourse, Banque en ligne - Boursorama",
     "description": "Découvrez Boursorama, Banque la moins chère et leader de l'information boursière et financière (cours des actions, des indices, des devises, de l'or...)",
-    "icon": "https://boursorama.com/bundles/boursoramaui/images/favicons/android-chrome-512x512.png"
+    "icon": ""
   },
   {
     "domain": "bridgecrest.com",
     "name": "Bridgecrest | Car Payment Management & Account Servicing",
     "description": "Keep your vehicle finances on the road to success with Bridgecrest. We make it easy to manage your account online, find convenient payment options, and get assistance when you need it.",
-    "icon": "https://bridgecrest.com/favicon.ico"
+    "icon": "https://www2.bridgecrest.com/assets/icon/favicon.png"
   },
   {
     "domain": "cardpointers.com",
@@ -69,19 +75,19 @@
     "domain": "carnival.com",
     "name": "\n\tCruises | Carnival Cruise Deals: Caribbean, Bahamas, Alaska, Mexico\n",
     "description": "Carnival cruise deals and cruise packages to the most popular destinations. Find great deals and specials on Caribbean, The Bahamas, Alaska, and Mexico cruises. ",
-    "icon": "https://carnival.com/apple-touch-icon.png"
+    "icon": "https://www.carnival.com/apple-touch-icon.png"
   },
   {
     "domain": "cloudflare.com",
     "name": "Cloudflare - The Web Performance & Security Company | Cloudflare",
     "description": "Here at Cloudflare, we make the Internet work the way it should. Offering CDN, DNS, DDoS protection and security, find out how we can help your site.",
-    "icon": "https://cloudflare.com/favicon.ico"
+    "icon": "https://www.cloudflare.com/favicon.ico"
   },
   {
     "domain": "coinbase.com",
-    "name": "Just a moment...",
+    "name": "",
     "description": "",
-    "icon": "https://coinbase.com/favicon.ico"
+    "icon": ""
   },
   {
     "domain": "corbado.com",
@@ -93,7 +99,7 @@
     "domain": "cutx.org",
     "name": "\n      Credit Union of Texas | Better Banking, Auto Loans, Mortgage, Refinancing\n    ",
     "description": "Checking accounts with perks you won't find at a bank. The best rates on mortgages, auto loans, refinancing, & more. We're banking with a purpose at CUTX.",
-    "icon": "https://cutx.org/favicon.ico"
+    "icon": "https://www.cutx.org/favicon.ico"
   },
   {
     "domain": "dinero.dk",
@@ -105,7 +111,7 @@
     "domain": "docusign.com",
     "name": "DocuSign | #1 in Electronic Signature and Contract Lifecycle Management",
     "description": "DocuSign ensures the security & mobility to digitally transform businesses. Sign docs for free.",
-    "icon": "https://docusign.com/themes/custom/cubic/favicon/android-chrome-192x192.png"
+    "icon": "https://www.docusign.com/themes/custom/cubic/favicon/android-chrome-192x192.png"
   },
   {
     "domain": "ebay.com",
@@ -135,11 +141,11 @@
     "domain": "gitlab.com",
     "name": "The DevSecOps Platform | GitLab",
     "description": "From planning to production, bring teams together in one application. Ship secure code more efficiently to deliver value faster.",
-    "icon": "https://gitlab.com/favicon.ico"
+    "icon": "https://about.gitlab.com/nuxt-images/ico/favicon-192x192.png?cache=2022041"
   },
   {
     "domain": "godaddy.com",
-    "name": "Access Denied",
+    "name": "",
     "description": "",
     "icon": ""
   },
@@ -147,7 +153,7 @@
     "domain": "google.com",
     "name": "Google",
     "description": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking for.",
-    "icon": "https://google.com/favicon.ico"
+    "icon": "https://www.google.com/favicon.ico"
   },
   {
     "domain": "hanko.io",
@@ -165,7 +171,7 @@
     "domain": "homedepot.com",
     "name": "The Home Depot",
     "description": "Shop online for all your home improvement needs: appliances, bathroom decorating ideas, kitchen remodeling, patio furniture, power tools, bbq grills, carpeting, lumber, concrete, lighting, ceiling fans and more at The Home Depot.",
-    "icon": "https://homedepot.com/favicon.ico"
+    "icon": "https://www.homedepot.com/favicon.ico"
   },
   {
     "domain": "horizon.pics",
@@ -174,8 +180,20 @@
     "icon": "https://horizon.pics/logo/horizon_discord.png"
   },
   {
+    "domain": "hyatt.com",
+    "name": "",
+    "description": "",
+    "icon": ""
+  },
+  {
+    "domain": "hyatt.com",
+    "name": "",
+    "description": "",
+    "icon": ""
+  },
+  {
     "domain": "id.moneyforward.com",
-    "name": "マネーフォワード ID",
+    "name": "Money Forward ID",
     "description": "",
     "icon": "https://moneyforward.com/assets/apple-touch-icon-precomposed.png"
   },
@@ -187,9 +205,9 @@
   },
   {
     "domain": "ivoclar.com",
-    "name": "Modern Solutions for Dentists & Technicians | Ivoclar : Ivoclar",
-    "description": "Transform smiles with Ivoclar's innovative dental solutions. Our efficient workflows and revolutionary products deliver exceptional results. Discover Ivoclar. ",
-    "icon": "https://ivoclar.com/favicon/android-chrome-310x310.png"
+    "name": "",
+    "description": "",
+    "icon": ""
   },
   {
     "domain": "justpass.me",
@@ -201,7 +219,13 @@
     "domain": "kayak.com",
     "name": "Search Flights, Hotels & Rental Cars | KAYAK",
     "description": "KAYAK searches hundreds of other travel sites at once to find the information you need to make the right decisions on flights, hotels & rental cars.",
-    "icon": "https://kayak.com/apple-touch-icon.png"
+    "icon": "https://www.kayak.com/apple-touch-icon.png"
+  },
+  {
+    "domain": "kenwoodworld.com",
+    "name": "",
+    "description": "",
+    "icon": ""
   },
   {
     "domain": "laakari.chat",
@@ -231,11 +255,11 @@
     "domain": "marketcircle.com",
     "name": "Award-Winning Mac CRM Software for Your Small Business | Daylite",
     "description": "Daylite is a leading Mac CRM software for your small business, helping teams manage more clients, close more deals, & complete more projects. Schedule a demo!",
-    "icon": "https://marketcircle.com/assets/img/daylite-icon.png"
+    "icon": "https://www.marketcircle.com/assets/img/daylite-icon.png"
   },
   {
     "domain": "marshmallow-qa.com",
-    "name": "Just a moment...",
+    "name": "",
     "description": "",
     "icon": ""
   },
@@ -243,13 +267,13 @@
     "domain": "microsoft.com",
     "name": "Microsoft – Cloud, Computers, Apps & Gaming",
     "description": "Explore Microsoft products and services for your home or business. Shop Surface, Microsoft 365, Xbox, Windows, Azure, and more. Find downloads and get support.",
-    "icon": "https://microsoft.com/favicon.ico"
+    "icon": "https://www.microsoft.com/favicon.ico"
   },
   {
     "domain": "monespacesante.fr",
     "name": "Mon espace santé",
     "description": "",
-    "icon": "https://monespacesante.fr/favicon/android-icon-192x192.png"
+    "icon": "https://www.monespacesante.fr/favicon/android-icon-192x192.png"
   },
   {
     "domain": "moneyforward.com",
@@ -261,7 +285,7 @@
     "domain": "namecheap.com",
     "name": "Buy a domain name - Register cheap domain names from $0.99 - Namecheap",
     "description": "Register domain names at Namecheap. Buy cheap domain names and enjoy 24/7 support. With over 16 million domains under management, you know you’re in good hands.",
-    "icon": "https://namecheap.com/favicon.ico"
+    "icon": "https://www.namecheap.com/favicon.ico"
   },
   {
     "domain": "nintendo.com",
@@ -271,9 +295,9 @@
   },
   {
     "domain": "nvidia.com",
-    "name": "World Leader in Artificial Intelligence Computing | NVIDIA",
-    "description": "NVIDIA invents the GPU and drives advances in AI, HPC, gaming, creative design, autonomous vehicles, and robotics.",
-    "icon": "https://nvidia.com/favicon.ico"
+    "name": "",
+    "description": "",
+    "icon": ""
   },
   {
     "domain": "offshoot.rentals",
@@ -285,7 +309,7 @@
     "domain": "okta.com",
     "name": "Employee and Customer Identity Solutions | Okta",
     "description": "Okta's Workforce and Customer Identity Clouds enable secure access, authentication, and automation—putting identity at the heart of business security and growth.",
-    "icon": "https://okta.com/favicon.ico"
+    "icon": "https://www.okta.com/favicon.ico"
   },
   {
     "domain": "omg.lol",
@@ -327,7 +351,7 @@
     "domain": "pastery.net",
     "name": "Pastery - The sweetest pastebin in the world!",
     "description": "Pastery is the sweetest pastebin in the world. Pastery is a secure website where you can store text online for a set period of time.",
-    "icon": "https://pastery.net/static/images/icons/android-chrome-512x512.png"
+    "icon": "https://www.pastery.net/static/images/icons/apple-touch-icon.0926d8b47fbb.png"
   },
   {
     "domain": "payfit.com",
@@ -337,9 +361,9 @@
   },
   {
     "domain": "paypal.com",
-    "name": "",
-    "description": "",
-    "icon": "https://paypal.com/favicon.ico"
+    "name": "Digital Wallets, Money Management, and More | PayPal US",
+    "description": "PayPal is the faster, safer way to send and receive money or make an online payment. Get started or create a merchant account to accept payments.",
+    "icon": "https://www.paypalobjects.com/webstatic/icon/pp196.png"
   },
   {
     "domain": "porkbun.com",
@@ -386,8 +410,8 @@
   {
     "domain": "synology.com",
     "name": "Synology Inc.",
-    "description": "Synology uniquely enables you to manage, secure, and protect your data - at the scale needed to accommodate the exponential data growth of the digital world.",
-    "icon": "https://synology.com/img/icon/touch-icon-57.png"
+    "description": "Synology uniquely enables you to manage, secure, and protect your data – at the scale needed to accommodate the exponential data growth of the digital world.",
+    "icon": "https://www.synology.com/img/icon/touch-icon-57.png"
   },
   {
     "domain": "tailscale.com",
@@ -397,9 +421,9 @@
   },
   {
     "domain": "thehendrixjc.com",
-    "name": "The Hendrix | Jersey City Luxury Rentals | Studio - 3 Bedroom Residences",
-    "description": "Culture, arts, & amenities moments from the PATH. An original lifestyle experience with spacious interiors and incredible modern design. Visit Today.",
-    "icon": "https://thehendrixjc.com/favicons/android-icon-192x192.png"
+    "name": "",
+    "description": "",
+    "icon": ""
   },
   {
     "domain": "tiktok.com",
@@ -414,6 +438,12 @@
     "icon": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_192,h_192/https://www.trusona.com/wp-content/uploads/2021/01/cropped-Trusona-PurpleFav-500-192x192.png"
   },
   {
+    "domain": "uber.com",
+    "name": "Explore the Uber Platform | Uber United States",
+    "description": "Learn how you can leverage the Uber platform and apps to earn more, eat, commute, get a ride, simplify business travel, and more.",
+    "icon": "https://d3i4yxtzktqr9n.cloudfront.net/uber-sites/bafeeed0a39bd111.png"
+  },
+  {
     "domain": "vaultvision.com",
     "name": "User Authentication Platform & Passwordless Logins - Vault Vision",
     "description": "No code user authentication platform for React, Node, Python, Go and Webflow powered websites, with one-click passwordless logins and expert setup help.",
@@ -423,7 +453,7 @@
     "domain": "virginmedia.com",
     "name": "Virgin Media | Broadband & Cable Deals  - See What You Can Do",
     "description": "Welcome to Virgin Media, home of Superfast broadband, TV, landline & mobile deals. Working hard to help connect the nation, shop our offers and order online.",
-    "icon": "https://virginmedia.com/favicon.ico"
+    "icon": "https://www.virginmedia.com/favicon.ico"
   },
   {
     "domain": "webauthn.io",
@@ -447,6 +477,6 @@
     "domain": "zoho.com",
     "name": "Zoho | Cloud Software Suite for Businesses",
     "description": "A unique and powerful software suite for businesses of all sizes. With 55+ applications, Zoho caters to 100 million+ users for their end-to-end business needs.",
-    "icon": "https://www.zohowebstatic.com/sites/zweb/images/favicon.ico"
+    "icon": "https://www.zoho.com/favicon.ico"
   }
 ]
