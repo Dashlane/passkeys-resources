@@ -33,13 +33,7 @@
     "domain": "authgear.com",
     "name": "Authgear - Secure and Simple User Management",
     "description": "Add secure and user friendly authentication, authorization and user management to your web and mobile apps in minutes.",
-    "icon": "https://uploads-ssl.webflow.com/60658b46b03f0cf83ac1485d/61a4932314defdf4873e2231_ag-favicon-touch.png"
-  },
-  {
-    "domain": "bestbuy.com",
-    "name": "Best Buy | Official Online Store | Shop Now & Save",
-    "description": "Shop Best Buy for electronics, computers, appliances, cell phones, video games & more new tech. In-store pickup & free 2-day shipping on thousands of items.",
-    "icon": "https://bestbuy.com/favicon.ico"
+    "icon": "https://assets-global.website-files.com/60658b46b03f0cf83ac1485d/61a4932314defdf4873e2231_ag-favicon-touch.png"
   },
   {
     "domain": "beyondidentity.com",
@@ -93,7 +87,7 @@
     "domain": "corbado.com",
     "name": "Corbado - We help you bring passkeys to your customers",
     "description": "We help you transition all your customers and take care of cross-platform and cross-device aspects. Provide the most secure and most convienent passwordless authentication with passkeys to onboard, authenticate and engage users. Boost your conversion rates and improve the user experience.",
-    "icon": "https://uploads-ssl.webflow.com/626a572dd59ab59d107b26c6/628529d647ae6e42b0542c23_Favicon_256x256_Corbado.png"
+    "icon": "https://assets-global.website-files.com/626a572dd59ab59d107b26c6/628529d647ae6e42b0542c23_Favicon_256x256_Corbado.png"
   },
   {
     "domain": "cutx.org",
@@ -123,7 +117,7 @@
     "domain": "formx.ai",
     "name": "FormX.ai - Form and Document Extractor with AI",
     "description": "FormX.ai is a service that transforms physical documents to digital structured data with AI technology.",
-    "icon": "https://uploads-ssl.webflow.com/5f102a848635195a643b1e08/61a4931b644bf7799a1d8455_fx-favicon-touch.png"
+    "icon": "https://assets-global.website-files.com/5f102a848635195a643b1e08/61a4931b644bf7799a1d8455_fx-favicon-touch.png"
   },
   {
     "domain": "frontegg.com",
@@ -145,9 +139,9 @@
   },
   {
     "domain": "godaddy.com",
-    "name": "Domain Names, Websites, Hosting & Online Marketing Tools - GoDaddy",
-    "description": "Your all in one solution to grow online. Start a free trial to create a beautiful website, get a domain name, fast hosting, online marketing and award-winning 24/7 support.",
-    "icon": "https://img6.wsimg.com/ux/favicon/apple-icon-114x114.png"
+    "name": "Access Denied",
+    "description": "",
+    "icon": ""
   },
   {
     "domain": "google.com",
@@ -159,7 +153,7 @@
     "domain": "hanko.io",
     "name": "Hanko - Open authentication for the passkey era",
     "description": "Use Hanko to build a login that's passwordless, secure, and grows with you.",
-    "icon": "https://uploads-ssl.webflow.com/5e6f5bf4a2ae9702a833f3ee/5e8cbd73d2b1fa2ae262c716_Webclip_256x256.png"
+    "icon": "https://assets-global.website-files.com/5e6f5bf4a2ae9702a833f3ee/5e8cbd73d2b1fa2ae262c716_Webclip_256x256.png"
   },
   {
     "domain": "haeppie.com",
@@ -223,8 +217,8 @@
   },
   {
     "domain": "magic.link",
-    "name": "Magic | Web3 Auth & Key Management SDKs | Magic",
-    "description": "Onboard users to your dApp with just an email, phone number, or social login. Multi-chain, highly scalable, and battle-tested.",
+    "name": "Magic | The leading wallet-as-a-service plus essential NFT capabilities | Magic",
+    "description": "Unlock the benefits of web3 with highly scalable, battle-tested, secure wallet infrastructure",
     "icon": "https://magic.link/favicon.ico"
   },
   {
@@ -345,7 +339,7 @@
     "domain": "paypal.com",
     "name": "",
     "description": "",
-    "icon": ""
+    "icon": "https://paypal.com/favicon.ico"
   },
   {
     "domain": "porkbun.com",
@@ -453,6 +447,6 @@
     "domain": "zoho.com",
     "name": "Zoho | Cloud Software Suite for Businesses",
     "description": "A unique and powerful software suite for businesses of all sizes. With 55+ applications, Zoho caters to 100 million+ users for their end-to-end business needs.",
-    "icon": "https://zoho.com/favicon.ico"
+    "icon": "https://www.zohowebstatic.com/sites/zweb/images/favicon.ico"
   }
 ]
