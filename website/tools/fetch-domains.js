@@ -5,13 +5,12 @@ const imageSize = require('image-size');
 
 const axiosInstance = axios.create();
 axiosInstance.defaults.maxRedirects = 0; // Set to 0 to prevent automatic redirects
-axiosInstance.defaults.timeout = 5000; // Set to 5 seconds
+axiosInstance.defaults.timeout = 1000; // Set to 1 second
 axiosInstance.defaults.adapter = 'http';
 axiosInstance.defaults.headers['Accept'] = 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8';
 axiosInstance.defaults.headers['Accept-Encoding'] = 'gzip, deflate, br';
 axiosInstance.defaults.headers['Accept-Language'] = 'en-US,en;q=1';
 axiosInstance.defaults.headers['Cache-Control'] = 'no-cache';
-axiosInstance.defaults.headers['User-Agent'] = 'Chrome/90.0.4430.212 Safari/537.36';
 axiosInstance.interceptors.response.use(
     response => response,
     error => {
@@ -29,7 +28,7 @@ axiosInstance.interceptors.response.use(
 );
 
 const axiosIconsOptions = {
-    timeout: 5000, maxRedirects: 10, validateStatus: function (status) {
+    timeout: 500, maxRedirects: 5, validateStatus: (status) => {
         return status >= 200 && status < 300 || status == 403;
     }
 };
@@ -46,24 +45,11 @@ async function fetchDomainInfo(domain, debug = false) {
             response = await axiosInstance.get(url.href);
         } catch (error) {
             if (debug) {
-                console.error('Error in the initial request', error.response);
+                console.error('Error in the initial request', error);
             }
 
-            try {
-                // if the root domain is not accessible we fallback to www.
-                response = await axiosInstance.get(wwwUrl.href);
-            } catch (error) {
-                if (debug) {
-                    console.error('Error in the fallback request', error.response);
-                }
-
-                return {
-                    domain,
-                    name: null,
-                    description: null,
-                    icon: '',
-                };
-            }
+            // if the root domain is not accessible we fallback to www.
+            response = await axiosInstance.get(wwwUrl.href);
         }
 
         const html = response.data;
@@ -93,7 +79,13 @@ async function fetchDomainInfo(domain, debug = false) {
         if (debug) {
             console.error(`Error fetching domain ${domain}:`, error);
         }
-        return null;
+
+        return {
+            domain,
+            name: '',
+            description: '',
+            icon: '',
+        };
     }
 }
 
