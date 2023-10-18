@@ -3,8 +3,33 @@ const axios = require('axios');
 const { JSDOM } = require('jsdom');
 const imageSize = require('image-size');
 
-const axiosOptions = {
-    timeout: 5000, maxRedirects: 5, validateStatus: function (status) {
+const axiosInstance = axios.create();
+axiosInstance.defaults.maxRedirects = 0; // Set to 0 to prevent automatic redirects
+axiosInstance.defaults.timeout = 5000; // Set to 5 seconds
+axiosInstance.defaults.adapter = 'http';
+axiosInstance.defaults.headers['Accept'] = 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8';
+axiosInstance.defaults.headers['Accept-Encoding'] = 'gzip, deflate, br';
+axiosInstance.defaults.headers['Accept-Language'] = 'en-US,en;q=1';
+axiosInstance.defaults.headers['Cache-Control'] = 'no-cache';
+axiosInstance.defaults.headers['User-Agent'] = 'Chrome/90.0.4430.212 Safari/537.36';
+axiosInstance.interceptors.response.use(
+    response => response,
+    error => {
+        if (error.response && [301, 302].includes(error.response.status)) {
+            let redirectUrl = error.response.headers.location;
+            if (redirectUrl.startsWith('/')) {
+                const { url } = error.response.config;
+                redirectUrl = url + redirectUrl;
+            }
+            console.log('Redirecting to', error.response.headers.location);
+            return axiosInstance.get(redirectUrl);
+        }
+        return Promise.reject(error);
+    }
+);
+
+const axiosIconsOptions = {
+    timeout: 5000, maxRedirects: 10, validateStatus: function (status) {
         return status >= 200 && status < 300 || status == 403;
     }
 };
@@ -18,13 +43,27 @@ async function fetchDomainInfo(domain, debug = false) {
 
         let response;
         try {
-            response = await axios.get(url.href, axiosOptions);
+            response = await axiosInstance.get(url.href);
         } catch (error) {
-            if (error.code !== 'ECONNRESET') {
-                throw error;
+            if (debug) {
+                console.error('Error in the initial request', error.response);
             }
-            // if the root domain is not accessible we fallback to www.
-            response = await axios.get(wwwUrl.href, axiosOptions);
+
+            try {
+                // if the root domain is not accessible we fallback to www.
+                response = await axiosInstance.get(wwwUrl.href);
+            } catch (error) {
+                if (debug) {
+                    console.error('Error in the fallback request', error.response);
+                }
+
+                return {
+                    domain,
+                    name: null,
+                    description: null,
+                    icon: '',
+                };
+            }
         }
 
         const html = response.data;
@@ -83,7 +122,7 @@ async function getIcons(document, baseUrl, debug = false) {
     if (manifestElement && manifestElement.getAttribute('href')) {
         const manifestUrl = new URL(manifestElement.getAttribute('href'), baseUrl).href;
         try {
-            const manifestResponse = await axios.get(manifestUrl, axiosOptions);
+            const manifestResponse = await axios.get(manifestUrl, axiosIconsOptions);
             const manifest = manifestResponse.data;
             if (manifest && manifest.icons && Array.isArray(manifest.icons)) {
                 for (const icon of manifest.icons) {
@@ -141,7 +180,7 @@ async function findBestAccessibleIcon(icons, debug = false) {
 
 async function getIconSize(iconUrl, debug = false) {
     try {
-        const response = await axios.get(iconUrl, { responseType: 'arraybuffer', ...axiosOptions });
+        const response = await axios.get(iconUrl, { responseType: 'arraybuffer', ...axiosIconsOptions });
         const buffer = Buffer.from(response.data, 'binary');
         const dimensions = imageSize(buffer);
         const size = dimensions.width * dimensions.height;
