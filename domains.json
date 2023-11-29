@@ -57,7 +57,7 @@
     "domain": "boursorama.com",
     "name": "Actualité économique, Bourse, Banque en ligne - Boursorama",
     "description": "Découvrez Boursorama, Banque la moins chère et leader de l'information boursière et financière (cours des actions, des indices, des devises, de l'or...)",
-    "icon": "https://www.boursorama.com/favicon.ico"
+    "icon": "https://www.boursorama.com/bundles/boursoramaui/images/favicon/favicon-32x32.png"
   },
   {
     "domain": "bridgecrest.com",
@@ -201,17 +201,17 @@
     "domain": "id.moneyforward.com",
     "name": "Money Forward ID",
     "description": "",
-    "icon": "https://moneyforward.com/assets/apple-touch-icon-precomposed.png"
+    "icon": ""
   },
   {
     "domain": "id.smt.docomo.ne.jp",
     "name": "dアカウント",
     "description": "dアカウント(旧docomo  ID)はドコモの端末をお持ちでない方でも無料で使える共通IDです。ネットショッピングやデジタルコンテンツ等の様々なサービスを、デバイス、ネットワーク回線の種類を問わず利用できます。サービスを利用すればポイントも貯まり幅広くご利用頂けます。",
-    "icon": ""
+    "icon": "https://cache.dac.cilite.docomo.ne.jp/dacbr/assets/image/favicon.ico"
   },
   {
     "domain": "ivoclar.com",
-    "name": "Modern Solutions for Dentists & Technicians | Ivoclar",
+    "name": "Modern Dental Solutions for Dentists & Technicians | Ivoclar",
     "description": "Transform smiles with Ivoclar's innovative dental solutions. Our efficient workflows and revolutionary products deliver exceptional results. Discover Ivoclar. ",
     "icon": "https://www.ivoclar.com/favicon/android-chrome-310x310.png"
   },
@@ -277,9 +277,9 @@
   },
   {
     "domain": "microsoft.com",
-    "name": "",
-    "description": "",
-    "icon": ""
+    "name": "Microsoft – Cloud, Computers, Apps & Gaming",
+    "description": "Explore Microsoft products and services for your home or business. Shop Surface, Microsoft 365, Xbox, Windows, Azure, and more. Find downloads and get support.",
+    "icon": "https://www.microsoft.com/favicon.ico"
   },
   {
     "domain": "monespacesante.fr",
@@ -399,7 +399,7 @@
     "domain": "robinhood.com",
     "name": "Commission-free Stock Trading & Investing App | Robinhood",
     "description": "Robinhood has commission-free investing, and tools to help shape your financial future. Sign up and get your first stock free. Limitations and fees may apply.",
-    "icon": "https://robinhood.com/favicon.ico"
+    "icon": "https://cdn.robinhood.com/assets/robinhood/shared/iphone.png"
   },
   {
     "domain": "sandbox.fusionauth.io",
@@ -421,15 +421,21 @@
   },
   {
     "domain": "synology.com",
-    "name": "Synology Inc.",
-    "description": "Synology uniquely enables you to manage, secure, and protect your data – at the scale needed to accommodate the exponential data growth of the digital world.",
-    "icon": "https://www.synology.com/img/icon/touch-icon-57.png"
+    "name": "",
+    "description": "",
+    "icon": ""
   },
   {
     "domain": "tailscale.com",
     "name": "Tailscale · Best VPN Service for Secure Networks",
     "description": "Tailscale is a zero config VPN for building secure networks. Install on any device in minutes. Remote access from any network or physical location.",
     "icon": "https://tailscale.com/files/apple-touch-icon.png"
+  },
+  {
+    "domain": "tender.run",
+    "name": "Tender | A private, productive personal finance tool",
+    "description": "A private, productive personal finance tool",
+    "icon": ""
   },
   {
     "domain": "thehendrixjc.com",
