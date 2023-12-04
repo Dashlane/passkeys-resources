@@ -54,10 +54,10 @@
     "icon": "https://bin.bnbstatic.com/static/images/bnb-for/brand.png"
   },
   {
-    "domain": "boursorama.com",
-    "name": "Actualité économique, Bourse, Banque en ligne - Boursorama",
-    "description": "Découvrez Boursorama, Banque la moins chère et leader de l'information boursière et financière (cours des actions, des indices, des devises, de l'or...)",
-    "icon": "https://www.boursorama.com/bundles/boursoramaui/images/favicon/favicon-32x32.png"
+    "domain": "boursobank.com",
+    "name": "        BoursoBank (ex-Boursorama Banque) - Banque 100% en ligne - la moins chère depuis 15 ans\n",
+    "description": "        BoursoBank (ex-Boursorama Banque), banque la moins chère depuis 15 ans : carte bancaire gratuite, crédit immobilier, assurance vie, bourse, épargne...\n",
+    "icon": ""
   },
   {
     "domain": "bridgecrest.com",
@@ -91,8 +91,8 @@
   },
   {
     "domain": "corbado.com",
-    "name": "Corbado - We help you bring passkeys to your customers",
-    "description": "We help you transition all your customers and take care of cross-platform and cross-device aspects. Provide the most secure and most convienent passwordless authentication with passkeys to onboard, authenticate and engage users. Boost your conversion rates and improve the user experience.",
+    "name": "Corbado - Offer Passkeys To Your Users",
+    "description": "We help you offer passkeys in any new or existing application. Provide the most secure and most convienent authentication to delight your users.",
     "icon": "https://assets-global.website-files.com/626a572dd59ab59d107b26c6/628529d647ae6e42b0542c23_Favicon_256x256_Corbado.png"
   },
   {
@@ -163,8 +163,8 @@
   },
   {
     "domain": "hanko.io",
-    "name": "Hanko - Open authentication for the passkey era",
-    "description": "Use Hanko to build a login that's passwordless, secure, and grows with you.",
+    "name": "Hanko – Open source authentication and passkey infrastructure",
+    "description": "APIs, SDKs, and pre-built UI components to power your login and user management.",
     "icon": "https://assets-global.website-files.com/5e6f5bf4a2ae9702a833f3ee/5e8cbd73d2b1fa2ae262c716_Webclip_256x256.png"
   },
   {
@@ -289,9 +289,9 @@
   },
   {
     "domain": "moneyforward.com",
-    "name": "マネーフォワード｜家計簿アプリやクラウド会計ソフト",
-    "description": "すべての人のお金のプラットフォーム MoneyForward - お金・資産管理なら家計簿アプリ「マネーフォワード ME (ミー)」を今すぐダウンロード！法人・個人事業主向け「マネーフォワード クラウド」で会計ソフトなどバックオフィス効率化も",
-    "icon": "https://assets.moneyforward.com/assets/home/before_login_corporate/favicon-a6dc9d2f87fb8bddec56bc3abbb25a493d28a6c7fc0523d9b3092b8b60555bbc.ico"
+    "name": "",
+    "description": "",
+    "icon": ""
   },
   {
     "domain": "namecheap.com",
@@ -421,9 +421,9 @@
   },
   {
     "domain": "synology.com",
-    "name": "",
-    "description": "",
-    "icon": ""
+    "name": "Synology Inc.",
+    "description": "Synology uniquely enables you to manage, secure, and protect your data – at the scale needed to accommodate the exponential data growth of the digital world.",
+    "icon": "https://www.synology.com/img/icon/touch-icon-57.png"
   },
   {
     "domain": "tailscale.com",
