@@ -13,8 +13,8 @@
   },
   {
     "domain": "amazon.com",
-    "name": "Amazon.com. Spend less. Smile more.",
-    "description": "Free shipping on millions of items. Get the best of Shopping and Entertainment with Prime. Enjoy low prices and great deals on the largest selection of everyday essentials and other products, including fashion, home, beauty, electronics, Alexa Devices, sporting goods, toys, automotive, pets, baby, books, video games, musical instruments, office supplies, and more.",
+    "name": "Amazon.com",
+    "description": "",
     "icon": "https://www.amazon.com/favicon.ico"
   },
   {
@@ -114,6 +114,12 @@
     "icon": "https://dinero.dk/wp-content/uploads/2021/04/cropped-Vector-192x192.png"
   },
   {
+    "domain": "discord.com",
+    "name": "Discord | Your Place to Talk and Hang Out",
+    "description": "Discord is the easiest way to talk over voice, video, and text. Talk, chat, hang out, and stay close with your friends and communities.",
+    "icon": "https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico"
+  },
+  {
     "domain": "docusign.com",
     "name": "DocuSign | #1 in Electronic Signature and Contract Lifecycle Management",
     "description": "DocuSign ensures the security & mobility to digitally transform businesses. Sign docs for free.",
@@ -201,7 +207,7 @@
     "domain": "id.moneyforward.com",
     "name": "Money Forward ID",
     "description": "",
-    "icon": ""
+    "icon": "https://id.moneyforward.com/favicon.ico"
   },
   {
     "domain": "id.smt.docomo.ne.jp",
@@ -213,7 +219,7 @@
     "domain": "ivoclar.com",
     "name": "Modern Dental Solutions for Dentists & Technicians | Ivoclar",
     "description": "Transform smiles with Ivoclar's innovative dental solutions. Our efficient workflows and revolutionary products deliver exceptional results. Discover Ivoclar. ",
-    "icon": "https://www.ivoclar.com/favicon/android-chrome-310x310.png"
+    "icon": "https://www.ivoclar.com/favicon/favicon-196x196.png"
   },
   {
     "domain": "justpass.me",
@@ -242,7 +248,7 @@
   {
     "domain": "linkedin.com",
     "name": "LinkedIn: Log In or Sign Up",
-    "description": "930 million+ members | Manage your professional identity. Build and engage with your professional network. Access knowledge, insights and opportunities.",
+    "description": "1 billion members | Manage your professional identity. Build and engage with your professional network. Access knowledge, insights and opportunities.",
     "icon": "https://www.linkedin.com/favicon.ico"
   },
   {
@@ -289,9 +295,9 @@
   },
   {
     "domain": "moneyforward.com",
-    "name": "",
-    "description": "",
-    "icon": ""
+    "name": "マネーフォワード｜家計簿アプリやクラウド会計ソフト",
+    "description": "すべての人のお金のプラットフォーム MoneyForward - お金・資産管理なら家計簿アプリ「マネーフォワード ME (ミー)」を今すぐダウンロード！法人・個人事業主向け「マネーフォワード クラウド」で会計ソフトなどバックオフィス効率化も",
+    "icon": "https://assets.moneyforward.com/assets/home/before_login_corporate/favicon-a6dc9d2f87fb8bddec56bc3abbb25a493d28a6c7fc0523d9b3092b8b60555bbc.ico"
   },
   {
     "domain": "namecheap.com",
@@ -363,7 +369,7 @@
     "domain": "pastery.net",
     "name": "Pastery - The sweetest pastebin in the world!",
     "description": "Pastery is the sweetest pastebin in the world. Pastery is a secure website where you can store text online for a set period of time.",
-    "icon": "https://www.pastery.net/static/images/icons/android-chrome-512x512.png"
+    "icon": "https://www.pastery.net/static/images/icons/favicon.fff8155146c1.ico"
   },
   {
     "domain": "payfit.com",
@@ -399,7 +405,7 @@
     "domain": "robinhood.com",
     "name": "Commission-free Stock Trading & Investing App | Robinhood",
     "description": "Robinhood has commission-free investing, and tools to help shape your financial future. Sign up and get your first stock free. Limitations and fees may apply.",
-    "icon": "https://cdn.robinhood.com/assets/robinhood/shared/iphone.png"
+    "icon": "https://robinhood.com/favicon.ico"
   },
   {
     "domain": "sandbox.fusionauth.io",
@@ -417,7 +423,7 @@
     "domain": "shopify.com",
     "name": "Start and grow your e-commerce business - 3-Day Free Trial - Shopify USA",
     "description": "Try Shopify free and start a business or grow an existing one. Get more than ecommerce software with tools to manage every part of your business.",
-    "icon": "https://www.shopify.com/favicon.ico"
+    "icon": "https://cdn.shopify.com/shopifycloud/web/assets/v1/favicon-default-6cbad9de243dbae3.ico"
   },
   {
     "domain": "synology.com",
@@ -439,13 +445,13 @@
   },
   {
     "domain": "thehendrixjc.com",
-    "name": "The Hendrix | Jersey City Luxury Rentals | Studio - 3 Bedroom Residences",
-    "description": "Culture, arts, & amenities moments from the PATH. An original lifestyle experience with spacious interiors and incredible modern design. Visit Today.",
-    "icon": "https://thehendrixjc.com/favicons/android-icon-192x192.png"
+    "name": "",
+    "description": "",
+    "icon": ""
   },
   {
     "domain": "tiktok.com",
-    "name": "",
+    "name": "TikTok - Make Your Day",
     "description": "",
     "icon": "https://sf16-sg.tiktokcdn.com/obj/eden-sg/uvkuhyieh7lpqpbj/pwa/512x512.png"
   },
@@ -471,7 +477,7 @@
     "domain": "virginmedia.com",
     "name": "Virgin Media | Broadband & Cable Deals  - See What You Can Do",
     "description": "Welcome to Virgin Media, home of Superfast broadband, TV, landline & mobile deals. Working hard to help connect the nation, shop our offers and order online.",
-    "icon": "https://www.virginmedia.com/favicon.ico"
+    "icon": ""
   },
   {
     "domain": "webauthn.io",
@@ -483,7 +489,7 @@
     "domain": "yahoo.co.jp",
     "name": "Yahoo! JAPAN",
     "description": "あなたの毎日をアップデートする情報ポータル。検索、ニュース、天気、スポーツ、メール、ショッピング、オークションなど便利なサービスを展開しています。",
-    "icon": ""
+    "icon": "https://s.yimg.jp/c/icon/s/bsc/2.0/y120.png"
   },
   {
     "domain": "yahoo.com",
