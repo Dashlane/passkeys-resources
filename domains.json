@@ -57,7 +57,7 @@
     "domain": "boursobank.com",
     "name": "        BoursoBank (ex-Boursorama Banque) - Banque 100% en ligne - la moins chère depuis 16 ans\n",
     "description": "        BoursoBank (ex-Boursorama Banque), banque la moins chère depuis 16 ans : carte bancaire gratuite, crédit immobilier, assurance vie, bourse, épargne...\n",
-    "icon": "https://www.boursobank.com/build/img/favicons/boursobank/favicon-16x16.213df8b509bdbd792934eb483eb4401a.png"
+    "icon": ""
   },
   {
     "domain": "bridgecrest.com",
@@ -130,6 +130,12 @@
     "name": "Electronics, Cars, Fashion, Collectibles & More | eBay",
     "description": "Buy & sell electronics, cars, clothes, collectibles & more on eBay, the world's online marketplace. Top brands, low prices & free shipping on many items.",
     "icon": "https://ir.ebaystatic.com/cr/v/c1/chauffeur/pwa-app-icons/v1/icon-512x512.png"
+  },
+  {
+    "domain": "fleeps.co",
+    "name": "Fleeps - Experts that will guide you through a new area of travel.\n",
+    "description": "With passionate travel creators at your side, we are building your go-to destination for personalized and authentic travel advice.",
+    "icon": "https://fleeps.co/favicon.ico"
   },
   {
     "domain": "formx.ai",
@@ -301,9 +307,9 @@
   },
   {
     "domain": "moneyforward.com",
-    "name": "",
-    "description": "",
-    "icon": ""
+    "name": "マネーフォワード｜家計簿アプリやクラウド会計ソフト",
+    "description": "すべての人のお金のプラットフォーム MoneyForward - お金・資産管理なら家計簿アプリ「マネーフォワード ME (ミー)」を今すぐダウンロード！法人・個人事業主向け「マネーフォワード クラウド」で会計ソフトなどバックオフィス効率化も",
+    "icon": "https://assets.moneyforward.com/assets/home/before_login_corporate/favicon-a6dc9d2f87fb8bddec56bc3abbb25a493d28a6c7fc0523d9b3092b8b60555bbc.ico"
   },
   {
     "domain": "namecheap.com",
@@ -313,9 +319,9 @@
   },
   {
     "domain": "nintendo.com",
-    "name": "Nintendo Official Site: Consoles, Games, News, and More",
-    "description": "Visit the official Nintendo site to shop for Nintendo Switch™ systems and video games, read the latest news, find fun gear and gifts with a Nintendo twist, and much more.",
-    "icon": "https://assets.nintendo.com/image/upload/ncom/icons/fav-icons/android-chrome-512x512.png"
+    "name": "",
+    "description": "",
+    "icon": ""
   },
   {
     "domain": "nvidia.com",
@@ -421,9 +427,9 @@
   },
   {
     "domain": "shop.app",
-    "name": "Shop: Your AI-Powered Shopping Assistant",
-    "description": "Available on iOS and Android, the Shop app makes it easy to find and track the things you love, earn exclusive rewards, and discover the world's greatest brands.",
-    "icon": "https://cdn.shopify.com/shopifycloud/shop-client/production/_assets/favicon-3RL45VCH.png"
+    "name": "",
+    "description": "",
+    "icon": ""
   },
   {
     "domain": "shopify.com",
@@ -441,7 +447,7 @@
     "domain": "tailscale.com",
     "name": "Tailscale · Best VPN Service for Secure Networks",
     "description": "Tailscale is a zero config VPN for building secure networks. Install on any device in minutes. Remote access from any network or physical location.",
-    "icon": "https://tailscale.com/files/apple-touch-icon.png"
+    "icon": "https://tailscale.com/favicon.ico"
   },
   {
     "domain": "tender.run",
