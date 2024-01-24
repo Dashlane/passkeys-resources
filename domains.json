@@ -13,8 +13,8 @@
   },
   {
     "domain": "amazon.com",
-    "name": "Amazon.com. Spend less. Smile more.",
-    "description": "Free shipping on millions of items. Get the best of Shopping and Entertainment with Prime. Enjoy low prices and great deals on the largest selection of everyday essentials and other products, including fashion, home, beauty, electronics, Alexa Devices, sporting goods, toys, automotive, pets, baby, books, video games, musical instruments, office supplies, and more.",
+    "name": "Amazon.com",
+    "description": "",
     "icon": "https://www.amazon.com/favicon.ico"
   },
   {
@@ -57,7 +57,7 @@
     "domain": "boursobank.com",
     "name": "        BoursoBank (ex-Boursorama Banque) - Banque 100% en ligne - la moins chère depuis 16 ans\n",
     "description": "        BoursoBank (ex-Boursorama Banque), banque la moins chère depuis 16 ans : carte bancaire gratuite, crédit immobilier, assurance vie, bourse, épargne...\n",
-    "icon": ""
+    "icon": "https://www.boursobank.com/build/img/favicons/boursobank/favicon-32x32.0e247bd3b1b8ff7f7314a555ff6e8dff.png"
   },
   {
     "domain": "bridgecrest.com",
@@ -248,7 +248,7 @@
   {
     "domain": "laakari.chat",
     "name": "Lääkäri.chat – Helppo ja nopea lääkäri-chat",
-    "description": "Lääkäri.chatissä asioit helposti ja turvallisesti yksityisen etälääkärin kanssa. Suomen edullisin reseptin uusiminen 12,50 €. Chat-vastaanotot alkaen 29,90 €.",
+    "description": "Lääkäri.chatissä asioit helposti ja turvallisesti yksityisen etälääkärin kanssa. Edullinen reseptin uusiminen 14,99 €. Etälääkärin vastaanotot alkaen 24,99 €.",
     "icon": ""
   },
   {
@@ -319,9 +319,9 @@
   },
   {
     "domain": "nintendo.com",
-    "name": "",
-    "description": "",
-    "icon": ""
+    "name": "Nintendo Official Site: Consoles, Games, News, and More",
+    "description": "Visit the official Nintendo site to shop for Nintendo Switch™ systems and video games, read the latest news, find fun gear and gifts with a Nintendo twist, and much more.",
+    "icon": "https://assets.nintendo.com/image/upload/ncom/icons/fav-icons/android-chrome-512x512.png"
   },
   {
     "domain": "nvidia.com",
@@ -333,7 +333,7 @@
     "domain": "offshoot.rentals",
     "name": "Equipment rental for still and motion photography - Offshoot Rentals Melbourne",
     "description": "Offshoot Rentals is a trusted production partner in Melbourne, supplying equipment and support to a wide range of productions since 2010.",
-    "icon": "https://offshoot.rentals/icons/touch/apple-touch-icon.png"
+    "icon": "https://offshoot.rentals/favicon.ico"
   },
   {
     "domain": "okta.com",
@@ -381,7 +381,7 @@
     "domain": "pastery.net",
     "name": "Pastery - The sweetest pastebin in the world!",
     "description": "Pastery is the sweetest pastebin in the world. Pastery is a secure website where you can store text online for a set period of time.",
-    "icon": "https://www.pastery.net/static/images/icons/android-chrome-512x512.png"
+    "icon": "https://www.pastery.net/static/images/icons/apple-touch-icon.0926d8b47fbb.png"
   },
   {
     "domain": "payfit.com",
@@ -457,9 +457,9 @@
   },
   {
     "domain": "thehendrixjc.com",
-    "name": "The Hendrix | Jersey City Luxury Rentals | Studio - 3 Bedroom Residences",
-    "description": "Culture, arts, & amenities moments from the PATH. An original lifestyle experience with spacious interiors and incredible modern design. Visit Today.",
-    "icon": "https://thehendrixjc.com/favicons/android-icon-192x192.png"
+    "name": "",
+    "description": "",
+    "icon": ""
   },
   {
     "domain": "tiktok.com",
@@ -472,6 +472,12 @@
     "name": "Trusona",
     "description": "Trusona improves business growth and profitability with faster, phishing-resistant sign-ins that delight your customers.",
     "icon": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_192,h_192/https://www.trusona.com/wp-content/uploads/2021/01/cropped-Trusona-PurpleFav-500-192x192.png"
+  },
+  {
+    "domain": "twitter.com",
+    "name": "",
+    "description": "",
+    "icon": ""
   },
   {
     "domain": "uber.com",
@@ -496,6 +502,12 @@
     "name": "WebAuthn.io",
     "description": "Demonstration of the WebAuthn specification.",
     "icon": "https://webauthn.io/static/images/favicon.png"
+  },
+  {
+    "domain": "x.com",
+    "name": "",
+    "description": "",
+    "icon": ""
   },
   {
     "domain": "yahoo.co.jp",
