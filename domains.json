@@ -13,8 +13,8 @@
   },
   {
     "domain": "amazon.com",
-    "name": "Amazon.com",
-    "description": "",
+    "name": "Amazon.com. Spend less. Smile more.",
+    "description": "Free shipping on millions of items. Get the best of Shopping and Entertainment with Prime. Enjoy low prices and great deals on the largest selection of everyday essentials and other products, including fashion, home, beauty, electronics, Alexa Devices, sporting goods, toys, automotive, pets, baby, books, video games, musical instruments, office supplies, and more.",
     "icon": "https://www.amazon.com/favicon.ico"
   },
   {
@@ -57,7 +57,7 @@
     "domain": "boursobank.com",
     "name": "        BoursoBank (ex-Boursorama Banque) - Banque 100% en ligne - la moins chère depuis 16 ans\n",
     "description": "        BoursoBank (ex-Boursorama Banque), banque la moins chère depuis 16 ans : carte bancaire gratuite, crédit immobilier, assurance vie, bourse, épargne...\n",
-    "icon": "https://www.boursobank.com/build/img/favicons/boursobank/favicon-32x32.0e247bd3b1b8ff7f7314a555ff6e8dff.png"
+    "icon": "https://www.boursobank.com/build/img/favicons/boursobank/favicon-16x16.213df8b509bdbd792934eb483eb4401a.png"
   },
   {
     "domain": "bridgecrest.com",
@@ -79,8 +79,8 @@
   },
   {
     "domain": "cloudflare.com",
-    "name": "Cloudflare - The Web Performance & Security Company | Cloudflare",
-    "description": "Here at Cloudflare, we make the Internet work the way it should. Offering CDN, DNS, DDoS protection and security, find out how we can help your site.",
+    "name": "Connect & protect with the connectivity cloud | Cloudflare",
+    "description": "Make employees, applications and networks faster and more secure everywhere, while reducing complexity and cost.",
     "icon": "https://www.cloudflare.com/favicon.ico"
   },
   {
@@ -117,7 +117,7 @@
     "domain": "discord.com",
     "name": "Discord | Your Place to Talk and Hang Out",
     "description": "Discord is the easiest way to talk over voice, video, and text. Talk, chat, hang out, and stay close with your friends and communities.",
-    "icon": "https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico"
+    "icon": "https://assets-global.website-files.com/6257adef93867e50d84d30e2/62fddf0fde45a8baedcc7ee5_847541504914fd33810e70a0ea73177e%20(2)-1.png"
   },
   {
     "domain": "docusign.com",
@@ -213,7 +213,7 @@
     "domain": "id.moneyforward.com",
     "name": "Money Forward ID",
     "description": "",
-    "icon": ""
+    "icon": "https://moneyforward.com/assets/apple-touch-icon-precomposed.png"
   },
   {
     "domain": "id.smt.docomo.ne.jp",
@@ -307,9 +307,9 @@
   },
   {
     "domain": "moneyforward.com",
-    "name": "マネーフォワード｜家計簿アプリやクラウド会計ソフト",
-    "description": "すべての人のお金のプラットフォーム MoneyForward - お金・資産管理なら家計簿アプリ「マネーフォワード ME (ミー)」を今すぐダウンロード！法人・個人事業主向け「マネーフォワード クラウド」で会計ソフトなどバックオフィス効率化も",
-    "icon": "https://assets.moneyforward.com/assets/home/before_login_corporate/favicon-a6dc9d2f87fb8bddec56bc3abbb25a493d28a6c7fc0523d9b3092b8b60555bbc.ico"
+    "name": "",
+    "description": "",
+    "icon": ""
   },
   {
     "domain": "namecheap.com",
@@ -333,7 +333,7 @@
     "domain": "offshoot.rentals",
     "name": "Equipment rental for still and motion photography - Offshoot Rentals Melbourne",
     "description": "Offshoot Rentals is a trusted production partner in Melbourne, supplying equipment and support to a wide range of productions since 2010.",
-    "icon": "https://offshoot.rentals/favicon.ico"
+    "icon": "https://offshoot.rentals/icons/touch/apple-touch-icon.png"
   },
   {
     "domain": "okta.com",
@@ -381,7 +381,7 @@
     "domain": "pastery.net",
     "name": "Pastery - The sweetest pastebin in the world!",
     "description": "Pastery is the sweetest pastebin in the world. Pastery is a secure website where you can store text online for a set period of time.",
-    "icon": "https://www.pastery.net/static/images/icons/apple-touch-icon.0926d8b47fbb.png"
+    "icon": "https://www.pastery.net/static/images/icons/android-chrome-512x512.png"
   },
   {
     "domain": "payfit.com",
@@ -457,15 +457,15 @@
   },
   {
     "domain": "thehendrixjc.com",
-    "name": "",
-    "description": "",
-    "icon": ""
+    "name": "The Hendrix | Jersey City Luxury Rentals | Studio - 3 Bedroom Residences",
+    "description": "Culture, arts, & amenities moments from the PATH. An original lifestyle experience with spacious interiors and incredible modern design. Visit Today.",
+    "icon": "https://thehendrixjc.com/favicons/android-icon-192x192.png"
   },
   {
     "domain": "tiktok.com",
     "name": "TikTok - Make Your Day",
     "description": "",
-    "icon": "https://sf16-sg.tiktokcdn.com/obj/eden-sg/uvkuhyieh7lpqpbj/pwa/512x512.png"
+    "icon": "https://sf16-sg.tiktokcdn.com/obj/eden-sg/uvkuhyieh7lpqpbj/pwa/256x256.png"
   },
   {
     "domain": "trusona.com",
@@ -483,13 +483,19 @@
     "domain": "uber.com",
     "name": "Explore the Uber Platform | Uber United States",
     "description": "Learn how you can leverage the Uber platform and apps to earn more, eat, commute, get a ride, simplify business travel, and more.",
-    "icon": "https://d3i4yxtzktqr9n.cloudfront.net/uber-sites/bafeeed0a39bd111.png"
+    "icon": "https://www.uber.com/favicon.ico"
   },
   {
     "domain": "vaultvision.com",
     "name": "User Authentication Platform & Passwordless Logins - Vault Vision",
     "description": "No code user authentication platform for React, Node, Python, Go and Webflow powered websites, with one-click passwordless logins and expert setup help.",
     "icon": "https://vaultvision.com/wp-content/uploads/2019/03/favicon_root.png"
+  },
+  {
+    "domain": "vercel.com",
+    "name": "Vercel: Build and deploy the best Web experiences with The Frontend Cloud – Vercel",
+    "description": "Vercel's Frontend Cloud gives developers the frameworks, workflows, and infrastructure to build a faster, more personalized Web.",
+    "icon": "https://assets.vercel.com/image/upload/v1573246280/front/favicon/vercel/android-chrome-512x512.png"
   },
   {
     "domain": "virginmedia.com",
