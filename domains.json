@@ -57,7 +57,7 @@
     "domain": "boursobank.com",
     "name": "        BoursoBank (ex-Boursorama Banque) - Banque 100% en ligne - la moins chère depuis 16 ans\n",
     "description": "        BoursoBank (ex-Boursorama Banque), banque la moins chère depuis 16 ans : carte bancaire gratuite, crédit immobilier, assurance vie, bourse, épargne...\n",
-    "icon": "https://www.boursobank.com/build/img/favicons/boursobank/favicon-16x16.213df8b509bdbd792934eb483eb4401a.png"
+    "icon": ""
   },
   {
     "domain": "bridgecrest.com",
@@ -213,7 +213,7 @@
     "domain": "id.moneyforward.com",
     "name": "Money Forward ID",
     "description": "",
-    "icon": "https://moneyforward.com/assets/apple-touch-icon-precomposed.png"
+    "icon": ""
   },
   {
     "domain": "id.smt.docomo.ne.jp",
@@ -297,19 +297,19 @@
     "domain": "monespacesante.fr",
     "name": "Mon espace santé",
     "description": "",
-    "icon": "https://www.monespacesante.fr/favicon/android-icon-192x192.png"
+    "icon": "https://www.monespacesante.fr/favicon/favicon-96x96.png"
   },
   {
     "domain": "moneybird.com",
     "name": "Bookkeeping software for entrepreneurs | Moneybird",
     "description": "Looking for a total solution? Then Moneybird is the right software for you!",
-    "icon": "https://www.moneybird.com/favicons/favicon-96.png"
+    "icon": ""
   },
   {
     "domain": "moneyforward.com",
-    "name": "",
-    "description": "",
-    "icon": ""
+    "name": "マネーフォワード｜家計簿アプリやクラウド会計ソフト",
+    "description": "すべての人のお金のプラットフォーム MoneyForward - お金・資産管理なら家計簿アプリ「マネーフォワード ME (ミー)」を今すぐダウンロード！法人・個人事業主向け「マネーフォワード クラウド」で会計ソフトなどバックオフィス効率化も",
+    "icon": "https://assets.moneyforward.com/assets/home/before_login_corporate/favicon-a6dc9d2f87fb8bddec56bc3abbb25a493d28a6c7fc0523d9b3092b8b60555bbc.ico"
   },
   {
     "domain": "namecheap.com",
@@ -333,7 +333,7 @@
     "domain": "offshoot.rentals",
     "name": "Equipment rental for still and motion photography - Offshoot Rentals Melbourne",
     "description": "Offshoot Rentals is a trusted production partner in Melbourne, supplying equipment and support to a wide range of productions since 2010.",
-    "icon": "https://offshoot.rentals/icons/touch/apple-touch-icon.png"
+    "icon": "https://offshoot.rentals/favicon.ico"
   },
   {
     "domain": "okta.com",
@@ -381,19 +381,25 @@
     "domain": "pastery.net",
     "name": "Pastery - The sweetest pastebin in the world!",
     "description": "Pastery is the sweetest pastebin in the world. Pastery is a secure website where you can store text online for a set period of time.",
-    "icon": "https://www.pastery.net/static/images/icons/android-chrome-512x512.png"
+    "icon": "https://www.pastery.net/static/images/icons/favicon.fff8155146c1.ico"
   },
   {
     "domain": "payfit.com",
     "name": "Payroll Software That's Smart, Simple & Stress-Free | PayFit",
     "description": "HMRC-recognised, PayFit combines best-in-class payroll software with expert support. Automate your payroll & HR admin and save time.",
-    "icon": "https://payfit.com/favicon.ico"
+    "icon": ""
   },
   {
     "domain": "paypal.com",
     "name": "Digital Wallets, Money Management, and More | PayPal US",
     "description": "PayPal is the faster, safer way to send and receive money or make an online payment. Get started or create a merchant account to accept payments.",
     "icon": "https://www.paypalobjects.com/webstatic/icon/pp196.png"
+  },
+  {
+    "domain": "playstation.com",
+    "name": "PlayStation® Official Site: Consoles, Games, Accessories & More",
+    "description": "Explore the new generation PlayStation 4 and PS5 consoles - experience immersive gaming with thousands of hit games in every genre to rewrite the rules for what a PlayStation console can do.",
+    "icon": "https://gmedia.playstation.com/is/image/SIEPDC/ps-logo-favicon?$icon-96-96--t$"
   },
   {
     "domain": "porkbun.com",
@@ -417,7 +423,7 @@
     "domain": "robinhood.com",
     "name": "Commission-free Stock Trading & Investing App | Robinhood",
     "description": "Robinhood has commission-free investing, and tools to help shape your financial future. Sign up and get your first stock free. Limitations and fees may apply.",
-    "icon": "https://cdn.robinhood.com/assets/robinhood/shared/iphone.png"
+    "icon": "https://robinhood.com/favicon.ico"
   },
   {
     "domain": "sandbox.fusionauth.io",
@@ -465,7 +471,7 @@
     "domain": "tiktok.com",
     "name": "TikTok - Make Your Day",
     "description": "",
-    "icon": "https://sf16-sg.tiktokcdn.com/obj/eden-sg/uvkuhyieh7lpqpbj/pwa/256x256.png"
+    "icon": "https://sf16-sg.tiktokcdn.com/obj/eden-sg/uvkuhyieh7lpqpbj/pwa/512x512.png"
   },
   {
     "domain": "trusona.com",
@@ -483,7 +489,7 @@
     "domain": "uber.com",
     "name": "Explore the Uber Platform | Uber United States",
     "description": "Learn how you can leverage the Uber platform and apps to earn more, eat, commute, get a ride, simplify business travel, and more.",
-    "icon": "https://www.uber.com/favicon.ico"
+    "icon": "https://d3i4yxtzktqr9n.cloudfront.net/uber-sites/bafeeed0a39bd111.png"
   },
   {
     "domain": "vaultvision.com",
@@ -501,7 +507,7 @@
     "domain": "virginmedia.com",
     "name": "Virgin Media | Broadband & Cable Deals  - See What You Can Do",
     "description": "Welcome to Virgin Media, home of Superfast broadband, TV, landline & mobile deals. Working hard to help connect the nation, shop our offers and order online.",
-    "icon": "https://www.virginmedia.com/favicon.ico"
+    "icon": ""
   },
   {
     "domain": "webauthn.io",
@@ -519,7 +525,7 @@
     "domain": "yahoo.co.jp",
     "name": "Yahoo! JAPAN",
     "description": "あなたの毎日をアップデートする情報ポータル。検索、ニュース、天気、スポーツ、メール、ショッピング、オークションなど便利なサービスを展開しています。",
-    "icon": ""
+    "icon": "https://s.yimg.jp/c/icon/s/bsc/2.0/y120.png"
   },
   {
     "domain": "yahoo.com",
