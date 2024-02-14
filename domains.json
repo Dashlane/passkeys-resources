@@ -25,9 +25,9 @@
   },
   {
     "domain": "arpari.com",
-    "name": "Arpari  - Treasury Management for CRE",
-    "description": "Treasury management built for commercial real estate. Seamlessly and securely manage your banking from a single platform.",
-    "icon": "https://uploads-ssl.webflow.com/6374386425fde992e66c1034/639bf3644d03cc055ac8bf6a_favicon-256x256.png"
+    "name": "Arpari - Treasury Management Simplified",
+    "description": "Treasury management built for complex account structures. Seamlessly and securely manage your treasury operations from a single platform.",
+    "icon": "https://assets-global.website-files.com/65add6a49a9426589c2bfb6b/65be7efc0566ae8510b1c102_favicon-256x256.png"
   },
   {
     "domain": "authgear.com",
@@ -204,16 +204,10 @@
     "icon": ""
   },
   {
-    "domain": "hyatt.com",
-    "name": "",
-    "description": "",
-    "icon": ""
-  },
-  {
     "domain": "id.moneyforward.com",
     "name": "Money Forward ID",
     "description": "",
-    "icon": ""
+    "icon": "https://id.moneyforward.com/favicon.ico"
   },
   {
     "domain": "id.smt.docomo.ne.jp",
@@ -223,9 +217,9 @@
   },
   {
     "domain": "ivoclar.com",
-    "name": "Modern Dental Solutions for Dentists & Technicians | Ivoclar",
+    "name": "Modern Dental Solutions for Dentists & Technicians | Ivoclar USA",
     "description": "Transform smiles with Ivoclar's innovative dental solutions. Our efficient workflows and revolutionary products deliver exceptional results. Discover Ivoclar. ",
-    "icon": "https://www.ivoclar.com/favicon/android-chrome-310x310.png"
+    "icon": "https://www.ivoclar.com/favicon/favicon-196x196.png"
   },
   {
     "domain": "justpass.me",
@@ -264,6 +258,12 @@
     "icon": "https://login.gov/android-chrome-192x192.png"
   },
   {
+    "domain": "lowes.com",
+    "name": "",
+    "description": "",
+    "icon": ""
+  },
+  {
     "domain": "magic.link",
     "name": "Magic | The leading wallet-as-a-service plus essential NFT capabilities | Magic",
     "description": "Unlock the benefits of web3 with highly scalable, battle-tested, secure wallet infrastructure",
@@ -297,7 +297,7 @@
     "domain": "monespacesante.fr",
     "name": "Mon espace santé",
     "description": "",
-    "icon": "https://www.monespacesante.fr/favicon/favicon-96x96.png"
+    "icon": "https://www.monespacesante.fr/favicon/android-icon-192x192.png"
   },
   {
     "domain": "moneybird.com",
@@ -333,7 +333,7 @@
     "domain": "offshoot.rentals",
     "name": "Equipment rental for still and motion photography - Offshoot Rentals Melbourne",
     "description": "Offshoot Rentals is a trusted production partner in Melbourne, supplying equipment and support to a wide range of productions since 2010.",
-    "icon": "https://offshoot.rentals/favicon.ico"
+    "icon": "https://offshoot.rentals/icons/touch/apple-touch-icon.png"
   },
   {
     "domain": "okta.com",
@@ -355,9 +355,9 @@
   },
   {
     "domain": "passage.1password.com",
-    "name": "Passwordless Authentication Powered by Passkeys | Passage by 1Password",
-    "description": "Passage provides passwordless authentication that you can add to your app or website with just a few lines of code. Learn more.",
-    "icon": "https://assets-global.website-files.com/64516fef70e3c53e580425b7/64516fef70e3c50a1104266d_Logo-Webclip_Icon%20Only-Light-31.png"
+    "name": "",
+    "description": "",
+    "icon": ""
   },
   {
     "domain": "passage.id",
@@ -381,7 +381,7 @@
     "domain": "pastery.net",
     "name": "Pastery - The sweetest pastebin in the world!",
     "description": "Pastery is the sweetest pastebin in the world. Pastery is a secure website where you can store text online for a set period of time.",
-    "icon": "https://www.pastery.net/static/images/icons/favicon.fff8155146c1.ico"
+    "icon": "https://www.pastery.net/static/images/icons/apple-touch-icon.0926d8b47fbb.png"
   },
   {
     "domain": "payfit.com",
@@ -463,9 +463,9 @@
   },
   {
     "domain": "thehendrixjc.com",
-    "name": "The Hendrix | Jersey City Luxury Rentals | Studio - 3 Bedroom Residences",
-    "description": "Culture, arts, & amenities moments from the PATH. An original lifestyle experience with spacious interiors and incredible modern design. Visit Today.",
-    "icon": "https://thehendrixjc.com/favicons/android-icon-192x192.png"
+    "name": "",
+    "description": "",
+    "icon": ""
   },
   {
     "domain": "tiktok.com",
@@ -525,7 +525,7 @@
     "domain": "yahoo.co.jp",
     "name": "Yahoo! JAPAN",
     "description": "あなたの毎日をアップデートする情報ポータル。検索、ニュース、天気、スポーツ、メール、ショッピング、オークションなど便利なサービスを展開しています。",
-    "icon": "https://s.yimg.jp/c/icon/s/bsc/2.0/y120.png"
+    "icon": "https://s.yimg.jp/c/icon/s/bsc/2.0/favicon.ico"
   },
   {
     "domain": "yahoo.com",
