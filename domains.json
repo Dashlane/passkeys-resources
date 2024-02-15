@@ -57,7 +57,7 @@
     "domain": "boursobank.com",
     "name": "        BoursoBank (ex-Boursorama Banque) - Banque 100% en ligne - la moins chère depuis 16 ans\n",
     "description": "        BoursoBank (ex-Boursorama Banque), banque la moins chère depuis 16 ans : carte bancaire gratuite, crédit immobilier, assurance vie, bourse, épargne...\n",
-    "icon": "https://www.boursobank.com/build/img/favicons/boursobank/favicon-32x32.0e247bd3b1b8ff7f7314a555ff6e8dff.png"
+    "icon": "https://www.boursobank.com/build/img/favicons/boursobank/apple-touch-icon.8cdff3034e85ad430768a7ad5e754868.png"
   },
   {
     "domain": "bridgecrest.com",
@@ -79,8 +79,8 @@
   },
   {
     "domain": "cloudflare.com",
-    "name": "",
-    "description": "",
+    "name": "Connect, Protect and Build Everywhere | Cloudflare",
+    "description": "Make employees, applications and networks faster and more secure everywhere, while reducing complexity and cost.",
     "icon": "https://www.cloudflare.com/favicon.ico"
   },
   {
@@ -303,7 +303,7 @@
     "domain": "monespacesante.fr",
     "name": "Mon espace santé",
     "description": "",
-    "icon": "https://www.monespacesante.fr/favicon/android-icon-192x192.png"
+    "icon": "https://www.monespacesante.fr/favicon/favicon-96x96.png"
   },
   {
     "domain": "moneybird.com",
@@ -339,7 +339,7 @@
     "domain": "offshoot.rentals",
     "name": "Equipment rental for still and motion photography - Offshoot Rentals Melbourne",
     "description": "Offshoot Rentals is a trusted production partner in Melbourne, supplying equipment and support to a wide range of productions since 2010.",
-    "icon": "https://offshoot.rentals/icons/touch/apple-touch-icon.png"
+    "icon": "https://offshoot.rentals/favicon.ico"
   },
   {
     "domain": "okta.com",
@@ -462,6 +462,12 @@
     "icon": "https://tailscale.com/favicon.ico"
   },
   {
+    "domain": "target.com",
+    "name": "Target : Expect More. Pay Less.",
+    "description": "Shop Target online and in-store for everything from groceries and essentials to clothing and electronics. Choose contactless pickup or delivery today.",
+    "icon": "https://assets.targetimg1.com/static/images/apple-touch-icon-precomposed.png"
+  },
+  {
     "domain": "tender.run",
     "name": "Tender | A private, productive personal finance tool",
     "description": "A private, productive personal finance tool",
@@ -469,9 +475,9 @@
   },
   {
     "domain": "thehendrixjc.com",
-    "name": "",
-    "description": "",
-    "icon": ""
+    "name": "The Hendrix | Jersey City Luxury Rentals | Studio - 3 Bedroom Residences",
+    "description": "Culture, arts, & amenities moments from the PATH. An original lifestyle experience with spacious interiors and incredible modern design. Visit Today.",
+    "icon": "https://thehendrixjc.com/favicons/android-icon-192x192.png"
   },
   {
     "domain": "tiktok.com",
