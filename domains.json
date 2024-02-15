@@ -57,7 +57,7 @@
     "domain": "boursobank.com",
     "name": "        BoursoBank (ex-Boursorama Banque) - Banque 100% en ligne - la moins chère depuis 16 ans\n",
     "description": "        BoursoBank (ex-Boursorama Banque), banque la moins chère depuis 16 ans : carte bancaire gratuite, crédit immobilier, assurance vie, bourse, épargne...\n",
-    "icon": ""
+    "icon": "https://www.boursobank.com/build/img/favicons/boursobank/favicon-32x32.0e247bd3b1b8ff7f7314a555ff6e8dff.png"
   },
   {
     "domain": "bridgecrest.com",
@@ -79,8 +79,8 @@
   },
   {
     "domain": "cloudflare.com",
-    "name": "Connect & protect with the connectivity cloud | Cloudflare",
-    "description": "Make employees, applications and networks faster and more secure everywhere, while reducing complexity and cost.",
+    "name": "",
+    "description": "",
     "icon": "https://www.cloudflare.com/favicon.ico"
   },
   {
@@ -207,19 +207,19 @@
     "domain": "id.moneyforward.com",
     "name": "Money Forward ID",
     "description": "",
-    "icon": "https://id.moneyforward.com/favicon.ico"
+    "icon": ""
   },
   {
     "domain": "id.smt.docomo.ne.jp",
     "name": "dアカウント",
     "description": "dアカウント(旧docomo  ID)はドコモの端末をお持ちでない方でも無料で使える共通IDです。ネットショッピングやデジタルコンテンツ等の様々なサービスを、デバイス、ネットワーク回線の種類を問わず利用できます。サービスを利用すればポイントも貯まり幅広くご利用頂けます。",
-    "icon": "https://cache.dac.cilite.docomo.ne.jp/dacbr/assets/image/favicon.ico"
+    "icon": ""
   },
   {
     "domain": "ivoclar.com",
     "name": "Modern Dental Solutions for Dentists & Technicians | Ivoclar USA",
     "description": "Transform smiles with Ivoclar's innovative dental solutions. Our efficient workflows and revolutionary products deliver exceptional results. Discover Ivoclar. ",
-    "icon": "https://www.ivoclar.com/favicon/favicon-196x196.png"
+    "icon": "https://www.ivoclar.com/favicon/android-chrome-310x310.png"
   },
   {
     "domain": "justpass.me",
@@ -288,6 +288,12 @@
     "icon": ""
   },
   {
+    "domain": "michigan.gov",
+    "name": "",
+    "description": "",
+    "icon": ""
+  },
+  {
     "domain": "microsoft.com",
     "name": "Microsoft – Cloud, Computers, Apps & Gaming",
     "description": "Explore Microsoft products and services for your home or business. Shop Surface, Microsoft 365, Xbox, Windows, Azure, and more. Find downloads and get support.",
@@ -303,7 +309,7 @@
     "domain": "moneybird.com",
     "name": "Bookkeeping software for entrepreneurs | Moneybird",
     "description": "Looking for a total solution? Then Moneybird is the right software for you!",
-    "icon": ""
+    "icon": "https://www.moneybird.com/favicons/favicon-96.png"
   },
   {
     "domain": "moneyforward.com",
@@ -355,9 +361,9 @@
   },
   {
     "domain": "passage.1password.com",
-    "name": "",
-    "description": "",
-    "icon": ""
+    "name": "Passwordless Authentication Powered by Passkeys | Passage by 1Password",
+    "description": "Passage provides passwordless authentication that you can add to your app or website with just a few lines of code. Learn more.",
+    "icon": "https://assets-global.website-files.com/64516fef70e3c53e580425b7/64516fef70e3c50a1104266d_Logo-Webclip_Icon%20Only-Light-31.png"
   },
   {
     "domain": "passage.id",
@@ -381,13 +387,13 @@
     "domain": "pastery.net",
     "name": "Pastery - The sweetest pastebin in the world!",
     "description": "Pastery is the sweetest pastebin in the world. Pastery is a secure website where you can store text online for a set period of time.",
-    "icon": "https://www.pastery.net/static/images/icons/apple-touch-icon.0926d8b47fbb.png"
+    "icon": "https://www.pastery.net/static/images/icons/android-chrome-512x512.png"
   },
   {
     "domain": "payfit.com",
     "name": "Payroll Software That's Smart, Simple & Stress-Free | PayFit",
     "description": "HMRC-recognised, PayFit combines best-in-class payroll software with expert support. Automate your payroll & HR admin and save time.",
-    "icon": ""
+    "icon": "https://payfit.com/favicon.ico"
   },
   {
     "domain": "paypal.com",
@@ -423,7 +429,7 @@
     "domain": "robinhood.com",
     "name": "Commission-free Stock Trading & Investing App | Robinhood",
     "description": "Robinhood has commission-free investing, and tools to help shape your financial future. Sign up and get your first stock free. Limitations and fees may apply.",
-    "icon": "https://robinhood.com/favicon.ico"
+    "icon": "https://cdn.robinhood.com/assets/robinhood/shared/iphone.png"
   },
   {
     "domain": "sandbox.fusionauth.io",
@@ -507,7 +513,7 @@
     "domain": "virginmedia.com",
     "name": "Virgin Media | Broadband & Cable Deals  - See What You Can Do",
     "description": "Welcome to Virgin Media, home of Superfast broadband, TV, landline & mobile deals. Working hard to help connect the nation, shop our offers and order online.",
-    "icon": ""
+    "icon": "https://www.virginmedia.com/favicon.ico"
   },
   {
     "domain": "webauthn.io",
@@ -525,7 +531,7 @@
     "domain": "yahoo.co.jp",
     "name": "Yahoo! JAPAN",
     "description": "あなたの毎日をアップデートする情報ポータル。検索、ニュース、天気、スポーツ、メール、ショッピング、オークションなど便利なサービスを展開しています。",
-    "icon": "https://s.yimg.jp/c/icon/s/bsc/2.0/favicon.ico"
+    "icon": ""
   },
   {
     "domain": "yahoo.com",
