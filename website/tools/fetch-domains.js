@@ -76,9 +76,8 @@ async function fetchDomainInfo(domain, debug = false) {
             const response = await axiosInstance.get(bestQualityIcon, { responseType: 'arraybuffer' });
             const fileExtension = bestQualityIcon.split('.').pop();
             // if icon folder does not exist, create it
-            fs.access('public/icons').catch(() => {
-                fs.mkdir('public/icons');
-            });
+            await fs.mkdir('public/icons').catch(() => { });
+
             iconPath = `icons/${domain}.${fileExtension}`;
             await fs.writeFile(`public/${iconPath}`, response.data);
             if (debug) console.log(`Icon saved to ${iconPath}`);
