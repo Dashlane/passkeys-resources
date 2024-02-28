@@ -7,4 +7,7 @@ module.exports = {
     output: 'export',
     assetPrefix: assetPrefix,
     basePath: basePath,
+    images: {
+        unoptimized: true
+    }
 };

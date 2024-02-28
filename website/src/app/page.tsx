@@ -7,6 +7,8 @@ import emptyIcon from "../../public/link.svg";
 import passkeyIcon from "../../public/passkey.svg";
 import searchIcon from "../../public/search.svg";
 import dashlaneIcon from "../../public/dashlane.svg";
+import enrollIcon from "../../public/enroll.svg";
+import manageIcon from "../../public/manage.svg";
 
 type SortedField = "domain" | "name";
 
@@ -99,6 +101,12 @@ const Page = () => {
                                 <th className="px-6 py-3 bg-gray-50 dark:bg-slate-700 dark:text-white text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider">
                                     Description
                                 </th>
+                                <th className="px-6 py-3 bg-gray-50 dark:bg-slate-700 dark:text-white text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider">
+                                    Enroll
+                                </th>
+                                <th className="px-6 py-3 bg-gray-50 dark:bg-slate-700 dark:text-white text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider">
+                                    Manage
+                                </th>
                             </tr>
                         </thead>
                         <tbody className="bg-white dark:bg-slate-800 divide-y divide-gray-200 dark:divide-gray-600">
@@ -109,13 +117,24 @@ const Page = () => {
                                 >
                                     <td className="px-6 py-4 whitespace-no-wrap">
                                         {item.icon !== "" ? (
-                                            <img src={item.icon} alt={item.name} className="h-8 w-8" />
+                                            <Image
+                                                src={item.icon}
+                                                alt={item.name}
+                                                width={32}
+                                                height={32}
+                                                className="h-8 w-8"
+                                            />
                                         ) : (
                                             <Image src={emptyIcon} alt={item.name} className="h-8 w-8" />
                                         )}
                                     </td>
                                     <td className="px-6 py-4 whitespace-no-wrap">
-                                        <a href={"https://" + item.domain} rel="nofollow" target="_blank">
+                                        <a
+                                            href={"https://" + item.domain}
+                                            rel="nofollow"
+                                            target="_blank"
+                                            className="hover:underline "
+                                        >
                                             {item.domain}
                                         </a>
                                     </td>
@@ -125,6 +144,40 @@ const Page = () => {
                                             : item.domain.charAt(0).toUpperCase() + item.domain.slice(1)}
                                     </td>
                                     <td className="px-6 py-4 whitespace-no-wrap">{item.description}</td>
+                                    <td className="px-6 py-4 whitespace-no-wrap text-center">
+                                        {item.endpoints.enroll !== "" && (
+                                            <a
+                                                href={item.endpoints.enroll}
+                                                rel="nofollow"
+                                                target="_blank"
+                                                title={item.endpoints.enroll}
+                                            >
+                                                <Image
+                                                    className="inline hover:opacity-70"
+                                                    alt="Enroll icon"
+                                                    height={25}
+                                                    src={enrollIcon}
+                                                />
+                                            </a>
+                                        )}
+                                    </td>
+                                    <td className="px-6 py-4 whitespace-no-wrap text-center">
+                                        {item.endpoints.manage !== "" && (
+                                            <a
+                                                href={item.endpoints.manage}
+                                                rel="nofollow"
+                                                target="_blank"
+                                                title={item.endpoints.manage}
+                                            >
+                                                <Image
+                                                    className="inline hover:opacity-70"
+                                                    alt="Manage icon"
+                                                    height={25}
+                                                    src={manageIcon}
+                                                />
+                                            </a>
+                                        )}
+                                    </td>
                                 </tr>
                             ))}
                         </tbody>

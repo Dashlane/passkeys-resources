@@ -69,11 +69,29 @@ async function fetchDomainInfo(domain, debug = false) {
 
         const bestQualityIcon = await findBestAccessibleIcon(icons, debug);
 
+        let iconPath = '';
+        // save the icon locally
+        if (bestQualityIcon !== null && bestQualityIcon !== '') {
+            console.log("Fetching icon from:", bestQualityIcon);
+            const response = await axiosInstance.get(bestQualityIcon, { responseType: 'arraybuffer' });
+            const fileExtension = bestQualityIcon.split('.').pop();
+            // if icon folder does not exist, create it
+            fs.access('public/icons').catch(() => {
+                fs.mkdir('public/icons');
+            });
+            iconPath = `icons/${domain}.${fileExtension}`;
+            await fs.writeFile(`public/${iconPath}`, response.data);
+            if (debug) console.log(`Icon saved to ${iconPath}`);
+        }
+
+        const wellKnownEndpoints = await getWellKnownEndpoints(url.hostname, debug);
+
         return {
             domain, // Add the domain to the output
             name: title,
             description,
-            icon: bestQualityIcon,
+            icon: iconPath,
+            endpoints: wellKnownEndpoints,
         };
     } catch (error) {
         if (debug) {
@@ -85,7 +103,22 @@ async function fetchDomainInfo(domain, debug = false) {
             name: '',
             description: '',
             icon: '',
+            endpoints: { enroll: '', manage: '' },
         };
+    }
+}
+
+async function getWellKnownEndpoints(baseUrl, debug = false) {
+    const url = `https://${baseUrl}/.well-known/passkey-endpoints`;
+    console.log("Fetching passkey endpoints from:", url);
+    try {
+        const response = await axiosInstance.get(url);
+        return { enroll: response.data.enroll ?? '', manage: response.data.manage ?? '' };
+    } catch (error) {
+        if (debug) {
+            console.error(`Error fetching well-known endpoints for domain ${baseUrl}:`, error);
+        }
+        return { enroll: '', manage: '' };
     }
 }
 
