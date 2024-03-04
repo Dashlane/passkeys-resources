@@ -10,7 +10,7 @@ import dashlaneIcon from "../../public/dashlane.svg";
 import enrollIcon from "../../public/enroll.svg";
 import manageIcon from "../../public/manage.svg";
 
-type SortedField = "domain" | "name";
+type SortedField = "domain" | "name" | "enroll" | "manage";
 
 const Page = () => {
     const [searchTerm, setSearchTerm] = useState("");
@@ -30,8 +30,8 @@ const Page = () => {
 
     const sortedData = sortedField
         ? [...filteredData].sort((a, b) => {
-              const fieldA = a[sortedField].toLowerCase();
-              const fieldB = b[sortedField].toLowerCase();
+              const fieldA = { ...a.endpoints, ...a }[sortedField].toLowerCase();
+              const fieldB = { ...b.endpoints, ...b }[sortedField].toLowerCase();
 
               if (fieldA < fieldB) return sortedAscending ? -1 : 1;
               if (fieldA > fieldB) return sortedAscending ? 1 : -1;
@@ -86,7 +86,7 @@ const Page = () => {
                                 >
                                     Domain
                                     {sortedField === "domain" && (
-                                        <span className="ml-1">{sortedAscending ? "▲" : "▼"}</span>
+                                        <span className="ml-1">{sortedAscending ? "▼" : "▲"}</span>
                                     )}
                                 </th>
                                 <th
@@ -95,17 +95,29 @@ const Page = () => {
                                 >
                                     Name
                                     {sortedField === "name" && (
-                                        <span className="ml-1">{sortedAscending ? "▲" : "▼"}</span>
+                                        <span className="ml-1">{sortedAscending ? "▼" : "▲"}</span>
                                     )}
                                 </th>
                                 <th className="px-6 py-3 bg-gray-50 dark:bg-slate-700 dark:text-white text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider">
                                     Description
                                 </th>
-                                <th className="px-6 py-3 bg-gray-50 dark:bg-slate-700 dark:text-white text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider">
+                                <th
+                                    className="px-6 py-3 bg-gray-50 dark:bg-slate-700 dark:text-white text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider cursor-pointer"
+                                    onClick={() => sortData("enroll")}
+                                >
                                     Enroll
+                                    {sortedField === "enroll" && (
+                                        <span className="ml-1">{sortedAscending ? "▼" : "▲"}</span>
+                                    )}
                                 </th>
-                                <th className="px-6 py-3 bg-gray-50 dark:bg-slate-700 dark:text-white text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider">
+                                <th
+                                    className="px-6 py-3 bg-gray-50 dark:bg-slate-700 dark:text-white text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider cursor-pointer"
+                                    onClick={() => sortData("manage")}
+                                >
                                     Manage
+                                    {sortedField === "manage" && (
+                                        <span className="ml-1">{sortedAscending ? "▼" : "▲"}</span>
+                                    )}
                                 </th>
                             </tr>
                         </thead>
