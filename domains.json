@@ -93,7 +93,7 @@
     "domain": "boursobank.com",
     "name": "        BoursoBank (ex-Boursorama Banque) - Banque 100% en ligne - la moins chère depuis 16 ans\n",
     "description": "        BoursoBank (ex-Boursorama Banque), banque la moins chère depuis 16 ans : carte bancaire gratuite, crédit immobilier, assurance vie, bourse, épargne...\n",
-    "icon": "",
+    "icon": "icons/boursobank.com.png",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -343,7 +343,7 @@
     "domain": "id.moneyforward.com",
     "name": "Money Forward ID",
     "description": "",
-    "icon": "icons/id.moneyforward.com.png",
+    "icon": "",
     "endpoints": {
       "enroll": "https://id.moneyforward.com/webauthn/credentials",
       "manage": "https://id.moneyforward.com/webauthn/credentials"
@@ -353,7 +353,7 @@
     "domain": "id.smt.docomo.ne.jp",
     "name": "dアカウント",
     "description": "dアカウント(旧docomo  ID)はドコモの端末をお持ちでない方でも無料で使える共通IDです。ネットショッピングやデジタルコンテンツ等の様々なサービスを、デバイス、ネットワーク回線の種類を問わず利用できます。サービスを利用すればポイントも貯まり幅広くご利用頂けます。",
-    "icon": "icons/id.smt.docomo.ne.jp.ico",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -563,7 +563,7 @@
     "domain": "offshoot.rentals",
     "name": "Equipment rental for still and motion photography - Offshoot Rentals Melbourne",
     "description": "Offshoot Rentals is a trusted production partner in Melbourne, supplying equipment and support to a wide range of productions since 2010.",
-    "icon": "icons/offshoot.rentals.ico",
+    "icon": "icons/offshoot.rentals.png",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -623,7 +623,7 @@
     "domain": "passkeys.eu",
     "name": "Passkeys Demo: Try Passkeys with Face ID & Touch ID",
     "description": "Experience Passwordless Logins with the Free Passkeys Demo. Use Face ID, Touch ID, Android Biometrics or Windows Hello\n          instead of Passwords.",
-    "icon": "",
+    "icon": "icons/passkeys.eu.ico",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -643,7 +643,7 @@
     "domain": "pastery.net",
     "name": "Pastery - The sweetest pastebin in the world!",
     "description": "Pastery is the sweetest pastebin in the world. Pastery is a secure website where you can store text online for a set period of time.",
-    "icon": "",
+    "icon": "icons/pastery.net.png",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -713,7 +713,7 @@
     "domain": "robinhood.com",
     "name": "Commission-free Stock Trading & Investing App | Robinhood",
     "description": "Robinhood has commission-free investing, and tools to help shape your financial future. Sign up and get your first stock free. Limitations and fees may apply.",
-    "icon": "icons/robinhood.com.ico",
+    "icon": "icons/robinhood.com.png",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -721,7 +721,7 @@
   },
   {
     "domain": "sandbox.fusionauth.io",
-    "name": "FusionAuth Setup Wizard | FusionAuth",
+    "name": "FusionAuth",
     "description": "User Management Redefined. A Single Sign-On solution for your entire enterprise.",
     "icon": "icons/sandbox.fusionauth.io.png",
     "endpoints": {
@@ -791,9 +791,9 @@
   },
   {
     "domain": "thehendrixjc.com",
-    "name": "The Hendrix | Jersey City Luxury Rentals | Studio - 3 Bedroom Residences",
-    "description": "Culture, arts, & amenities moments from the PATH. An original lifestyle experience with spacious interiors and incredible modern design. Visit Today.",
-    "icon": "icons/thehendrixjc.com.png",
+    "name": "",
+    "description": "",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -863,7 +863,7 @@
     "domain": "virginmedia.com",
     "name": "Virgin Media | Broadband & Cable Deals  - See What You Can Do",
     "description": "Welcome to Virgin Media, home of Superfast broadband, TV, landline & mobile deals. Working hard to help connect the nation, shop our offers and order online.",
-    "icon": "",
+    "icon": "icons/virginmedia.com.ico",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -893,7 +893,7 @@
     "domain": "yahoo.co.jp",
     "name": "Yahoo! JAPAN",
     "description": "あなたの毎日をアップデートする情報ポータル。検索、ニュース、天気、スポーツ、メール、ショッピング、オークションなど便利なサービスを展開しています。",
-    "icon": "icons/yahoo.co.jp.png",
+    "icon": "",
     "endpoints": {
       "enroll": "https://account.edit.yahoo.co.jp/authdevice?cpt_n=PasskeyEndpoints&cpt_m=link&cpt_s=PasskeyEndpoints",
       "manage": "https://account.edit.yahoo.co.jp/authdevice?cpt_n=PasskeyEndpoints&cpt_m=link&cpt_s=PasskeyEndpoints"
