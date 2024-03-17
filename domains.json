@@ -345,15 +345,15 @@
     "description": "",
     "icon": "",
     "endpoints": {
-      "enroll": "https://id.moneyforward.com/webauthn/credentials",
-      "manage": "https://id.moneyforward.com/webauthn/credentials"
+      "enroll": "",
+      "manage": ""
     }
   },
   {
     "domain": "id.smt.docomo.ne.jp",
     "name": "dアカウント",
     "description": "dアカウント(旧docomo  ID)はドコモの端末をお持ちでない方でも無料で使える共通IDです。ネットショッピングやデジタルコンテンツ等の様々なサービスを、デバイス、ネットワーク回線の種類を問わず利用できます。サービスを利用すればポイントも貯まり幅広くご利用頂けます。",
-    "icon": "",
+    "icon": "icons/id.smt.docomo.ne.jp.ico",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -720,6 +720,16 @@
     }
   },
   {
+    "domain": "roblox.com",
+    "name": "",
+    "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
     "domain": "sandbox.fusionauth.io",
     "name": "FusionAuth",
     "description": "User Management Redefined. A Single Sign-On solution for your entire enterprise.",
@@ -781,9 +791,9 @@
   },
   {
     "domain": "tender.run",
-    "name": "Tender | A private, productive personal finance tool",
-    "description": "A private, productive personal finance tool",
-    "icon": "",
+    "name": "Tender | No-budget, inbox-zero personal finance software",
+    "description": "Simple, no-budget, inbox-zero personal finance software that helps you track your expenses",
+    "icon": "icons/tender.run.ico",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -791,9 +801,9 @@
   },
   {
     "domain": "thehendrixjc.com",
-    "name": "",
-    "description": "",
-    "icon": "",
+    "name": "The Hendrix | Jersey City Luxury Rentals | Studio - 3 Bedroom Residences",
+    "description": "Culture, arts, & amenities moments from the PATH. An original lifestyle experience with spacious interiors and incredible modern design. Visit Today.",
+    "icon": "icons/thehendrixjc.com.png",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -811,8 +821,8 @@
   },
   {
     "domain": "trusona.com",
-    "name": "Trusona",
-    "description": "Trusona improves business growth and profitability with faster, phishing-resistant sign-ins that delight your customers.",
+    "name": "Prevent GenAI-powered Account Takeover - Trusona",
+    "description": "With ATO Protect, you can escalate and eliminate account takeover fraud within your existing decision matrix. No integration needed.",
     "icon": "icons/trusona.com.png",
     "endpoints": {
       "enroll": "",
@@ -831,12 +841,12 @@
   },
   {
     "domain": "uber.com",
-    "name": "Explore the Uber Platform | Uber United States",
-    "description": "Learn how you can leverage the Uber platform and apps to earn more, eat, commute, get a ride, simplify business travel, and more.",
-    "icon": "icons/uber.com.png",
+    "name": "",
+    "description": "",
+    "icon": "",
     "endpoints": {
-      "enroll": "https://account.uber.com/passkeys",
-      "manage": "https://account.uber.com/passkeys"
+      "enroll": "",
+      "manage": ""
     }
   },
   {
@@ -893,7 +903,7 @@
     "domain": "yahoo.co.jp",
     "name": "Yahoo! JAPAN",
     "description": "あなたの毎日をアップデートする情報ポータル。検索、ニュース、天気、スポーツ、メール、ショッピング、オークションなど便利なサービスを展開しています。",
-    "icon": "",
+    "icon": "icons/yahoo.co.jp.ico",
     "endpoints": {
       "enroll": "https://account.edit.yahoo.co.jp/authdevice?cpt_n=PasskeyEndpoints&cpt_m=link&cpt_s=PasskeyEndpoints",
       "manage": "https://account.edit.yahoo.co.jp/authdevice?cpt_n=PasskeyEndpoints&cpt_m=link&cpt_s=PasskeyEndpoints"
