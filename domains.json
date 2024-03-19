@@ -71,8 +71,8 @@
   },
   {
     "domain": "beyondidentity.com",
-    "name": "Beyond Identity | Secure MFA for Workforces and Customers",
-    "description": "Continuously validate your users and devices and reduce your attack surface by 80% with Beyond Identity's phishing-resistant and passwordless solutions.",
+    "name": "Beyond Identity",
+    "description": "Reduce Your Attack Surface By 80% with Beyond Identity's FIDO2 certified phishing-resistant MFA.",
     "icon": "icons/beyondidentity.com.png",
     "endpoints": {
       "enroll": "",
@@ -220,6 +220,16 @@
     }
   },
   {
+    "domain": "finom.co",
+    "name": "",
+    "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
     "domain": "fleeps.co",
     "name": "Fleeps - Experts that will guide you through a new area of travel.\n",
     "description": "With passionate travel creators at your side, we are building your go-to destination for personalized and authentic travel advice.",
@@ -290,20 +300,20 @@
     }
   },
   {
-    "domain": "hanko.io",
-    "name": "Hanko – Open source authentication and passkey infrastructure",
-    "description": "APIs, SDKs, and pre-built UI components to power your login and user management.",
-    "icon": "icons/hanko.io.png",
+    "domain": "haeppie.com",
+    "name": "Create personalised spaces in seconds and close deals faster",
+    "description": "haeppie is made for Sales & Customer Success Teams - Turn buyer journeys into more revenue and get all decision makers on the same page",
+    "icon": "icons/haeppie.com.ico",
     "endpoints": {
       "enroll": "",
       "manage": ""
     }
   },
   {
-    "domain": "haeppie.com",
-    "name": "Create personalised spaces in seconds and close deals faster",
-    "description": "haeppie is made for Sales & Customer Success Teams - Turn buyer journeys into more revenue and get all decision makers on the same page",
-    "icon": "icons/haeppie.com.ico",
+    "domain": "hanko.io",
+    "name": "Hanko – Open source authentication and passkey infrastructure",
+    "description": "APIs, SDKs, and pre-built UI components to power your login and user management.",
+    "icon": "icons/hanko.io.png",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -710,6 +720,16 @@
     }
   },
   {
+    "domain": "revolut.com",
+    "name": "Revolut | All-in-one Finance App for your Money | Revolut United Kingdom",
+    "description": "Join 40+ million customers globally using Revolut to send money to 160+ countries, hold up-to 36 currencies in app, spend in 150+ currencies, and manage their money.",
+    "icon": "icons/revolut.com.png",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
     "domain": "robinhood.com",
     "name": "Commission-free Stock Trading & Investing App | Robinhood",
     "description": "Robinhood has commission-free investing, and tools to help shape your financial future. Sign up and get your first stock free. Limitations and fees may apply.",
@@ -801,9 +821,9 @@
   },
   {
     "domain": "thehendrixjc.com",
-    "name": "The Hendrix | Jersey City Luxury Rentals | Studio - 3 Bedroom Residences",
-    "description": "Culture, arts, & amenities moments from the PATH. An original lifestyle experience with spacious interiors and incredible modern design. Visit Today.",
-    "icon": "icons/thehendrixjc.com.png",
+    "name": "",
+    "description": "",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -903,7 +923,7 @@
     "domain": "yahoo.co.jp",
     "name": "Yahoo! JAPAN",
     "description": "あなたの毎日をアップデートする情報ポータル。検索、ニュース、天気、スポーツ、メール、ショッピング、オークションなど便利なサービスを展開しています。",
-    "icon": "icons/yahoo.co.jp.ico",
+    "icon": "icons/yahoo.co.jp.png",
     "endpoints": {
       "enroll": "https://account.edit.yahoo.co.jp/authdevice?cpt_n=PasskeyEndpoints&cpt_m=link&cpt_s=PasskeyEndpoints",
       "manage": "https://account.edit.yahoo.co.jp/authdevice?cpt_n=PasskeyEndpoints&cpt_m=link&cpt_s=PasskeyEndpoints"
