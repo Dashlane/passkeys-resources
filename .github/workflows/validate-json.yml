@@ -1,0 +1,32 @@
+name: Validate JSON
+
+on:
+    push:
+        paths:
+            - "resources/compatible-domains.json"
+
+jobs:
+    validate:
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: Checkout repository
+              uses: actions/checkout@v2
+
+            - name: Validate JSON Format
+              run: |
+                  if ! jq empty resources/compatible-domains.json > /dev/null; then
+                    echo "ERROR: JSON is invalid."
+                    exit 1
+                  else
+                    echo "JSON is valid."
+                  fi
+
+            - name: Verify JSON Ordering
+              run: |
+                  if diff -u <(jq -e 'sort' resources/compatible-domains.json) <(jq . resources/compatible-domains.json) ; then
+                    echo "JSON ordering is correct."
+                  else
+                    echo "ERROR: JSON ordering is incorrect."
+                    exit 1
+                  fi
