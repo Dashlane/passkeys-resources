@@ -93,7 +93,7 @@
     "domain": "boursobank.com",
     "name": "        BoursoBank (ex-Boursorama Banque) - Banque 100% en ligne - la moins chère depuis 16 ans\n",
     "description": "        BoursoBank (ex-Boursorama Banque), banque la moins chère depuis 16 ans : carte bancaire gratuite, crédit immobilier, assurance vie, bourse, épargne...\n",
-    "icon": "icons/boursobank.com.png",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -355,8 +355,8 @@
     "description": "",
     "icon": "",
     "endpoints": {
-      "enroll": "",
-      "manage": ""
+      "enroll": "https://id.moneyforward.com/webauthn/credentials",
+      "manage": "https://id.moneyforward.com/webauthn/credentials"
     }
   },
   {
@@ -590,6 +590,16 @@
     }
   },
   {
+    "domain": "olympics.com",
+    "name": "",
+    "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
     "domain": "omg.lol",
     "name": "omg.lol - A lovable web page and email address, just for you",
     "description": "Treat yourself to an awesome web address, a devastatingly gorgeous profile page, a stellar email address, and tons more",
@@ -733,7 +743,7 @@
     "domain": "robinhood.com",
     "name": "Commission-free Stock Trading & Investing App | Robinhood",
     "description": "Robinhood has commission-free investing, and tools to help shape your financial future. Sign up and get your first stock free. Limitations and fees may apply.",
-    "icon": "icons/robinhood.com.png",
+    "icon": "icons/robinhood.com.ico",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -893,7 +903,7 @@
     "domain": "virginmedia.com",
     "name": "Virgin Media | Broadband & Cable Deals  - See What You Can Do",
     "description": "Welcome to Virgin Media, home of Superfast broadband, TV, landline & mobile deals. Working hard to help connect the nation, shop our offers and order online.",
-    "icon": "icons/virginmedia.com.ico",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
