@@ -93,7 +93,7 @@
     "domain": "boursobank.com",
     "name": "        BoursoBank (ex-Boursorama Banque) - Banque 100% en ligne - la moins chère depuis 16 ans\n",
     "description": "        BoursoBank (ex-Boursorama Banque), banque la moins chère depuis 16 ans : carte bancaire gratuite, crédit immobilier, assurance vie, bourse, épargne...\n",
-    "icon": "",
+    "icon": "icons/boursobank.com.png",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -323,7 +323,7 @@
     "domain": "homedepot.com",
     "name": "The Home Depot",
     "description": "Shop online for all your home improvement needs: appliances, bathroom decorating ideas, kitchen remodeling, patio furniture, power tools, bbq grills, carpeting, lumber, concrete, lighting, ceiling fans and more at The Home Depot.",
-    "icon": "icons/homedepot.com.ico",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -743,7 +743,7 @@
     "domain": "robinhood.com",
     "name": "Commission-free Stock Trading & Investing App | Robinhood",
     "description": "Robinhood has commission-free investing, and tools to help shape your financial future. Sign up and get your first stock free. Limitations and fees may apply.",
-    "icon": "icons/robinhood.com.ico",
+    "icon": "icons/robinhood.com.png",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -831,9 +831,9 @@
   },
   {
     "domain": "thehendrixjc.com",
-    "name": "",
-    "description": "",
-    "icon": "",
+    "name": "The Hendrix | Jersey City Luxury Rentals | Studio - 3 Bedroom Residences",
+    "description": "Culture, arts, & amenities moments from the PATH. An original lifestyle experience with spacious interiors and incredible modern design. Visit Today.",
+    "icon": "icons/thehendrixjc.com.png",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -871,12 +871,12 @@
   },
   {
     "domain": "uber.com",
-    "name": "",
-    "description": "",
-    "icon": "",
+    "name": "Explore the Uber Platform | Uber United States",
+    "description": "Learn how you can leverage the Uber platform and apps to earn more, eat, commute, get a ride, simplify business travel, and more.",
+    "icon": "icons/uber.com.png",
     "endpoints": {
-      "enroll": "",
-      "manage": ""
+      "enroll": "https://account.uber.com/passkeys",
+      "manage": "https://account.uber.com/passkeys"
     }
   },
   {
@@ -903,7 +903,7 @@
     "domain": "virginmedia.com",
     "name": "Virgin Media | Broadband & Cable Deals  - See What You Can Do",
     "description": "Welcome to Virgin Media, home of Superfast broadband, TV, landline & mobile deals. Working hard to help connect the nation, shop our offers and order online.",
-    "icon": "",
+    "icon": "icons/virginmedia.com.ico",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -933,7 +933,7 @@
     "domain": "yahoo.co.jp",
     "name": "Yahoo! JAPAN",
     "description": "あなたの毎日をアップデートする情報ポータル。検索、ニュース、天気、スポーツ、メール、ショッピング、オークションなど便利なサービスを展開しています。",
-    "icon": "icons/yahoo.co.jp.png",
+    "icon": "icons/yahoo.co.jp.ico",
     "endpoints": {
       "enroll": "https://account.edit.yahoo.co.jp/authdevice?cpt_n=PasskeyEndpoints&cpt_m=link&cpt_s=PasskeyEndpoints",
       "manage": "https://account.edit.yahoo.co.jp/authdevice?cpt_n=PasskeyEndpoints&cpt_m=link&cpt_s=PasskeyEndpoints"
