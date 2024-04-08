@@ -90,6 +90,16 @@
     }
   },
   {
+    "domain": "bookmyname.com",
+    "name": "",
+    "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
     "domain": "boursobank.com",
     "name": "        BoursoBank (ex-Boursorama Banque) - Banque 100% en ligne - la moins chère depuis 16 ans\n",
     "description": "        BoursoBank (ex-Boursorama Banque), banque la moins chère depuis 16 ans : carte bancaire gratuite, crédit immobilier, assurance vie, bourse, épargne...\n",
@@ -311,7 +321,7 @@
   },
   {
     "domain": "hanko.io",
-    "name": "Hanko – Open source authentication and passkey infrastructure",
+    "name": "Hanko — Open source authentication and passkey infrastructure",
     "description": "APIs, SDKs, and pre-built UI components to power your login and user management.",
     "icon": "icons/hanko.io.png",
     "endpoints": {
@@ -323,7 +333,7 @@
     "domain": "homedepot.com",
     "name": "The Home Depot",
     "description": "Shop online for all your home improvement needs: appliances, bathroom decorating ideas, kitchen remodeling, patio furniture, power tools, bbq grills, carpeting, lumber, concrete, lighting, ceiling fans and more at The Home Depot.",
-    "icon": "",
+    "icon": "icons/homedepot.com.ico",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -371,7 +381,7 @@
   },
   {
     "domain": "ivoclar.com",
-    "name": "Modern Dental Solutions for Dentists & Technicians | Ivoclar USA",
+    "name": "Modern Solutions for Dentists & Technicians | Ivoclar",
     "description": "Transform smiles with Ivoclar's innovative dental solutions. Our efficient workflows and revolutionary products deliver exceptional results. Discover Ivoclar. ",
     "icon": "icons/ivoclar.com.png",
     "endpoints": {
@@ -621,9 +631,9 @@
   },
   {
     "domain": "passage.1password.com",
-    "name": "Passwordless Authentication Powered by Passkeys | Passage by 1Password",
-    "description": "Passage provides passwordless authentication that you can add to your app or website with just a few lines of code. Learn more.",
-    "icon": "icons/passage.1password.com.png",
+    "name": "",
+    "description": "",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -933,7 +943,7 @@
     "domain": "yahoo.co.jp",
     "name": "Yahoo! JAPAN",
     "description": "あなたの毎日をアップデートする情報ポータル。検索、ニュース、天気、スポーツ、メール、ショッピング、オークションなど便利なサービスを展開しています。",
-    "icon": "icons/yahoo.co.jp.ico",
+    "icon": "icons/yahoo.co.jp.png",
     "endpoints": {
       "enroll": "https://account.edit.yahoo.co.jp/authdevice?cpt_n=PasskeyEndpoints&cpt_m=link&cpt_s=PasskeyEndpoints",
       "manage": "https://account.edit.yahoo.co.jp/authdevice?cpt_n=PasskeyEndpoints&cpt_m=link&cpt_s=PasskeyEndpoints"
