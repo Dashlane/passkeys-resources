@@ -3,18 +3,14 @@ import { Inter } from "next/font/google";
 
 const inter = Inter({ subsets: ["latin"] });
 
+export const viewport = {
+    themeColor: "#c6dadf",
+};
+
 export const metadata = {
     title: "Passkeys Directory",
     description: "Explore the crowd-sourced index of websites, apps, and services that offer signing in with passkeys.",
-    icons: [
-        {
-            src: "/favicon.ico",
-            sizes: "any",
-            type: "image/x-icon",
-        },
-    ],
     backgroundColor: "#c6dadf",
-    themeColor: "#c6dadf",
     display: "standalone",
     orientation: "portrait",
     scope: "/",
