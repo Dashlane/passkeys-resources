@@ -11,8 +11,8 @@
   },
   {
     "domain": "airnewzealand.com",
-    "name": "Air New Zealand – United States Official Site",
-    "description": "Get on board with Air New Zealand for cheap flights to New Zealand, Australia and the Pacific Islands. Direct flights to New Zealand from Los Angeles, San Francisco, Houston, Chicago, Honolulu & New York.",
+    "name": "Air New Zealand™ – United States Official Site | Safest Airline 2024",
+    "description": "Flights from the USA to New Zealand, Australia and the Pacific Islands. We fly direct to New Zealand from Los Angeles, San Francisco, Houston, Honolulu and New York.",
     "icon": "icons/airnewzealand.com.png",
     "endpoints": {
       "enroll": "",
@@ -82,7 +82,7 @@
   {
     "domain": "binance.com",
     "name": "Binance - Cryptocurrency Exchange for Bitcoin, Ethereum & Altcoins",
-    "description": "Binance cryptocurrency exchange - We operate the worlds biggest bitcoin exchange and altcoin crypto exchange in the world by volume",
+    "description": "Binance is the largest cryptocurrency exchange by trading volume, serving 185M+ users across 180+ countries. With over 350 listed Altcoins, it is the world’s leading crypto exchange.",
     "icon": "icons/binance.com.png",
     "endpoints": {
       "enroll": "",
@@ -90,10 +90,30 @@
     }
   },
   {
+    "domain": "bmw.co.uk",
+    "name": "BMW UK Official Website - The Ultimate Driving Machine",
+    "description": "BMW's official UK website. Discover award-winning cars and EVs. Find and configure your perfect BMW car, book a test drive, find financing and shop online.",
+    "icon": "icons/bmw.co.uk.ico",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "bmwusa.com",
+    "name": "Luxury SUVs, Sedans, Coupes, Convertibles & Crossovers | BMW USA",
+    "description": "Explore models, build your own, and find local inventory from a nearby BMW Center. Experience the performance, luxury, and innovation of the Ultimate Driving Machine today.",
+    "icon": "icons/bmwusa.com.png",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
     "domain": "bookmyname.com",
-    "name": "",
-    "description": "",
-    "icon": "",
+    "name": "BookMyName.com - Register domain names",
+    "description": "BookMyName is a domain name registrar for domain COM, NET, ORG, BIZ, INFO, MOBI, NAME, ASIA, EU, FR, BE, DE, CH, ES, US, Register or Transfer a domaine name.",
+    "icon": "icons/bookmyname.com.ico",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -161,8 +181,8 @@
   },
   {
     "domain": "corbado.com",
-    "name": "Corbado - Offer Passkeys To Your Users",
-    "description": "We help you offer passkeys in any new or existing application. Provide the most secure and most convienent authentication to delight your users.",
+    "name": "Corbado - Add passkeys to any new or existing app",
+    "description": "We help you offer passkeys in any new or existing application. Provide the most secure and most convenient authentication to delight your users.",
     "icon": "icons/corbado.com.png",
     "endpoints": {
       "enroll": "",
@@ -211,8 +231,8 @@
   },
   {
     "domain": "docusign.com",
-    "name": "DocuSign | #1 in Electronic Signature and Contract Lifecycle Management",
-    "description": "DocuSign ensures the security & mobility to digitally transform businesses. Sign docs for free.",
+    "name": "Docusign | #1 in Electronic Signature and Intelligent Agreement Management",
+    "description": "Create, commit to, and manage your agreements all in one platform with DocuSign IAM. Electronically sign for free.",
     "icon": "icons/docusign.com.png",
     "endpoints": {
       "enroll": "",
@@ -371,9 +391,9 @@
   },
   {
     "domain": "id.smt.docomo.ne.jp",
-    "name": "dアカウント",
-    "description": "dアカウント(旧docomo  ID)はドコモの端末をお持ちでない方でも無料で使える共通IDです。ネットショッピングやデジタルコンテンツ等の様々なサービスを、デバイス、ネットワーク回線の種類を問わず利用できます。サービスを利用すればポイントも貯まり幅広くご利用頂けます。",
-    "icon": "icons/id.smt.docomo.ne.jp.ico",
+    "name": "",
+    "description": "",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -381,7 +401,7 @@
   },
   {
     "domain": "ivoclar.com",
-    "name": "Modern Solutions for Dentists & Technicians | Ivoclar",
+    "name": "Modern Dental Solutions for Dentists & Technicians | Ivoclar USA",
     "description": "Transform smiles with Ivoclar's innovative dental solutions. Our efficient workflows and revolutionary products deliver exceptional results. Discover Ivoclar. ",
     "icon": "icons/ivoclar.com.png",
     "endpoints": {
@@ -422,7 +442,7 @@
   {
     "domain": "laakari.chat",
     "name": "Lääkäri.chat – Helppo ja nopea lääkäri-chat",
-    "description": "Lääkäri.chatissä asioit helposti ja turvallisesti yksityisen etälääkärin kanssa. Edullinen reseptin uusiminen 14,99 €. Etälääkärin vastaanotot alkaen 24,99 €.",
+    "description": "Lääkäri.chatissä asioit helposti ja turvallisesti yksityisen etälääkärin kanssa. Edullinen reseptin uusiminen samana päivänä 19,99 €. Etälääkärin vastaanotot omavastuu alkaen 14,99 €.",
     "icon": "",
     "endpoints": {
       "enroll": "",
@@ -631,9 +651,9 @@
   },
   {
     "domain": "passage.1password.com",
-    "name": "",
-    "description": "",
-    "icon": "",
+    "name": "Passwordless Authentication Powered by Passkeys | Passage by 1Password",
+    "description": "Passage provides passwordless authentication that you can add to your app or website with just a few lines of code. Learn more.",
+    "icon": "icons/passage.1password.com.png",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -801,9 +821,9 @@
   },
   {
     "domain": "synology.com",
-    "name": "Synology Inc.",
-    "description": "Synology uniquely enables you to manage, secure, and protect your data – at the scale needed to accommodate the exponential data growth of the digital world.",
-    "icon": "icons/synology.com.png",
+    "name": "",
+    "description": "",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -831,8 +851,8 @@
   },
   {
     "domain": "tender.run",
-    "name": "Tender | No-budget, inbox-zero personal finance software",
-    "description": "Simple, no-budget, inbox-zero personal finance software that helps you track your expenses",
+    "name": "Tender | The inbox for your finances",
+    "description": "Tender is an inbox-zero spending tracker app that's fast, simple, and secure.",
     "icon": "icons/tender.run.ico",
     "endpoints": {
       "enroll": "",
@@ -901,7 +921,7 @@
   },
   {
     "domain": "vercel.com",
-    "name": "Vercel: Build and deploy the best Web experiences with The Frontend Cloud – Vercel",
+    "name": "Vercel: Build and deploy the best Web experiences with The Frontend Cloud",
     "description": "Vercel's Frontend Cloud gives developers the frameworks, workflows, and infrastructure to build a faster, more personalized Web.",
     "icon": "icons/vercel.com.png",
     "endpoints": {
@@ -930,6 +950,16 @@
     }
   },
   {
+    "domain": "whatsapp.com",
+    "name": "WhatsApp | Secure and Reliable Free Private Messaging and Calling",
+    "description": "Use WhatsApp Messenger to stay in touch with friends and family. WhatsApp is free and offers simple, secure, reliable messaging and calling, available on phones all over the world.",
+    "icon": "icons/whatsapp.com.ico",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
     "domain": "x.com",
     "name": "",
     "description": "",
@@ -943,7 +973,7 @@
     "domain": "yahoo.co.jp",
     "name": "Yahoo! JAPAN",
     "description": "あなたの毎日をアップデートする情報ポータル。検索、ニュース、天気、スポーツ、メール、ショッピング、オークションなど便利なサービスを展開しています。",
-    "icon": "icons/yahoo.co.jp.png",
+    "icon": "icons/yahoo.co.jp.ico",
     "endpoints": {
       "enroll": "https://account.edit.yahoo.co.jp/authdevice?cpt_n=PasskeyEndpoints&cpt_m=link&cpt_s=PasskeyEndpoints",
       "manage": "https://account.edit.yahoo.co.jp/authdevice?cpt_n=PasskeyEndpoints&cpt_m=link&cpt_s=PasskeyEndpoints"
