@@ -72,7 +72,7 @@
   {
     "domain": "beyondidentity.com",
     "name": "Beyond Identity",
-    "description": "Reduce Your Attack Surface By 80% with Beyond Identity's FIDO2 certified phishing-resistant MFA.",
+    "description": "The only secure-by-design Secure Access Platform. Eliminates access risks with SSO, Zero-Trust Identity architecture, phish-resistant MFA, Device Trust and Passwordless capabilities. The secure alternative to Okta, Microsoft Entra, Google MFA, and more.",
     "icon": "icons/beyondidentity.com.png",
     "endpoints": {
       "enroll": "",
@@ -101,9 +101,9 @@
   },
   {
     "domain": "bmwusa.com",
-    "name": "Luxury SUVs, Sedans, Coupes, Convertibles & Crossovers | BMW USA",
-    "description": "Explore models, build your own, and find local inventory from a nearby BMW Center. Experience the performance, luxury, and innovation of the Ultimate Driving Machine today.",
-    "icon": "icons/bmwusa.com.png",
+    "name": "",
+    "description": "",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -111,9 +111,9 @@
   },
   {
     "domain": "bookmyname.com",
-    "name": "BookMyName.com - Register domain names",
-    "description": "BookMyName is a domain name registrar for domain COM, NET, ORG, BIZ, INFO, MOBI, NAME, ASIA, EU, FR, BE, DE, CH, ES, US, Register or Transfer a domaine name.",
-    "icon": "icons/bookmyname.com.ico",
+    "name": "BookMyName - Best Domain Name Registration & Email Services",
+    "description": "Secure your online presence with BookMyName. We offer reliable domain name registration, and professional email services. Start your online journey with us today!",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -221,8 +221,8 @@
   },
   {
     "domain": "discord.com",
-    "name": "Discord | Your Place to Talk and Hang Out",
-    "description": "Discord is the easiest way to talk over voice, video, and text. Talk, chat, hang out, and stay close with your friends and communities.",
+    "name": "Discord - Group Chat That’s All Fun & Games",
+    "description": "Discord is great for playing games and chilling with friends, or even building a worldwide community. Customize your own space to talk, play, and hang out.",
     "icon": "icons/discord.com.png",
     "endpoints": {
       "enroll": "",
@@ -232,7 +232,7 @@
   {
     "domain": "docusign.com",
     "name": "Docusign | #1 in Electronic Signature and Intelligent Agreement Management",
-    "description": "Create, commit to, and manage your agreements all in one platform with DocuSign IAM. Electronically sign for free.",
+    "description": "Create, commit to, and manage your agreements all in one platform with Docusign IAM. Electronically sign for free.",
     "icon": "icons/docusign.com.png",
     "endpoints": {
       "enroll": "",
@@ -271,8 +271,8 @@
   },
   {
     "domain": "formx.ai",
-    "name": "Extract document information and turn into actionable data with AI - FormX.ai",
-    "description": "Utilize a secure data extraction API to extract information from unstructured documents such as invoices, receipts, bank statements, and more to integrate with your existing system.",
+    "name": "FormX.ai - Automate Data Extraction to Empower Your Business",
+    "description": "FormX.ai brings cutting-edge technology to your business, freeing you from manual work and minimizing human errors. Embrace a world where automation reigns, and efficiency is paramount!",
     "icon": "icons/formx.ai.png",
     "endpoints": {
       "enroll": "",
@@ -341,8 +341,8 @@
   },
   {
     "domain": "hanko.io",
-    "name": "Hanko — Open source authentication and passkey infrastructure",
-    "description": "APIs, SDKs, and pre-built UI components to power your login and user management.",
+    "name": "Hanko — Open source auth and user management for the passkey era",
+    "description": "Never worry about user authentication and weak or stolen passwords anymore. Quickly integrate Hanko's open source authentication APIs and embeddable UI components for better security and happier users.",
     "icon": "icons/hanko.io.png",
     "endpoints": {
       "enroll": "",
@@ -361,9 +361,9 @@
   },
   {
     "domain": "horizon.pics",
-    "name": "Horizon Pics - Supercharged File Sharing",
-    "description": "Horizon is a supercharged file sharing platform. With Horizon, you can upload images, videos, and other files and share them online using secure links. Whether that's a family photo, game-play footage or documentation, Horizon gives you the power to share and collaborate.",
-    "icon": "icons/horizon.pics.png",
+    "name": "Supercharged fast, private & reliable file hosting – Horizon",
+    "description": "Horizon is your place to upload and share photos, videos, documents, links, clipboards, and more. Fast, private and reliable.",
+    "icon": "icons/horizon.pics.ico",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -383,7 +383,7 @@
     "domain": "id.moneyforward.com",
     "name": "Money Forward ID",
     "description": "",
-    "icon": "",
+    "icon": "icons/id.moneyforward.com.ico",
     "endpoints": {
       "enroll": "https://id.moneyforward.com/webauthn/credentials",
       "manage": "https://id.moneyforward.com/webauthn/credentials"
@@ -501,8 +501,8 @@
   },
   {
     "domain": "marketcircle.com",
-    "name": "Award-Winning Mac CRM Software for Your Small Business | Daylite",
-    "description": "Daylite is a leading Mac CRM software for your small business, helping teams manage more clients, close more deals, & complete more projects. Schedule a demo!",
+    "name": "Daylite: Award-Winning Small Business App for Apple Devices | Daylite",
+    "description": "Manage your small business with a leading CRM, Sales and Project Management software suite that helps you work efficiently and impress clients.",
     "icon": "icons/marketcircle.com.png",
     "endpoints": {
       "enroll": "",
@@ -531,8 +531,8 @@
   },
   {
     "domain": "microsoft.com",
-    "name": "Microsoft – Cloud, Computers, Apps & Gaming",
-    "description": "Explore Microsoft products and services for your home or business. Shop Surface, Microsoft 365, Xbox, Windows, Azure, and more. Find downloads and get support.",
+    "name": "Microsoft – AI, Cloud, Productivity, Computing, Gaming & Apps",
+    "description": "Explore Microsoft products and services and support for your home or business. Shop Microsoft 365, Copilot, Teams, Xbox, Windows, Azure, Surface and more.",
     "icon": "icons/microsoft.com.ico",
     "endpoints": {
       "enroll": "",
@@ -541,9 +541,9 @@
   },
   {
     "domain": "monespacesante.fr",
-    "name": "Mon espace santé",
+    "name": "",
     "description": "",
-    "icon": "icons/monespacesante.fr.png",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -572,8 +572,18 @@
   {
     "domain": "namecheap.com",
     "name": "Buy a domain name - Register cheap domain names from $0.99 - Namecheap",
-    "description": "Register domain names at Namecheap. Buy cheap domain names and enjoy 24/7 support. With over 16 million domains under management, you know you’re in good hands.",
+    "description": "Register domain names at Namecheap. Buy cheap domain names and enjoy 24/7 support. With over 18 million domains under management, you know you’re in good hands.",
     "icon": "icons/namecheap.com.ico",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "nfl.com",
+    "name": "",
+    "description": "",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -603,7 +613,7 @@
     "domain": "offshoot.rentals",
     "name": "Equipment rental for still and motion photography - Offshoot Rentals Melbourne",
     "description": "Offshoot Rentals is a trusted production partner in Melbourne, supplying equipment and support to a wide range of productions since 2010.",
-    "icon": "icons/offshoot.rentals.png",
+    "icon": "icons/offshoot.rentals.ico",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -672,7 +682,7 @@
   {
     "domain": "passkeys.eu",
     "name": "Passkeys Demo: Try Passkeys with Face ID & Touch ID",
-    "description": "Experience Passwordless Logins with the Free Passkeys Demo. Use Face ID, Touch ID, Android Biometrics or Windows Hello\n          instead of Passwords.",
+    "description": "Experience Passwordless Logins with the Free Passkeys Demo. Use Face ID, Touch ID, Android Biometrics or Windows Hello instead of Passwords.",
     "icon": "icons/passkeys.eu.ico",
     "endpoints": {
       "enroll": "",
@@ -683,7 +693,7 @@
     "domain": "passkeys.guru",
     "name": "Descope Passkeys Demo",
     "description": "",
-    "icon": "icons/passkeys.guru.svg",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -711,8 +721,8 @@
   },
   {
     "domain": "paypal.com",
-    "name": "Digital Wallets, Money Management, and More | PayPal US",
-    "description": "PayPal is the faster, safer way to send and receive money or make an online payment. Get started or create a merchant account to accept payments.",
+    "name": "Pay, Send and Save Money with PayPal | PayPal US",
+    "description": "From paying friends to saving money or getting cash back when you shop, explore what the new PayPal app has to offer.",
     "icon": "icons/paypal.com.png",
     "endpoints": {
       "enroll": "https://www.paypal.com/myaccount/security/passkeyLogin/createPasskey",
@@ -761,9 +771,9 @@
   },
   {
     "domain": "revolut.com",
-    "name": "Revolut | All-in-one Finance App for your Money | Revolut United Kingdom",
-    "description": "Join 40+ million customers globally using Revolut to send money to 160+ countries, hold up-to 36 currencies in app, spend in 150+ currencies, and manage their money.",
-    "icon": "icons/revolut.com.png",
+    "name": "",
+    "description": "",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -773,7 +783,7 @@
     "domain": "robinhood.com",
     "name": "Commission-free Stock Trading & Investing App | Robinhood",
     "description": "Robinhood has commission-free investing, and tools to help shape your financial future. Sign up and get your first stock free. Limitations and fees may apply.",
-    "icon": "icons/robinhood.com.png",
+    "icon": "icons/robinhood.com.ico",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -781,9 +791,9 @@
   },
   {
     "domain": "roblox.com",
-    "name": "",
-    "description": "",
-    "icon": "",
+    "name": "Roblox",
+    "description": "Roblox is the ultimate virtual universe that lets you create, share experiences with friends, and be anything you can imagine. Join millions of people and discover an infinite variety of immersive experiences created by a global community!",
+    "icon": "icons/roblox.com.png",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -811,7 +821,7 @@
   },
   {
     "domain": "shopify.com",
-    "name": "Start and grow your e-commerce business - 3-Day Free Trial - Shopify USA",
+    "name": "Shopify",
     "description": "Try Shopify free and start a business or grow an existing one. Get more than ecommerce software with tools to manage every part of your business.",
     "icon": "icons/shopify.com.ico",
     "endpoints": {
@@ -821,9 +831,9 @@
   },
   {
     "domain": "synology.com",
-    "name": "",
-    "description": "",
-    "icon": "",
+    "name": "Synology Inc.",
+    "description": "Synology uniquely enables you to manage, secure, and protect your data – at the scale needed to accommodate the exponential data growth of the digital world.",
+    "icon": "icons/synology.com.png",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -832,8 +842,8 @@
   {
     "domain": "tailscale.com",
     "name": "Tailscale · Best VPN Service for Secure Networks",
-    "description": "Tailscale is a zero config VPN for building secure networks. Install on any device in minutes. Remote access from any network or physical location.",
-    "icon": "icons/tailscale.com.ico",
+    "description": "Securely connect to anything on the internet with Tailscale. Built on WireGuard®️, Tailscale enables you to make finely configurable connections, secured end-to-end according to zero trust principles, between any resources on any infrastructure.",
+    "icon": "icons/tailscale.com.png",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -852,7 +862,7 @@
   {
     "domain": "tender.run",
     "name": "Tender | The inbox for your finances",
-    "description": "Tender is an inbox-zero spending tracker app that's fast, simple, and secure.",
+    "description": "No-budget, inbox-zero personal finance software",
     "icon": "icons/tender.run.ico",
     "endpoints": {
       "enroll": "",
@@ -891,9 +901,9 @@
   },
   {
     "domain": "twitter.com",
-    "name": "",
+    "name": "x.com",
     "description": "",
-    "icon": "",
+    "icon": "icons/twitter.com.png",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -921,8 +931,8 @@
   },
   {
     "domain": "vercel.com",
-    "name": "Vercel: Build and deploy the best Web experiences with The Frontend Cloud",
-    "description": "Vercel's Frontend Cloud gives developers the frameworks, workflows, and infrastructure to build a faster, more personalized Web.",
+    "name": "Vercel: Build and deploy the best web experiences with the Frontend Cloud",
+    "description": "Vercel's Frontend Cloud gives developers the frameworks, workflows, and infrastructure to build a faster, more personalized web.",
     "icon": "icons/vercel.com.png",
     "endpoints": {
       "enroll": "",
@@ -961,9 +971,9 @@
   },
   {
     "domain": "x.com",
-    "name": "",
+    "name": "x.com",
     "description": "",
-    "icon": "",
+    "icon": "icons/x.com.png",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -973,7 +983,7 @@
     "domain": "yahoo.co.jp",
     "name": "Yahoo! JAPAN",
     "description": "あなたの毎日をアップデートする情報ポータル。検索、ニュース、天気、スポーツ、メール、ショッピング、オークションなど便利なサービスを展開しています。",
-    "icon": "icons/yahoo.co.jp.ico",
+    "icon": "icons/yahoo.co.jp.png",
     "endpoints": {
       "enroll": "https://account.edit.yahoo.co.jp/authdevice?cpt_n=PasskeyEndpoints&cpt_m=link&cpt_s=PasskeyEndpoints",
       "manage": "https://account.edit.yahoo.co.jp/authdevice?cpt_n=PasskeyEndpoints&cpt_m=link&cpt_s=PasskeyEndpoints"
