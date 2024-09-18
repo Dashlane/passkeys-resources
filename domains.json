@@ -101,9 +101,9 @@
   },
   {
     "domain": "bmwusa.com",
-    "name": "",
-    "description": "",
-    "icon": "",
+    "name": "Luxury SUVs, Sedans, Coupes, Convertibles & Crossovers | BMW USA",
+    "description": "Explore models, build your own, and find local inventory from a nearby BMW Center. Experience the performance, luxury, and innovation of the Ultimate Driving Machine today.",
+    "icon": "icons/bmwusa.com.png",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -383,7 +383,7 @@
     "domain": "id.moneyforward.com",
     "name": "Money Forward ID",
     "description": "",
-    "icon": "icons/id.moneyforward.com.ico",
+    "icon": "",
     "endpoints": {
       "enroll": "https://id.moneyforward.com/webauthn/credentials",
       "manage": "https://id.moneyforward.com/webauthn/credentials"
@@ -471,6 +471,16 @@
   },
   {
     "domain": "lowes.com",
+    "name": "",
+    "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "macif.fr",
     "name": "",
     "description": "",
     "icon": "",
@@ -613,7 +623,7 @@
     "domain": "offshoot.rentals",
     "name": "Equipment rental for still and motion photography - Offshoot Rentals Melbourne",
     "description": "Offshoot Rentals is a trusted production partner in Melbourne, supplying equipment and support to a wide range of productions since 2010.",
-    "icon": "icons/offshoot.rentals.ico",
+    "icon": "icons/offshoot.rentals.png",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -693,7 +703,7 @@
     "domain": "passkeys.guru",
     "name": "Descope Passkeys Demo",
     "description": "",
-    "icon": "",
+    "icon": "icons/passkeys.guru.svg",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -943,7 +953,7 @@
     "domain": "virginmedia.com",
     "name": "Virgin Media | Broadband & Cable Deals  - See What You Can Do",
     "description": "Welcome to Virgin Media, home of Superfast broadband, TV, landline & mobile deals. Working hard to help connect the nation, shop our offers and order online.",
-    "icon": "icons/virginmedia.com.ico",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
