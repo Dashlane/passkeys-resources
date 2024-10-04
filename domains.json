@@ -111,9 +111,9 @@
   },
   {
     "domain": "bookmyname.com",
-    "name": "BookMyName - Best Domain Name Registration & Email Services",
-    "description": "Secure your online presence with BookMyName. We offer reliable domain name registration, and professional email services. Start your online journey with us today!",
-    "icon": "icons/bookmyname.com.ico",
+    "name": "",
+    "description": "",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -611,9 +611,9 @@
   },
   {
     "domain": "nintendo.com",
-    "name": "",
-    "description": "",
-    "icon": "",
+    "name": "Nintendo Official Site: Consoles, Games, News, and More",
+    "description": "Visit the official Nintendo site to shop for Nintendo Switch™ systems and video games, read the latest news, find fun gear and gifts with a Nintendo twist, and much more.",
+    "icon": "icons/nintendo.com.png",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -891,9 +891,9 @@
   },
   {
     "domain": "thehendrixjc.com",
-    "name": "",
-    "description": "",
-    "icon": "",
+    "name": "The Hendrix | Jersey City Luxury Rentals | Studio - 3 Bedroom Residences",
+    "description": "Culture, arts, & amenities moments from the PATH. An original lifestyle experience with spacious interiors and incredible modern design. Visit Today.",
+    "icon": "icons/thehendrixjc.com.png",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -924,6 +924,16 @@
     "name": "x.com",
     "description": "",
     "icon": "icons/twitter.com.png",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "ubank.com.au",
+    "name": "Online Bank | Bank Accounts & Home Loans - ubank",
+    "description": "Award-winning online bank accounts and home loans. Our mission is simple: to help more Australians be successful with money.",
+    "icon": "icons/ubank.com.au.ico",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -1003,7 +1013,7 @@
     "domain": "yahoo.co.jp",
     "name": "Yahoo! JAPAN",
     "description": "あなたの毎日をアップデートする情報ポータル。検索、ニュース、天気、スポーツ、メール、ショッピング、オークションなど便利なサービスを展開しています。",
-    "icon": "",
+    "icon": "icons/yahoo.co.jp.ico",
     "endpoints": {
       "enroll": "https://account.edit.yahoo.co.jp/authdevice?cpt_n=PasskeyEndpoints&cpt_m=link&cpt_s=PasskeyEndpoints",
       "manage": "https://account.edit.yahoo.co.jp/authdevice?cpt_n=PasskeyEndpoints&cpt_m=link&cpt_s=PasskeyEndpoints"
