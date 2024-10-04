@@ -21,8 +21,8 @@
   },
   {
     "domain": "amazon.com",
-    "name": "Amazon.com",
-    "description": "",
+    "name": "Amazon.com. Spend less. Smile more.",
+    "description": "Free shipping on millions of items. Get the best of Shopping and Entertainment with Prime. Enjoy low prices and great deals on the largest selection of everyday essentials and other products, including fashion, home, beauty, electronics, Alexa Devices, sporting goods, toys, automotive, pets, baby, books, video games, musical instruments, office supplies, and more.",
     "icon": "icons/amazon.com.ico",
     "endpoints": {
       "enroll": "",
@@ -113,7 +113,7 @@
     "domain": "bookmyname.com",
     "name": "BookMyName - Best Domain Name Registration & Email Services",
     "description": "Secure your online presence with BookMyName. We offer reliable domain name registration, and professional email services. Start your online journey with us today!",
-    "icon": "",
+    "icon": "icons/bookmyname.com.ico",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -331,9 +331,9 @@
   },
   {
     "domain": "haeppie.com",
-    "name": "Create personalised spaces in seconds and close deals faster",
-    "description": "haeppie is made for Sales & Customer Success Teams - Turn buyer journeys into more revenue and get all decision makers on the same page",
-    "icon": "icons/haeppie.com.ico",
+    "name": "",
+    "description": "",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -341,7 +341,7 @@
   },
   {
     "domain": "hanko.io",
-    "name": "Hanko — Open source auth and user management for the passkey era",
+    "name": "Hanko — The complete Authentication and User Management solution for developers",
     "description": "Never worry about user authentication and weak or stolen passwords anymore. Quickly integrate Hanko's open source authentication APIs and embeddable UI components for better security and happier users.",
     "icon": "icons/hanko.io.png",
     "endpoints": {
@@ -440,6 +440,16 @@
     }
   },
   {
+    "domain": "kraken.com",
+    "name": "",
+    "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
     "domain": "laakari.chat",
     "name": "Lääkäri.chat – Helppo ja nopea lääkäri-chat",
     "description": "Lääkäri.chatissä asioit helposti ja turvallisesti yksityisen etälääkärin kanssa. Edullinen reseptin uusiminen samana päivänä 19,99 €. Etälääkärin vastaanotot omavastuu alkaen 14,99 €.",
@@ -491,8 +501,8 @@
   },
   {
     "domain": "magic.link",
-    "name": "Magic | The leading wallet-as-a-service plus essential NFT capabilities | Magic",
-    "description": "Unlock the benefits of web3 with highly scalable, battle-tested, secure wallet infrastructure",
+    "name": "Magic | Web3 Auth & Wallet SDKs | Magic",
+    "description": "We've onboarded 35 million people to the world's leading apps. We're trusted by over 190,000 developers. We're Magic.",
     "icon": "icons/magic.link.ico",
     "endpoints": {
       "enroll": "",
@@ -511,8 +521,8 @@
   },
   {
     "domain": "marketcircle.com",
-    "name": "Daylite: Award-Winning Small Business App for Apple Devices | Daylite",
-    "description": "Manage your small business with a leading CRM, Sales and Project Management software suite that helps you work efficiently and impress clients.",
+    "name": "Award-Winning Mac CRM Software for Your Small Business | Daylite",
+    "description": "Daylite is a leading Mac CRM software for your small business, helping teams manage more clients, close more deals, & complete more projects. Schedule a demo!",
     "icon": "icons/marketcircle.com.png",
     "endpoints": {
       "enroll": "",
@@ -601,9 +611,9 @@
   },
   {
     "domain": "nintendo.com",
-    "name": "Nintendo Official Site: Consoles, Games, News, and More",
-    "description": "Visit the official Nintendo site to shop for Nintendo Switch™ systems and video games, read the latest news, find fun gear and gifts with a Nintendo twist, and much more.",
-    "icon": "icons/nintendo.com.png",
+    "name": "",
+    "description": "",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -793,7 +803,7 @@
     "domain": "robinhood.com",
     "name": "Commission-free Stock Trading & Investing App | Robinhood",
     "description": "Robinhood has commission-free investing, and tools to help shape your financial future. Sign up and get your first stock free. Limitations and fees may apply.",
-    "icon": "icons/robinhood.com.ico",
+    "icon": "icons/robinhood.com.png",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -811,7 +821,7 @@
   },
   {
     "domain": "sandbox.fusionauth.io",
-    "name": "FusionAuth",
+    "name": "FusionAuth Setup Wizard | FusionAuth",
     "description": "User Management Redefined. A Single Sign-On solution for your entire enterprise.",
     "icon": "icons/sandbox.fusionauth.io.png",
     "endpoints": {
@@ -881,9 +891,9 @@
   },
   {
     "domain": "thehendrixjc.com",
-    "name": "The Hendrix | Jersey City Luxury Rentals | Studio - 3 Bedroom Residences",
-    "description": "Culture, arts, & amenities moments from the PATH. An original lifestyle experience with spacious interiors and incredible modern design. Visit Today.",
-    "icon": "icons/thehendrixjc.com.png",
+    "name": "",
+    "description": "",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -901,8 +911,8 @@
   },
   {
     "domain": "trusona.com",
-    "name": "Prevent GenAI-powered Account Takeover - Trusona",
-    "description": "With ATO Protect, you can escalate and eliminate account takeover fraud within your existing decision matrix. No integration needed.",
+    "name": "Prevent GenAI-powered Account Takeover with ATO Protect",
+    "description": "Trusona offers passwordless authentication and Account Takeover solutions. Explore how our platform protects your organization today.",
     "icon": "icons/trusona.com.png",
     "endpoints": {
       "enroll": "",
@@ -953,7 +963,7 @@
     "domain": "virginmedia.com",
     "name": "Virgin Media | Broadband & Cable Deals  - See What You Can Do",
     "description": "Welcome to Virgin Media, home of Superfast broadband, TV, landline & mobile deals. Working hard to help connect the nation, shop our offers and order online.",
-    "icon": "",
+    "icon": "icons/virginmedia.com.ico",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -993,7 +1003,7 @@
     "domain": "yahoo.co.jp",
     "name": "Yahoo! JAPAN",
     "description": "あなたの毎日をアップデートする情報ポータル。検索、ニュース、天気、スポーツ、メール、ショッピング、オークションなど便利なサービスを展開しています。",
-    "icon": "icons/yahoo.co.jp.png",
+    "icon": "",
     "endpoints": {
       "enroll": "https://account.edit.yahoo.co.jp/authdevice?cpt_n=PasskeyEndpoints&cpt_m=link&cpt_s=PasskeyEndpoints",
       "manage": "https://account.edit.yahoo.co.jp/authdevice?cpt_n=PasskeyEndpoints&cpt_m=link&cpt_s=PasskeyEndpoints"
