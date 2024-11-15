@@ -1,5 +1,15 @@
 [
   {
+    "domain": "abanca.com",
+    "name": "",
+    "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
     "domain": "adobe.com",
     "name": "Adobe: Creative, marketing and document management solutions",
     "description": "Adobe is changing the world through digital experiences. We help our customers create, deliver and optimize content and applications.",
@@ -123,7 +133,7 @@
     "domain": "bookmyname.com",
     "name": "BookMyName - Best Domain Name Registration & Email Services",
     "description": "Secure your online presence with BookMyName. We offer reliable domain name registration, and professional email services. Start your online journey with us today!",
-    "icon": "icons/bookmyname.com.ico",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -393,7 +403,7 @@
     "domain": "id.moneyforward.com",
     "name": "Money Forward ID",
     "description": "",
-    "icon": "",
+    "icon": "icons/id.moneyforward.com.png",
     "endpoints": {
       "enroll": "https://id.moneyforward.com/webauthn/credentials",
       "manage": "https://id.moneyforward.com/webauthn/credentials"
@@ -723,7 +733,7 @@
     "domain": "passkeys.guru",
     "name": "Descope Passkeys Demo",
     "description": "",
-    "icon": "",
+    "icon": "icons/passkeys.guru.svg",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -743,7 +753,7 @@
     "domain": "payfit.com",
     "name": "Payroll Software That's Smart, Simple & Stress-Free | PayFit",
     "description": "HMRC-recognised, PayFit combines best-in-class payroll software with expert support. Automate your payroll & HR admin and save time.",
-    "icon": "icons/payfit.com.ico",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -1033,7 +1043,7 @@
     "domain": "yahoo.co.jp",
     "name": "Yahoo! JAPAN",
     "description": "あなたの毎日をアップデートする情報ポータル。検索、ニュース、天気、スポーツ、メール、ショッピング、オークションなど便利なサービスを展開しています。",
-    "icon": "",
+    "icon": "icons/yahoo.co.jp.png",
     "endpoints": {
       "enroll": "https://account.edit.yahoo.co.jp/authdevice?cpt_n=PasskeyEndpoints&cpt_m=link&cpt_s=PasskeyEndpoints",
       "manage": "https://account.edit.yahoo.co.jp/authdevice?cpt_n=PasskeyEndpoints&cpt_m=link&cpt_s=PasskeyEndpoints"
