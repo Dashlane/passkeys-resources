@@ -21,8 +21,8 @@
   },
   {
     "domain": "amazon.com",
-    "name": "Amazon.com. Spend less. Smile more.",
-    "description": "Free shipping on millions of items. Get the best of Shopping and Entertainment with Prime. Enjoy low prices and great deals on the largest selection of everyday essentials and other products, including fashion, home, beauty, electronics, Alexa Devices, sporting goods, toys, automotive, pets, baby, books, video games, musical instruments, office supplies, and more.",
+    "name": "Amazon.com",
+    "description": "",
     "icon": "icons/amazon.com.ico",
     "endpoints": {
       "enroll": "",
@@ -111,9 +111,9 @@
   },
   {
     "domain": "bookmyname.com",
-    "name": "",
-    "description": "",
-    "icon": "",
+    "name": "BookMyName - Best Domain Name Registration & Email Services",
+    "description": "Secure your online presence with BookMyName. We offer reliable domain name registration, and professional email services. Start your online journey with us today!",
+    "icon": "icons/bookmyname.com.ico",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -161,7 +161,7 @@
   },
   {
     "domain": "cloudflare.com",
-    "name": "Connect, Protect and Build Everywhere | Cloudflare",
+    "name": "Connect, protect, and build everywhere | Cloudflare",
     "description": "Make employees, applications and networks faster and more secure everywhere, while reducing complexity and cost.",
     "icon": "icons/cloudflare.com.ico",
     "endpoints": {
@@ -291,8 +291,8 @@
   },
   {
     "domain": "github.com",
-    "name": "GitHub: Let’s build from here · GitHub",
-    "description": "GitHub is where over 100 million developers shape the future of software, together. Contribute to the open source community, manage your Git repositories, review code like a pro, track bugs and features, power your CI/CD and DevOps workflows, and secure code before you commit it.",
+    "name": "GitHub · Build and ship software on a single, collaborative platform · GitHub",
+    "description": "GitHub is where people build software. More than 100 million people use GitHub to discover, fork, and contribute to over 420 million projects.",
     "icon": "icons/github.com.png",
     "endpoints": {
       "enroll": "",
@@ -341,8 +341,8 @@
   },
   {
     "domain": "hanko.io",
-    "name": "Hanko — The complete Authentication and User Management solution for developers",
-    "description": "Never worry about user authentication and weak or stolen passwords anymore. Quickly integrate Hanko's open source authentication APIs and embeddable UI components for better security and happier users.",
+    "name": "Hanko — Open Source Clerk Alternative",
+    "description": "Don't worry about authentication, 2FA, or SSO. Quickly integrate Hanko's open source APIs and UI components for better security and happier users.",
     "icon": "icons/hanko.io.png",
     "endpoints": {
       "enroll": "",
@@ -481,7 +481,7 @@
   },
   {
     "domain": "lowes.com",
-    "name": "",
+    "name": "Access Denied",
     "description": "",
     "icon": "",
     "endpoints": {
@@ -501,8 +501,8 @@
   },
   {
     "domain": "magic.link",
-    "name": "Magic | Web3 Auth & Wallet SDKs | Magic",
-    "description": "We've onboarded 35 million people to the world's leading apps. We're trusted by over 190,000 developers. We're Magic.",
+    "name": "Magic Labs | The best way to build onchain | Magic",
+    "description": "We've onboarded 40 million people to the world's leading apps. We're trusted by over 190,000 developers. We're Magic.",
     "icon": "icons/magic.link.ico",
     "endpoints": {
       "enroll": "",
@@ -573,7 +573,7 @@
     "domain": "moneybird.com",
     "name": "Bookkeeping software for entrepreneurs | Moneybird",
     "description": "Looking for a total solution? Then Moneybird is the right software for you!",
-    "icon": "icons/moneybird.com.png",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -733,7 +733,7 @@
     "domain": "payfit.com",
     "name": "Payroll Software That's Smart, Simple & Stress-Free | PayFit",
     "description": "HMRC-recognised, PayFit combines best-in-class payroll software with expert support. Automate your payroll & HR admin and save time.",
-    "icon": "icons/payfit.com.ico",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -821,7 +821,7 @@
   },
   {
     "domain": "sandbox.fusionauth.io",
-    "name": "FusionAuth Setup Wizard | FusionAuth",
+    "name": "FusionAuth",
     "description": "User Management Redefined. A Single Sign-On solution for your entire enterprise.",
     "icon": "icons/sandbox.fusionauth.io.png",
     "endpoints": {
@@ -844,6 +844,16 @@
     "name": "Shopify",
     "description": "Try Shopify free and start a business or grow an existing one. Get more than ecommerce software with tools to manage every part of your business.",
     "icon": "icons/shopify.com.ico",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "stripe.com",
+    "name": "Stripe | Financial Infrastructure to Grow Your Revenue",
+    "description": "Stripe powers online and in-person payment processing and financial solutions for businesses of all sizes. Accept payments, send payouts, and automate financial processes with a suite of APIs and no-code tools.",
+    "icon": "icons/stripe.com.png?w=180&h=180",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -971,7 +981,7 @@
   },
   {
     "domain": "virginmedia.com",
-    "name": "Virgin Media | Broadband & Cable Deals  - See What You Can Do",
+    "name": "Virgin Media | Broadband & Cable Deals - See What You Can Do",
     "description": "Welcome to Virgin Media, home of Superfast broadband, TV, landline & mobile deals. Working hard to help connect the nation, shop our offers and order online.",
     "icon": "icons/virginmedia.com.ico",
     "endpoints": {
@@ -1013,7 +1023,7 @@
     "domain": "yahoo.co.jp",
     "name": "Yahoo! JAPAN",
     "description": "あなたの毎日をアップデートする情報ポータル。検索、ニュース、天気、スポーツ、メール、ショッピング、オークションなど便利なサービスを展開しています。",
-    "icon": "icons/yahoo.co.jp.ico",
+    "icon": "icons/yahoo.co.jp.png",
     "endpoints": {
       "enroll": "https://account.edit.yahoo.co.jp/authdevice?cpt_n=PasskeyEndpoints&cpt_m=link&cpt_s=PasskeyEndpoints",
       "manage": "https://account.edit.yahoo.co.jp/authdevice?cpt_n=PasskeyEndpoints&cpt_m=link&cpt_s=PasskeyEndpoints"
