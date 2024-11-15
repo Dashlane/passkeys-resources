@@ -10,6 +10,16 @@
     }
   },
   {
+    "domain": "aflac.com",
+    "name": "Aflac | America’s Most Recognized Supplemental Insurance Company",
+    "description": "Aflac provides supplemental insurance to help pay out-of-pocket expenses your major medical insurance doesn't cover. Get started with a quote today!",
+    "icon": "icons/aflac.com.ico",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
     "domain": "airnewzealand.com",
     "name": "Air New Zealand™ – United States Official Site | Safest Airline 2024",
     "description": "Flights from the USA to New Zealand, Australia and the Pacific Islands. We fly direct to New Zealand from Los Angeles, San Francisco, Houston, Honolulu and New York.",
@@ -331,9 +341,9 @@
   },
   {
     "domain": "haeppie.com",
-    "name": "",
-    "description": "",
-    "icon": "",
+    "name": "Create personalised spaces in seconds and close deals faster",
+    "description": "haeppie is made for Sales & Customer Success Teams - Turn buyer journeys into more revenue and get all decision makers on the same page",
+    "icon": "icons/haeppie.com.ico",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -573,7 +583,7 @@
     "domain": "moneybird.com",
     "name": "Bookkeeping software for entrepreneurs | Moneybird",
     "description": "Looking for a total solution? Then Moneybird is the right software for you!",
-    "icon": "",
+    "icon": "icons/moneybird.com.png",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -633,7 +643,7 @@
     "domain": "offshoot.rentals",
     "name": "Equipment rental for still and motion photography - Offshoot Rentals Melbourne",
     "description": "Offshoot Rentals is a trusted production partner in Melbourne, supplying equipment and support to a wide range of productions since 2010.",
-    "icon": "icons/offshoot.rentals.png",
+    "icon": "icons/offshoot.rentals.ico",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -713,7 +723,7 @@
     "domain": "passkeys.guru",
     "name": "Descope Passkeys Demo",
     "description": "",
-    "icon": "icons/passkeys.guru.svg",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -733,7 +743,7 @@
     "domain": "payfit.com",
     "name": "Payroll Software That's Smart, Simple & Stress-Free | PayFit",
     "description": "HMRC-recognised, PayFit combines best-in-class payroll software with expert support. Automate your payroll & HR admin and save time.",
-    "icon": "",
+    "icon": "icons/payfit.com.ico",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -1023,7 +1033,7 @@
     "domain": "yahoo.co.jp",
     "name": "Yahoo! JAPAN",
     "description": "あなたの毎日をアップデートする情報ポータル。検索、ニュース、天気、スポーツ、メール、ショッピング、オークションなど便利なサービスを展開しています。",
-    "icon": "icons/yahoo.co.jp.png",
+    "icon": "",
     "endpoints": {
       "enroll": "https://account.edit.yahoo.co.jp/authdevice?cpt_n=PasskeyEndpoints&cpt_m=link&cpt_s=PasskeyEndpoints",
       "manage": "https://account.edit.yahoo.co.jp/authdevice?cpt_n=PasskeyEndpoints&cpt_m=link&cpt_s=PasskeyEndpoints"
