@@ -20,6 +20,16 @@
     }
   },
   {
+    "domain": "affirm.com",
+    "name": "Affirm | Buy now, pay later with no late fees or surprises",
+    "description": "With Affirm, you can pay over time at your favorite brands. No late fees or compounding interest—just a more responsible way to say yes to the things you love.",
+    "icon": "icons/affirm.com.ico",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
     "domain": "aflac.com",
     "name": "Aflac | America’s Most Recognized Supplemental Insurance Company",
     "description": "Aflac provides supplemental insurance to help pay out-of-pocket expenses your major medical insurance doesn't cover. Get started with a quote today!",
@@ -131,8 +141,8 @@
   },
   {
     "domain": "bookmyname.com",
-    "name": "BookMyName - Best Domain Name Registration & Email Services",
-    "description": "Secure your online presence with BookMyName. We offer reliable domain name registration, and professional email services. Start your online journey with us today!",
+    "name": "",
+    "description": "",
     "icon": "",
     "endpoints": {
       "enroll": "",
@@ -403,7 +413,7 @@
     "domain": "id.moneyforward.com",
     "name": "Money Forward ID",
     "description": "",
-    "icon": "icons/id.moneyforward.com.png",
+    "icon": "",
     "endpoints": {
       "enroll": "https://id.moneyforward.com/webauthn/credentials",
       "manage": "https://id.moneyforward.com/webauthn/credentials"
@@ -653,7 +663,7 @@
     "domain": "offshoot.rentals",
     "name": "Equipment rental for still and motion photography - Offshoot Rentals Melbourne",
     "description": "Offshoot Rentals is a trusted production partner in Melbourne, supplying equipment and support to a wide range of productions since 2010.",
-    "icon": "icons/offshoot.rentals.ico",
+    "icon": "icons/offshoot.rentals.png",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -753,7 +763,7 @@
     "domain": "payfit.com",
     "name": "Payroll Software That's Smart, Simple & Stress-Free | PayFit",
     "description": "HMRC-recognised, PayFit combines best-in-class payroll software with expert support. Automate your payroll & HR admin and save time.",
-    "icon": "",
+    "icon": "icons/payfit.com.ico",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -921,9 +931,9 @@
   },
   {
     "domain": "thehendrixjc.com",
-    "name": "The Hendrix | Jersey City Luxury Rentals | Studio - 3 Bedroom Residences",
-    "description": "Culture, arts, & amenities moments from the PATH. An original lifestyle experience with spacious interiors and incredible modern design. Visit Today.",
-    "icon": "icons/thehendrixjc.com.png",
+    "name": "",
+    "description": "",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
