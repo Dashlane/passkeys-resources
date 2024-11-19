@@ -400,6 +400,16 @@
     }
   },
   {
+    "domain": "hubspot.com",
+    "name": "HubSpot | Software & Tools for your Business - Homepage",
+    "description": "HubSpot's CRM platform contains the marketing, sales, service, operations, and website-building software you need to grow your business.",
+    "icon": "icons/hubspot.com.ico",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
     "domain": "hyatt.com",
     "name": "",
     "description": "",
@@ -743,7 +753,7 @@
     "domain": "passkeys.guru",
     "name": "Descope Passkeys Demo",
     "description": "",
-    "icon": "icons/passkeys.guru.svg",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -931,9 +941,9 @@
   },
   {
     "domain": "thehendrixjc.com",
-    "name": "",
-    "description": "",
-    "icon": "",
+    "name": "The Hendrix | Jersey City Luxury Rentals | Studio - 3 Bedroom Residences",
+    "description": "Culture, arts, & amenities moments from the PATH. An original lifestyle experience with spacious interiors and incredible modern design. Visit Today.",
+    "icon": "icons/thehendrixjc.com.png",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -973,7 +983,7 @@
     "domain": "ubank.com.au",
     "name": "Online Bank | Bank Accounts & Home Loans - ubank",
     "description": "Award-winning online bank accounts and home loans. Our mission is simple: to help more Australians be successful with money.",
-    "icon": "icons/ubank.com.au.ico",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -1053,7 +1063,7 @@
     "domain": "yahoo.co.jp",
     "name": "Yahoo! JAPAN",
     "description": "あなたの毎日をアップデートする情報ポータル。検索、ニュース、天気、スポーツ、メール、ショッピング、オークションなど便利なサービスを展開しています。",
-    "icon": "icons/yahoo.co.jp.png",
+    "icon": "icons/yahoo.co.jp.ico",
     "endpoints": {
       "enroll": "https://account.edit.yahoo.co.jp/authdevice?cpt_n=PasskeyEndpoints&cpt_m=link&cpt_s=PasskeyEndpoints",
       "manage": "https://account.edit.yahoo.co.jp/authdevice?cpt_n=PasskeyEndpoints&cpt_m=link&cpt_s=PasskeyEndpoints"
