@@ -141,9 +141,9 @@
   },
   {
     "domain": "bookmyname.com",
-    "name": "",
-    "description": "",
-    "icon": "",
+    "name": "BookMyName - Best Domain Name Registration & Email Services",
+    "description": "Secure your online presence with BookMyName. We offer reliable domain name registration, and professional email services. Start your online journey with us today!",
+    "icon": "icons/bookmyname.com.ico",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -291,8 +291,8 @@
   },
   {
     "domain": "fleeps.co",
-    "name": "Fleeps - Experts that will guide you through a new area of travel.\n",
-    "description": "With passionate travel creators at your side, we are building your go-to destination for personalized and authentic travel advice.",
+    "name": "Discover Hidden Gems Worldwide",
+    "description": "Join Fleeps to uncover hidden gems and exclusive itineraries shared by locals and experts. Start your unforgettable journey today.",
     "icon": "icons/fleeps.co.ico",
     "endpoints": {
       "enroll": "",
@@ -374,6 +374,16 @@
     "name": "Hanko — Open Source Clerk Alternative",
     "description": "Don't worry about authentication, 2FA, or SSO. Quickly integrate Hanko's open source APIs and UI components for better security and happier users.",
     "icon": "icons/hanko.io.png",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "hcaptcha.com",
+    "name": "hCaptcha - Stop bots and human abuse.",
+    "description": "Enterprise grade AI security platform with a privacy focus. Replace reCAPTCHA v2, v3, or Enterprise with next generation tech at better value. Used by millions.",
+    "icon": "icons/hcaptcha.com.png",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -753,7 +763,7 @@
     "domain": "passkeys.guru",
     "name": "Descope Passkeys Demo",
     "description": "",
-    "icon": "",
+    "icon": "icons/passkeys.guru.svg",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -941,9 +951,9 @@
   },
   {
     "domain": "thehendrixjc.com",
-    "name": "The Hendrix | Jersey City Luxury Rentals | Studio - 3 Bedroom Residences",
-    "description": "Culture, arts, & amenities moments from the PATH. An original lifestyle experience with spacious interiors and incredible modern design. Visit Today.",
-    "icon": "icons/thehendrixjc.com.png",
+    "name": "",
+    "description": "",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -983,7 +993,7 @@
     "domain": "ubank.com.au",
     "name": "Online Bank | Bank Accounts & Home Loans - ubank",
     "description": "Award-winning online bank accounts and home loans. Our mission is simple: to help more Australians be successful with money.",
-    "icon": "",
+    "icon": "icons/ubank.com.au.ico",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -1023,7 +1033,7 @@
     "domain": "virginmedia.com",
     "name": "Virgin Media | Broadband & Cable Deals - See What You Can Do",
     "description": "Welcome to Virgin Media, home of Superfast broadband, TV, landline & mobile deals. Working hard to help connect the nation, shop our offers and order online.",
-    "icon": "icons/virginmedia.com.ico",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -1063,7 +1073,7 @@
     "domain": "yahoo.co.jp",
     "name": "Yahoo! JAPAN",
     "description": "あなたの毎日をアップデートする情報ポータル。検索、ニュース、天気、スポーツ、メール、ショッピング、オークションなど便利なサービスを展開しています。",
-    "icon": "icons/yahoo.co.jp.ico",
+    "icon": "",
     "endpoints": {
       "enroll": "https://account.edit.yahoo.co.jp/authdevice?cpt_n=PasskeyEndpoints&cpt_m=link&cpt_s=PasskeyEndpoints",
       "manage": "https://account.edit.yahoo.co.jp/authdevice?cpt_n=PasskeyEndpoints&cpt_m=link&cpt_s=PasskeyEndpoints"
