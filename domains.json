@@ -101,9 +101,9 @@
   },
   {
     "domain": "beyondidentity.com",
-    "name": "Beyond Identity",
-    "description": "The only secure-by-design Secure Access Platform. Eliminates access risks with SSO, Zero-Trust Identity architecture, phish-resistant MFA, Device Trust and Passwordless capabilities. The secure alternative to Okta, Microsoft Entra, Google MFA, and more.",
-    "icon": "icons/beyondidentity.com.png",
+    "name": "",
+    "description": "",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -143,7 +143,7 @@
     "domain": "bookmyname.com",
     "name": "BookMyName - Best Domain Name Registration & Email Services",
     "description": "Secure your online presence with BookMyName. We offer reliable domain name registration, and professional email services. Start your online journey with us today!",
-    "icon": "icons/bookmyname.com.ico",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -433,7 +433,7 @@
     "domain": "id.moneyforward.com",
     "name": "Money Forward ID",
     "description": "",
-    "icon": "",
+    "icon": "icons/id.moneyforward.com.png",
     "endpoints": {
       "enroll": "https://id.moneyforward.com/webauthn/credentials",
       "manage": "https://id.moneyforward.com/webauthn/credentials"
@@ -562,7 +562,7 @@
   {
     "domain": "mangadex.org",
     "name": "",
-    "description": "Read manga online for free on MangaDex with no ads, high quality images and support scanlation groups!",
+    "description": "",
     "icon": "",
     "endpoints": {
       "enroll": "",
@@ -783,7 +783,7 @@
     "domain": "payfit.com",
     "name": "Payroll Software That's Smart, Simple & Stress-Free | PayFit",
     "description": "HMRC-recognised, PayFit combines best-in-class payroll software with expert support. Automate your payroll & HR admin and save time.",
-    "icon": "icons/payfit.com.ico",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -951,9 +951,9 @@
   },
   {
     "domain": "thehendrixjc.com",
-    "name": "",
-    "description": "",
-    "icon": "",
+    "name": "The Hendrix | Jersey City Luxury Rentals | Studio - 3 Bedroom Residences",
+    "description": "Culture, arts, & amenities moments from the PATH. An original lifestyle experience with spacious interiors and incredible modern design. Visit Today.",
+    "icon": "icons/thehendrixjc.com.png",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -1033,7 +1033,7 @@
     "domain": "virginmedia.com",
     "name": "Virgin Media | Broadband & Cable Deals - See What You Can Do",
     "description": "Welcome to Virgin Media, home of Superfast broadband, TV, landline & mobile deals. Working hard to help connect the nation, shop our offers and order online.",
-    "icon": "",
+    "icon": "icons/virginmedia.com.ico",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -1044,6 +1044,16 @@
     "name": "WebAuthn.io",
     "description": "Demonstration of the WebAuthn specification.",
     "icon": "icons/webauthn.io.png",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "wellsfargo.com",
+    "name": "Wells Fargo Bank | Financial Services & Online Banking",
+    "description": "Committed to the financial health of our customers and communities. Explore bank accounts, loans, mortgages, investing, credit cards & banking services»",
+    "icon": "icons/wellsfargo.com.png",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -1073,7 +1083,7 @@
     "domain": "yahoo.co.jp",
     "name": "Yahoo! JAPAN",
     "description": "あなたの毎日をアップデートする情報ポータル。検索、ニュース、天気、スポーツ、メール、ショッピング、オークションなど便利なサービスを展開しています。",
-    "icon": "",
+    "icon": "icons/yahoo.co.jp.png",
     "endpoints": {
       "enroll": "https://account.edit.yahoo.co.jp/authdevice?cpt_n=PasskeyEndpoints&cpt_m=link&cpt_s=PasskeyEndpoints",
       "manage": "https://account.edit.yahoo.co.jp/authdevice?cpt_n=PasskeyEndpoints&cpt_m=link&cpt_s=PasskeyEndpoints"
