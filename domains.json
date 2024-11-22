@@ -101,9 +101,9 @@
   },
   {
     "domain": "beyondidentity.com",
-    "name": "",
-    "description": "",
-    "icon": "",
+    "name": "Beyond Identity",
+    "description": "The only secure-by-design Secure Access Platform. Eliminates access risks with SSO, Zero-Trust Identity architecture, phish-resistant MFA, Device Trust and Passwordless capabilities. The secure alternative to Okta, Microsoft Entra, Google MFA, and more.",
+    "icon": "icons/beyondidentity.com.png",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -141,8 +141,8 @@
   },
   {
     "domain": "bookmyname.com",
-    "name": "BookMyName - Best Domain Name Registration & Email Services",
-    "description": "Secure your online presence with BookMyName. We offer reliable domain name registration, and professional email services. Start your online journey with us today!",
+    "name": "",
+    "description": "",
     "icon": "",
     "endpoints": {
       "enroll": "",
@@ -433,7 +433,7 @@
     "domain": "id.moneyforward.com",
     "name": "Money Forward ID",
     "description": "",
-    "icon": "icons/id.moneyforward.com.png",
+    "icon": "",
     "endpoints": {
       "enroll": "https://id.moneyforward.com/webauthn/credentials",
       "manage": "https://id.moneyforward.com/webauthn/credentials"
@@ -562,7 +562,7 @@
   {
     "domain": "mangadex.org",
     "name": "",
-    "description": "",
+    "description": "Read manga online for free on MangaDex with no ads, high quality images and support scanlation groups!",
     "icon": "",
     "endpoints": {
       "enroll": "",
@@ -683,7 +683,7 @@
     "domain": "offshoot.rentals",
     "name": "Equipment rental for still and motion photography - Offshoot Rentals Melbourne",
     "description": "Offshoot Rentals is a trusted production partner in Melbourne, supplying equipment and support to a wide range of productions since 2010.",
-    "icon": "icons/offshoot.rentals.png",
+    "icon": "icons/offshoot.rentals.ico",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -763,7 +763,7 @@
     "domain": "passkeys.guru",
     "name": "Descope Passkeys Demo",
     "description": "",
-    "icon": "icons/passkeys.guru.svg",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -783,7 +783,7 @@
     "domain": "payfit.com",
     "name": "Payroll Software That's Smart, Simple & Stress-Free | PayFit",
     "description": "HMRC-recognised, PayFit combines best-in-class payroll software with expert support. Automate your payroll & HR admin and save time.",
-    "icon": "",
+    "icon": "icons/payfit.com.ico",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -894,6 +894,16 @@
     "name": "Shopify",
     "description": "Try Shopify free and start a business or grow an existing one. Get more than ecommerce software with tools to manage every part of your business.",
     "icon": "icons/shopify.com.ico",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "sktelecom.com",
+    "name": "SK telecom",
+    "description": "자강과 협력을 통한 ‘Global AI Company’로의 도약",
+    "icon": "icons/sktelecom.com.ico",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -1083,7 +1093,7 @@
     "domain": "yahoo.co.jp",
     "name": "Yahoo! JAPAN",
     "description": "あなたの毎日をアップデートする情報ポータル。検索、ニュース、天気、スポーツ、メール、ショッピング、オークションなど便利なサービスを展開しています。",
-    "icon": "icons/yahoo.co.jp.png",
+    "icon": "icons/yahoo.co.jp.ico",
     "endpoints": {
       "enroll": "https://account.edit.yahoo.co.jp/authdevice?cpt_n=PasskeyEndpoints&cpt_m=link&cpt_s=PasskeyEndpoints",
       "manage": "https://account.edit.yahoo.co.jp/authdevice?cpt_n=PasskeyEndpoints&cpt_m=link&cpt_s=PasskeyEndpoints"
