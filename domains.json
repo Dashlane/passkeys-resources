@@ -140,10 +140,20 @@
     }
   },
   {
+    "domain": "bolt.eu",
+    "name": "Explore Bolt services | The all-in-one mobility app",
+    "description": "Get a ride in minutes, order food and grocery delivery, rent a car or scooter, improve business travel and more. Available in 600+ cities and 50+ countries.",
+    "icon": "icons/bolt.eu.png",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
     "domain": "bookmyname.com",
     "name": "BookMyName - Best Domain Name Registration & Email Services",
     "description": "Secure your online presence with BookMyName. We offer reliable domain name registration, and professional email services. Start your online journey with us today!",
-    "icon": "",
+    "icon": "icons/bookmyname.com.ico",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -763,7 +773,7 @@
     "domain": "passkeys.guru",
     "name": "Descope Passkeys Demo",
     "description": "",
-    "icon": "icons/passkeys.guru.svg",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -971,9 +981,9 @@
   },
   {
     "domain": "thehendrixjc.com",
-    "name": "The Hendrix | Jersey City Luxury Rentals | Studio - 3 Bedroom Residences",
-    "description": "Culture, arts, & amenities moments from the PATH. An original lifestyle experience with spacious interiors and incredible modern design. Visit Today.",
-    "icon": "icons/thehendrixjc.com.png",
+    "name": "",
+    "description": "",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -1103,7 +1113,7 @@
     "domain": "yahoo.co.jp",
     "name": "Yahoo! JAPAN",
     "description": "あなたの毎日をアップデートする情報ポータル。検索、ニュース、天気、スポーツ、メール、ショッピング、オークションなど便利なサービスを展開しています。",
-    "icon": "",
+    "icon": "icons/yahoo.co.jp.png",
     "endpoints": {
       "enroll": "https://account.edit.yahoo.co.jp/authdevice?cpt_n=PasskeyEndpoints&cpt_m=link&cpt_s=PasskeyEndpoints",
       "manage": "https://account.edit.yahoo.co.jp/authdevice?cpt_n=PasskeyEndpoints&cpt_m=link&cpt_s=PasskeyEndpoints"
