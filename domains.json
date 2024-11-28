@@ -141,8 +141,8 @@
   },
   {
     "domain": "bookmyname.com",
-    "name": "",
-    "description": "",
+    "name": "BookMyName - Best Domain Name Registration & Email Services",
+    "description": "Secure your online presence with BookMyName. We offer reliable domain name registration, and professional email services. Start your online journey with us today!",
     "icon": "",
     "endpoints": {
       "enroll": "",
@@ -551,7 +551,7 @@
   },
   {
     "domain": "magic.link",
-    "name": "Magic Labs | The best way to build onchain | Magic",
+    "name": "Magic Labs | The best way to build onchain<!-- --> | Magic",
     "description": "We've onboarded 40 million people to the world's leading apps. We're trusted by over 190,000 developers. We're Magic.",
     "icon": "icons/magic.link.ico",
     "endpoints": {
@@ -683,7 +683,7 @@
     "domain": "offshoot.rentals",
     "name": "Equipment rental for still and motion photography - Offshoot Rentals Melbourne",
     "description": "Offshoot Rentals is a trusted production partner in Melbourne, supplying equipment and support to a wide range of productions since 2010.",
-    "icon": "icons/offshoot.rentals.ico",
+    "icon": "icons/offshoot.rentals.png",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -763,7 +763,7 @@
     "domain": "passkeys.guru",
     "name": "Descope Passkeys Demo",
     "description": "",
-    "icon": "",
+    "icon": "icons/passkeys.guru.svg",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -844,6 +844,16 @@
     "name": "",
     "description": "",
     "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "ring.com",
+    "name": "Home Security Systems - Cameras, Alarms, Doorbells | Ring",
+    "description": "Protect your home & watch over what's important from your phone with video doorbells, security cameras, alarms, smart lighting & more.",
+    "icon": "icons/ring.com.ico",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -932,7 +942,7 @@
   {
     "domain": "tailscale.com",
     "name": "Tailscale · Best VPN Service for Secure Networks",
-    "description": "Securely connect to anything on the internet with Tailscale. Built on WireGuard®️, Tailscale enables you to make finely configurable connections, secured end-to-end according to zero trust principles, between any resources on any infrastructure.",
+    "description": "Securely connect to anything on the internet with Tailscale. Deploy a WireGuard®-based VPN to achieve point-to-point connectivity that enforces least privilege.",
     "icon": "icons/tailscale.com.png",
     "endpoints": {
       "enroll": "",
@@ -1093,7 +1103,7 @@
     "domain": "yahoo.co.jp",
     "name": "Yahoo! JAPAN",
     "description": "あなたの毎日をアップデートする情報ポータル。検索、ニュース、天気、スポーツ、メール、ショッピング、オークションなど便利なサービスを展開しています。",
-    "icon": "icons/yahoo.co.jp.ico",
+    "icon": "",
     "endpoints": {
       "enroll": "https://account.edit.yahoo.co.jp/authdevice?cpt_n=PasskeyEndpoints&cpt_m=link&cpt_s=PasskeyEndpoints",
       "manage": "https://account.edit.yahoo.co.jp/authdevice?cpt_n=PasskeyEndpoints&cpt_m=link&cpt_s=PasskeyEndpoints"
