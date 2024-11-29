@@ -140,6 +140,16 @@
     }
   },
   {
+    "domain": "bolt.com",
+    "name": "Bolt | Shockingly Simple Shopping",
+    "description": "Bolt powers frictionless experiences for retailers and customers at every step of the shopping journey—from login to checkout.",
+    "icon": "icons/bolt.com.png",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
     "domain": "bolt.eu",
     "name": "Explore Bolt services | The all-in-one mobility app",
     "description": "Get a ride in minutes, order food and grocery delivery, rent a car or scooter, improve business travel and more. Available in 600+ cities and 50+ countries.",
@@ -153,7 +163,7 @@
     "domain": "bookmyname.com",
     "name": "BookMyName - Best Domain Name Registration & Email Services",
     "description": "Secure your online presence with BookMyName. We offer reliable domain name registration, and professional email services. Start your online journey with us today!",
-    "icon": "icons/bookmyname.com.ico",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -371,9 +381,9 @@
   },
   {
     "domain": "haeppie.com",
-    "name": "Create personalised spaces in seconds and close deals faster",
-    "description": "haeppie is made for Sales & Customer Success Teams - Turn buyer journeys into more revenue and get all decision makers on the same page",
-    "icon": "icons/haeppie.com.ico",
+    "name": "",
+    "description": "",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -611,9 +621,9 @@
   },
   {
     "domain": "microsoft.com",
-    "name": "Microsoft – AI, Cloud, Productivity, Computing, Gaming & Apps",
-    "description": "Explore Microsoft products and services and support for your home or business. Shop Microsoft 365, Copilot, Teams, Xbox, Windows, Azure, Surface and more.",
-    "icon": "icons/microsoft.com.ico",
+    "name": "",
+    "description": "",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -633,7 +643,7 @@
     "domain": "moneybird.com",
     "name": "Bookkeeping software for entrepreneurs | Moneybird",
     "description": "Looking for a total solution? Then Moneybird is the right software for you!",
-    "icon": "icons/moneybird.com.png",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -773,7 +783,7 @@
     "domain": "passkeys.guru",
     "name": "Descope Passkeys Demo",
     "description": "",
-    "icon": "",
+    "icon": "icons/passkeys.guru.svg",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -923,7 +933,7 @@
     "domain": "sktelecom.com",
     "name": "SK telecom",
     "description": "자강과 협력을 통한 ‘Global AI Company’로의 도약",
-    "icon": "icons/sktelecom.com.ico",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
