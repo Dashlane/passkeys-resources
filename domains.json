@@ -163,7 +163,7 @@
     "domain": "bookmyname.com",
     "name": "BookMyName - Best Domain Name Registration & Email Services",
     "description": "Secure your online presence with BookMyName. We offer reliable domain name registration, and professional email services. Start your online journey with us today!",
-    "icon": "icons/bookmyname.com.ico",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -331,8 +331,8 @@
   },
   {
     "domain": "frontegg.com",
-    "name": "Frontegg | User Management for modern B2B SaaS",
-    "description": "Frontegg is an end-to-end user management platform for B2B SaaS, powering strategies from PLG to enterprise readiness. Easy migration, no credit card required.",
+    "name": "Frontegg | Secure User Management for B2B & B2C SaaS",
+    "description": "Frontegg removes dependencies in SaaS teams with secure, low-code user management. Reduce developer toil by making security self-sufficient.",
     "icon": "icons/frontegg.com.ico",
     "endpoints": {
       "enroll": "",
@@ -374,6 +374,16 @@
     "name": "Google",
     "description": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking for.",
     "icon": "icons/google.com.ico",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "grab.com",
+    "name": "\n        Grab. The Everyday Everything App    ",
+    "description": "Grab is Southeast Asia’s leading superapp. It provides everyday services like Deliveries, Mobility, Financial Services, and More.",
+    "icon": "icons/grab.com.ico",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -453,7 +463,7 @@
     "domain": "id.moneyforward.com",
     "name": "Money Forward ID",
     "description": "",
-    "icon": "icons/id.moneyforward.com.png",
+    "icon": "",
     "endpoints": {
       "enroll": "https://id.moneyforward.com/webauthn/credentials",
       "manage": "https://id.moneyforward.com/webauthn/credentials"
@@ -582,7 +592,7 @@
   {
     "domain": "mangadex.org",
     "name": "",
-    "description": "",
+    "description": "Read manga online for free on MangaDex with no ads, high quality images and support scanlation groups!",
     "icon": "",
     "endpoints": {
       "enroll": "",
@@ -631,9 +641,9 @@
   },
   {
     "domain": "monespacesante.fr",
-    "name": "",
+    "name": "Mon espace santé",
     "description": "",
-    "icon": "",
+    "icon": "icons/monespacesante.fr.png",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -751,7 +761,7 @@
   },
   {
     "domain": "passage.1password.com",
-    "name": "Passwordless Authentication Powered by Passkeys | Passage by 1Password",
+    "name": "Passage by 1Password",
     "description": "Passage provides passwordless authentication that you can add to your app or website with just a few lines of code. Learn more.",
     "icon": "icons/passage.1password.com.png",
     "endpoints": {
@@ -761,7 +771,7 @@
   },
   {
     "domain": "passage.id",
-    "name": "Passwordless Authentication Powered by Passkeys | Passage by 1Password",
+    "name": "Passage by 1Password",
     "description": "Passage provides passwordless authentication that you can add to your app or website with just a few lines of code. Learn more.",
     "icon": "icons/passage.id.png",
     "endpoints": {
@@ -783,7 +793,7 @@
     "domain": "passkeys.guru",
     "name": "Descope Passkeys Demo",
     "description": "",
-    "icon": "",
+    "icon": "icons/passkeys.guru.svg",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -882,7 +892,7 @@
   {
     "domain": "robinhood.com",
     "name": "Commission-free Stock Trading & Investing App | Robinhood",
-    "description": "Robinhood has commission-free investing, and tools to help shape your financial future. Sign up and get your first stock free. Limitations and fees may apply.",
+    "description": "Robinhood has tools to help shape your financial future. Sign up and get your first stock free. Limitations and fees may apply.",
     "icon": "icons/robinhood.com.png?v=2024",
     "endpoints": {
       "enroll": "",
