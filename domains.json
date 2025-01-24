@@ -111,9 +111,9 @@
   },
   {
     "domain": "binance.com",
-    "name": "Binance - Cryptocurrency Exchange for Bitcoin, Ethereum & Altcoins",
-    "description": "Binance is the largest cryptocurrency exchange by trading volume, serving 185M+ users across 180+ countries. With over 350 listed Altcoins, it is the world’s leading crypto exchange.",
-    "icon": "icons/binance.com.png",
+    "name": "",
+    "description": "",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -163,7 +163,7 @@
     "domain": "bookmyname.com",
     "name": "BookMyName - Best Domain Name Registration & Email Services",
     "description": "Secure your online presence with BookMyName. We offer reliable domain name registration, and professional email services. Start your online journey with us today!",
-    "icon": "",
+    "icon": "icons/bookmyname.com.ico",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -342,7 +342,7 @@
   {
     "domain": "github.com",
     "name": "GitHub · Build and ship software on a single, collaborative platform · GitHub",
-    "description": "GitHub is where people build software. More than 100 million people use GitHub to discover, fork, and contribute to over 420 million projects.",
+    "description": "GitHub is where people build software. More than 150 million people use GitHub to discover, fork, and contribute to over 420 million projects.",
     "icon": "icons/github.com.png",
     "endpoints": {
       "enroll": "",
@@ -661,7 +661,7 @@
   },
   {
     "domain": "moneyforward.com",
-    "name": "マネーフォワード｜家計簿アプリやクラウド会計ソフト",
+    "name": "マネーフォワード ME",
     "description": "すべての人のお金のプラットフォーム MoneyForward - お金・資産管理なら家計簿アプリ「マネーフォワード ME (ミー)」を今すぐダウンロード！法人・個人事業主向け「マネーフォワード クラウド」で会計ソフトなどバックオフィス効率化も",
     "icon": "icons/moneyforward.com.ico",
     "endpoints": {
@@ -694,6 +694,16 @@
     "name": "Nintendo Official Site: Consoles, Games, News, and More",
     "description": "Visit the official Nintendo site to shop for Nintendo Switch™ systems and video games, read the latest news, find fun gear and gifts with a Nintendo twist, and much more.",
     "icon": "icons/nintendo.com.png",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "notion.com",
+    "name": "Your connected workspace for wiki, docs & projects | Notion",
+    "description": "A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team.",
+    "icon": "icons/notion.com.png",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -1043,7 +1053,7 @@
     "domain": "ubank.com.au",
     "name": "Online Bank | Bank Accounts & Home Loans - ubank",
     "description": "Award-winning online bank accounts and home loans. Our mission is simple: to help more Australians be successful with money.",
-    "icon": "icons/ubank.com.au.ico",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
