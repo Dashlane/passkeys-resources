@@ -210,6 +210,16 @@
     }
   },
   {
+    "domain": "carta.com",
+    "name": "",
+    "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
     "domain": "cloudflare.com",
     "name": "Connect, protect, and build everywhere | Cloudflare",
     "description": "Make employees, applications and networks faster and more secure everywhere, while reducing complexity and cost.",
@@ -532,7 +542,7 @@
   {
     "domain": "laakari.chat",
     "name": "Lääkäri.chat – Helppo ja nopea lääkäri-chat",
-    "description": "Lääkäri.chatissä asioit helposti ja turvallisesti yksityisen etälääkärin kanssa. Edullinen reseptin uusiminen samana päivänä 19,99 €. Etälääkärin vastaanotot omavastuu alkaen 14,99 €.",
+    "description": "Lääkärin chat-vastaanotto, asioi helposti ja turvallisesti yksityisen etälääkärin kanssa. Edullinen reseptin uusiminen samana päivänä 19,99 €. Etälääkärin vastaanotot omavastuu alkaen 14,99 €.",
     "icon": "",
     "endpoints": {
       "enroll": "",
@@ -803,7 +813,7 @@
     "domain": "passkeys.guru",
     "name": "Descope Passkeys Demo",
     "description": "",
-    "icon": "icons/passkeys.guru.svg",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -1053,7 +1063,7 @@
     "domain": "ubank.com.au",
     "name": "Online Bank | Bank Accounts & Home Loans - ubank",
     "description": "Award-winning online bank accounts and home loans. Our mission is simple: to help more Australians be successful with money.",
-    "icon": "",
+    "icon": "icons/ubank.com.au.ico",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -1153,7 +1163,7 @@
     "domain": "yahoo.co.jp",
     "name": "Yahoo! JAPAN",
     "description": "あなたの毎日をアップデートする情報ポータル。検索、ニュース、天気、スポーツ、メール、ショッピング、オークションなど便利なサービスを展開しています。",
-    "icon": "",
+    "icon": "icons/yahoo.co.jp.png",
     "endpoints": {
       "enroll": "https://account.edit.yahoo.co.jp/authdevice?cpt_n=PasskeyEndpoints&cpt_m=link&cpt_s=PasskeyEndpoints",
       "manage": "https://account.edit.yahoo.co.jp/authdevice?cpt_n=PasskeyEndpoints&cpt_m=link&cpt_s=PasskeyEndpoints"
