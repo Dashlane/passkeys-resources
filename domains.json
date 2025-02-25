@@ -31,7 +31,7 @@
   },
   {
     "domain": "aflac.com",
-    "name": "Aflac | America’s Most Recognized Supplemental Insurance Company",
+    "name": "Aflac | #1 Supplemental Insurance Company - Get a Quote",
     "description": "Aflac provides supplemental insurance to help pay out-of-pocket expenses your major medical insurance doesn't cover. Get started with a quote today!",
     "icon": "icons/aflac.com.ico",
     "endpoints": {
@@ -111,9 +111,9 @@
   },
   {
     "domain": "binance.com",
-    "name": "",
-    "description": "",
-    "icon": "",
+    "name": "Binance - Cryptocurrency Exchange for Bitcoin, Ethereum & Altcoins",
+    "description": "Binance, the largest crypto exchange by trading volume, serves 250M+ users in 180+ countries. With 350+ listed altcoins, it is the world's leading crypto exchange.",
+    "icon": "icons/binance.com.png",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -151,9 +151,9 @@
   },
   {
     "domain": "bolt.eu",
-    "name": "Explore Bolt services | The all-in-one mobility app",
-    "description": "Get a ride in minutes, order food and grocery delivery, rent a car or scooter, improve business travel and more. Available in 600+ cities and 50+ countries.",
-    "icon": "icons/bolt.eu.png",
+    "name": "",
+    "description": "",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -161,9 +161,9 @@
   },
   {
     "domain": "bookmyname.com",
-    "name": "BookMyName - Best Domain Name Registration & Email Services",
-    "description": "Secure your online presence with BookMyName. We offer reliable domain name registration, and professional email services. Start your online journey with us today!",
-    "icon": "icons/bookmyname.com.ico",
+    "name": "",
+    "description": "",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -241,8 +241,8 @@
   },
   {
     "domain": "corbado.com",
-    "name": "Corbado - Add passkeys to any new or existing app",
-    "description": "We help you offer passkeys in any new or existing application. Provide the most secure and most convenient authentication to delight your users.",
+    "name": "Corbado - Simplify passkey integration for large-scale applications",
+    "description": "Get passkeys with 10x higher adoption, zero user migration stress & all the enterprise-grade passkeysLayerConfig that are needed for large-scale B2C deployments.",
     "icon": "icons/corbado.com.png",
     "endpoints": {
       "enroll": "",
@@ -473,7 +473,7 @@
     "domain": "id.moneyforward.com",
     "name": "Money Forward ID",
     "description": "",
-    "icon": "",
+    "icon": "icons/id.moneyforward.com.ico",
     "endpoints": {
       "enroll": "https://id.moneyforward.com/webauthn/credentials",
       "manage": "https://id.moneyforward.com/webauthn/credentials"
@@ -484,6 +484,16 @@
     "name": "",
     "description": "",
     "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "intuit.com",
+    "name": "Intuit®: Complete Financial Confidence",
+    "description": "See how Intuit products can work for you by joining the approximately 100 million people who are already using TurboTax, Credit Karma, QuickBooks, and Mailchimp to power their prosperity.",
+    "icon": "icons/intuit.com.png",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -602,7 +612,7 @@
   {
     "domain": "mangadex.org",
     "name": "",
-    "description": "Read manga online for free on MangaDex with no ads, high quality images and support scanlation groups!",
+    "description": "",
     "icon": "",
     "endpoints": {
       "enroll": "",
@@ -671,7 +681,7 @@
   },
   {
     "domain": "moneyforward.com",
-    "name": "マネーフォワード ME",
+    "name": "マネーフォワード｜家計簿アプリやクラウド会計ソフト",
     "description": "すべての人のお金のプラットフォーム MoneyForward - お金・資産管理なら家計簿アプリ「マネーフォワード ME (ミー)」を今すぐダウンロード！法人・個人事業主向け「マネーフォワード クラウド」で会計ソフトなどバックオフィス効率化も",
     "icon": "icons/moneyforward.com.ico",
     "endpoints": {
@@ -741,8 +751,8 @@
   },
   {
     "domain": "okta.com",
-    "name": "Employee and Customer Identity Solutions | Okta",
-    "description": "Okta's Workforce and Customer Identity Clouds enable secure access, authentication, and automation—putting identity at the heart of business security and growth.",
+    "name": "Okta and Auth0 Platforms | Okta",
+    "description": "The Okta and Auth0 Platforms enable secure access, authentication, and automation—putting Identity at the heart of business security and growth.",
     "icon": "icons/okta.com.ico",
     "endpoints": {
       "enroll": "",
@@ -813,7 +823,7 @@
     "domain": "passkeys.guru",
     "name": "Descope Passkeys Demo",
     "description": "",
-    "icon": "",
+    "icon": "icons/passkeys.guru.svg",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -911,8 +921,8 @@
   },
   {
     "domain": "robinhood.com",
-    "name": "Commission-free Stock Trading & Investing App | Robinhood",
-    "description": "Robinhood has tools to help shape your financial future. Sign up and get your first stock free. Limitations and fees may apply.",
+    "name": "Robinhood: 24/5 Commission-Free Stock Trading & Investing ",
+    "description": "Trade stocks on Robinhood with commission-free investing & advanced trading tools. Access fractional shares, real-time market data, and more. Terms and fees may apply.",
     "icon": "icons/robinhood.com.png?v=2024",
     "endpoints": {
       "enroll": "",
@@ -1021,9 +1031,9 @@
   },
   {
     "domain": "thehendrixjc.com",
-    "name": "The Hendrix | Jersey City Luxury Rentals | Studio - 3 Bedroom Residences",
-    "description": "Culture, arts, & amenities moments from the PATH. An original lifestyle experience with spacious interiors and incredible modern design. Visit Today.",
-    "icon": "icons/thehendrixjc.com.png",
+    "name": "",
+    "description": "",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -1051,9 +1061,9 @@
   },
   {
     "domain": "twitter.com",
-    "name": "x.com",
+    "name": "",
     "description": "",
-    "icon": "icons/twitter.com.png",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -1113,7 +1123,7 @@
     "domain": "virginmedia.com",
     "name": "Virgin Media | Broadband & Cable Deals - See What You Can Do",
     "description": "Welcome to Virgin Media, home of Superfast broadband, TV, landline & mobile deals. Working hard to help connect the nation, shop our offers and order online.",
-    "icon": "icons/virginmedia.com.ico",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -1151,9 +1161,9 @@
   },
   {
     "domain": "x.com",
-    "name": "x.com",
+    "name": "",
     "description": "",
-    "icon": "icons/x.com.png",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -1163,7 +1173,7 @@
     "domain": "yahoo.co.jp",
     "name": "Yahoo! JAPAN",
     "description": "あなたの毎日をアップデートする情報ポータル。検索、ニュース、天気、スポーツ、メール、ショッピング、オークションなど便利なサービスを展開しています。",
-    "icon": "icons/yahoo.co.jp.png",
+    "icon": "icons/yahoo.co.jp.ico",
     "endpoints": {
       "enroll": "https://account.edit.yahoo.co.jp/authdevice?cpt_n=PasskeyEndpoints&cpt_m=link&cpt_s=PasskeyEndpoints",
       "manage": "https://account.edit.yahoo.co.jp/authdevice?cpt_n=PasskeyEndpoints&cpt_m=link&cpt_s=PasskeyEndpoints"
@@ -1171,9 +1181,9 @@
   },
   {
     "domain": "yahoo.com",
-    "name": "Yahoo | Mail, Weather, Search, Politics, News, Finance, Sports & Videos",
-    "description": "Latest news coverage, email, free stock quotes, live scores and video are just the beginning. Discover more every day at Yahoo!",
-    "icon": "icons/yahoo.com.png",
+    "name": "",
+    "description": "",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
