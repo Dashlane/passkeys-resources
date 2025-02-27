@@ -111,9 +111,9 @@
   },
   {
     "domain": "binance.com",
-    "name": "Binance - Cryptocurrency Exchange for Bitcoin, Ethereum & Altcoins",
-    "description": "Binance, the largest crypto exchange by trading volume, serves 250M+ users in 180+ countries. With 350+ listed altcoins, it is the world's leading crypto exchange.",
-    "icon": "icons/binance.com.png",
+    "name": "",
+    "description": "",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -161,9 +161,9 @@
   },
   {
     "domain": "bookmyname.com",
-    "name": "",
-    "description": "",
-    "icon": "",
+    "name": "BookMyName - Best Domain Name Registration & Email Services",
+    "description": "Secure your online presence with BookMyName. We offer reliable domain name registration, and professional email services. Start your online journey with us today!",
+    "icon": "icons/bookmyname.com.ico",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -473,7 +473,7 @@
     "domain": "id.moneyforward.com",
     "name": "Money Forward ID",
     "description": "",
-    "icon": "icons/id.moneyforward.com.ico",
+    "icon": "",
     "endpoints": {
       "enroll": "https://id.moneyforward.com/webauthn/credentials",
       "manage": "https://id.moneyforward.com/webauthn/credentials"
@@ -1071,9 +1071,9 @@
   },
   {
     "domain": "ubank.com.au",
-    "name": "Online Bank | Bank Accounts & Home Loans - ubank",
-    "description": "Award-winning online bank accounts and home loans. Our mission is simple: to help more Australians be successful with money.",
-    "icon": "icons/ubank.com.au.ico",
+    "name": "",
+    "description": "",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -1110,6 +1110,16 @@
     }
   },
   {
+    "domain": "vicroads.vic.gov.au",
+    "name": "",
+    "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
     "domain": "vinci-autoroutes.com",
     "name": "VINCI Autoroutes : info trafic, prévisions, itinéraire, télépéage | VINCI Autoroutes",
     "description": "VINCI Autoroutes vous accompagne pour Bien voyager. Info trafic en direct, prévisions trafic, services sur aires, travaux, télépéage, tarifs, actus, conseils.",
@@ -1121,9 +1131,9 @@
   },
   {
     "domain": "virginmedia.com",
-    "name": "Virgin Media | Broadband & Cable Deals - See What You Can Do",
+    "name": "Virgin Media | Broadband & Cable Deals - See What You Can Do ",
     "description": "Welcome to Virgin Media, home of Superfast broadband, TV, landline & mobile deals. Working hard to help connect the nation, shop our offers and order online.",
-    "icon": "",
+    "icon": "icons/virginmedia.com.ico",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -1173,7 +1183,7 @@
     "domain": "yahoo.co.jp",
     "name": "Yahoo! JAPAN",
     "description": "あなたの毎日をアップデートする情報ポータル。検索、ニュース、天気、スポーツ、メール、ショッピング、オークションなど便利なサービスを展開しています。",
-    "icon": "icons/yahoo.co.jp.ico",
+    "icon": "icons/yahoo.co.jp.png",
     "endpoints": {
       "enroll": "https://account.edit.yahoo.co.jp/authdevice?cpt_n=PasskeyEndpoints&cpt_m=link&cpt_s=PasskeyEndpoints",
       "manage": "https://account.edit.yahoo.co.jp/authdevice?cpt_n=PasskeyEndpoints&cpt_m=link&cpt_s=PasskeyEndpoints"
@@ -1181,9 +1191,9 @@
   },
   {
     "domain": "yahoo.com",
-    "name": "",
-    "description": "",
-    "icon": "",
+    "name": "Yahoo | Mail, Weather, Search, Politics, News, Finance, Sports & Videos",
+    "description": "Latest news coverage, email, free stock quotes, live scores and video are just the beginning. Discover more every day at Yahoo!",
+    "icon": "icons/yahoo.com.png",
     "endpoints": {
       "enroll": "",
       "manage": ""
