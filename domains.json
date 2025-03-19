@@ -101,8 +101,8 @@
   },
   {
     "domain": "beyondidentity.com",
-    "name": "Beyond Identity",
-    "description": "The only secure-by-design Secure Access Platform. Eliminates access risks with SSO, Zero-Trust Identity architecture, phish-resistant MFA, Device Trust and Passwordless capabilities. The secure alternative to Okta, Microsoft Entra, Google MFA, and more.",
+    "name": "Beyond Identity | Eliminate Identity & Device Threats with prMFA and SSO",
+    "description": "The only access management platform engineered to eliminate identity and device threats. Secure your IDP, including Okta, OneLogin, Microsoft Entra, Google Auth, Ping, and Duo, with phishing-resistant MFA, SSO, Device Trust, and passwordless authentication, or use it as a secure IAM alternative",
     "icon": "icons/beyondidentity.com.png",
     "endpoints": {
       "enroll": "",
@@ -161,9 +161,9 @@
   },
   {
     "domain": "bookmyname.com",
-    "name": "BookMyName - Best Domain Name Registration & Email Services",
-    "description": "Secure your online presence with BookMyName. We offer reliable domain name registration, and professional email services. Start your online journey with us today!",
-    "icon": "icons/bookmyname.com.ico",
+    "name": "",
+    "description": "",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -411,8 +411,8 @@
   },
   {
     "domain": "hanko.io",
-    "name": "Hanko — Open Source Clerk Alternative",
-    "description": "Don't worry about authentication, 2FA, or SSO. Quickly integrate Hanko's open source APIs and UI components for better security and happier users.",
+    "name": "Hanko — Authentication Infrastructure for the Passkey Era",
+    "description": "Quickly integrate Hanko’s embeddable components and APIs to get secure and modern user authentication for your app.‍ From passwords all the way to passkeys, 2FA, and SSO. Finally an auth solution that scales – without breaking the bank.",
     "icon": "icons/hanko.io.png",
     "endpoints": {
       "enroll": "",
@@ -521,12 +521,12 @@
   },
   {
     "domain": "kayak.com",
-    "name": "Search Flights, Hotels & Rental Cars | KAYAK",
-    "description": "KAYAK searches hundreds of other travel sites at once to find the information you need to make the right decisions on flights, hotels & rental cars.",
-    "icon": "icons/kayak.com.png",
+    "name": "",
+    "description": "",
+    "icon": "",
     "endpoints": {
-      "enroll": "https://www.kayak.com/profile/account/passkeys",
-      "manage": "https://www.kayak.com/profile/account/passkeys"
+      "enroll": "",
+      "manage": ""
     }
   },
   {
@@ -612,7 +612,7 @@
   {
     "domain": "mangadex.org",
     "name": "",
-    "description": "",
+    "description": "Read manga online for free on MangaDex with no ads, high quality images and support scanlation groups!",
     "icon": "",
     "endpoints": {
       "enroll": "",
@@ -671,7 +671,7 @@
   },
   {
     "domain": "moneybird.com",
-    "name": "Bookkeeping software for entrepreneurs | Moneybird",
+    "name": "Accounting software for entrepreneurs | Moneybird",
     "description": "Looking for a total solution? Then Moneybird is the right software for you!",
     "icon": "icons/moneybird.com.png",
     "endpoints": {
@@ -684,6 +684,16 @@
     "name": "マネーフォワード｜家計簿アプリやクラウド会計ソフト",
     "description": "すべての人のお金のプラットフォーム MoneyForward - お金・資産管理なら家計簿アプリ「マネーフォワード ME (ミー)」を今すぐダウンロード！法人・個人事業主向け「マネーフォワード クラウド」で会計ソフトなどバックオフィス効率化も",
     "icon": "icons/moneyforward.com.ico",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "mychart.nyulmc.org",
+    "name": "",
+    "description": "",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -811,7 +821,7 @@
   },
   {
     "domain": "passkeys.eu",
-    "name": "Passkeys Demo: Try Passkeys with Face ID & Touch ID",
+    "name": "Passkeys Demo: Try Passkeys with your Biometrics",
     "description": "Experience Passwordless Logins with the Free Passkeys Demo. Use Face ID, Touch ID, Android Biometrics or Windows Hello instead of Passwords.",
     "icon": "icons/passkeys.eu.ico",
     "endpoints": {
@@ -841,8 +851,8 @@
   },
   {
     "domain": "payfit.com",
-    "name": "Payroll Software That's Smart, Simple & Stress-Free | PayFit",
-    "description": "HMRC-recognised, PayFit combines best-in-class payroll software with expert support. Automate your payroll & HR admin and save time.",
+    "name": "UK Payroll Software for Seamless Automation | PayFit",
+    "description": "Simplify payroll with UK payroll software that automates tasks, saving time and reducing stress.",
     "icon": "icons/payfit.com.ico",
     "endpoints": {
       "enroll": "",
@@ -962,7 +972,7 @@
   {
     "domain": "shopify.com",
     "name": "Shopify",
-    "description": "Try Shopify free and start a business or grow an existing one. Get more than ecommerce software with tools to manage every part of your business.",
+    "description": "Try Shopify free and start a business or grow an existing one. Get more than ecommerce software with tools to manage every part of your business.",
     "icon": "icons/shopify.com.ico",
     "endpoints": {
       "enroll": "",
@@ -1031,9 +1041,9 @@
   },
   {
     "domain": "thehendrixjc.com",
-    "name": "",
-    "description": "",
-    "icon": "",
+    "name": "The Hendrix | Jersey City Luxury Rentals | Studio - 3 Bedroom Residences",
+    "description": "Culture, arts, & amenities moments from the PATH. An original lifestyle experience with spacious interiors and incredible modern design. Visit Today.",
+    "icon": "icons/thehendrixjc.com.png",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -1071,9 +1081,9 @@
   },
   {
     "domain": "ubank.com.au",
-    "name": "",
-    "description": "",
-    "icon": "",
+    "name": "Online Bank | Bank Accounts & Home Loans - ubank",
+    "description": "Award-winning online bank accounts and home loans. Our mission is simple: to help more Australians be successful with money.",
+    "icon": "icons/ubank.com.au.ico",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -1085,8 +1095,8 @@
     "description": "Learn how you can leverage the Uber platform and apps to earn more, eat, commute, get a ride, simplify business travel, and more.",
     "icon": "icons/uber.com.png",
     "endpoints": {
-      "enroll": "https://account.uber.com/passkeys",
-      "manage": "https://account.uber.com/passkeys"
+      "enroll": "",
+      "manage": ""
     }
   },
   {
@@ -1183,7 +1193,7 @@
     "domain": "yahoo.co.jp",
     "name": "Yahoo! JAPAN",
     "description": "あなたの毎日をアップデートする情報ポータル。検索、ニュース、天気、スポーツ、メール、ショッピング、オークションなど便利なサービスを展開しています。",
-    "icon": "icons/yahoo.co.jp.png",
+    "icon": "icons/yahoo.co.jp.ico",
     "endpoints": {
       "enroll": "https://account.edit.yahoo.co.jp/authdevice?cpt_n=PasskeyEndpoints&cpt_m=link&cpt_s=PasskeyEndpoints",
       "manage": "https://account.edit.yahoo.co.jp/authdevice?cpt_n=PasskeyEndpoints&cpt_m=link&cpt_s=PasskeyEndpoints"
