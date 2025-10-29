@@ -3,25 +3,25 @@ const axios = require('axios');
 const { JSDOM } = require('jsdom');
 const imageSize = require('image-size');
 
-const axiosInstance = axios.create();
-axiosInstance.defaults.maxRedirects = 0; // Set to 0 to prevent automatic redirects
-axiosInstance.defaults.timeout = 1000; // Set to 1 second
-axiosInstance.defaults.adapter = 'http';
-axiosInstance.defaults.headers['Accept'] = 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8';
-axiosInstance.defaults.headers['Accept-Encoding'] = 'gzip, deflate, br';
-axiosInstance.defaults.headers['Accept-Language'] = 'en-US,en;q=1';
-axiosInstance.defaults.headers['Cache-Control'] = 'no-cache';
+const axiosInstance = axios.create({
+    timeout: 8000,
+    maxRedirects: 5,
+    headers: {
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+        'Accept-Encoding': 'gzip, deflate, br',
+        'Accept-Language': 'en-US,en;q=1',
+        'Cache-Control': 'no-cache',
+        'User-Agent': 'Mozilla/5.0 (compatible; PasskeysCrawler/1.0)'
+    }
+});
+
 axiosInstance.interceptors.response.use(
-    response => response,
+    r => r,
     error => {
-        if (error.response && [301, 302].includes(error.response.status)) {
-            let redirectUrl = error.response.headers.location;
-            if (redirectUrl.startsWith('/')) {
-                const { url } = error.response.config;
-                redirectUrl = url + redirectUrl;
-            }
-            console.log('Redirecting to', error.response.headers.location);
-            return axiosInstance.get(redirectUrl);
+        const res = error.response;
+        if (res && (res.status === 301 || res.status === 302)) {
+            const redirectUrl = new URL(res.headers.location, res.config.url).href;
+            return axiosInstance.get(redirectUrl, { timeout: 8000 });
         }
         return Promise.reject(error);
     }
@@ -224,10 +224,14 @@ async function processDomains(inputFile, outputFile, debug = false) {
     const results = [];
 
     for (const domain of domains) {
-        const result = await fetchDomainInfo(domain, debug);
-        console.log(domain, result);
-        if (result) {
-            results.push(result);
+        try {
+            const result = await fetchDomainInfo(domain, debug);
+            console.log(domain, result);
+            if (result) {
+                results.push(result);
+            }
+        } catch (error) {
+            console.error(`Error fetching domain ${domain}:`, error);
         }
     }
 

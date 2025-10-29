@@ -36,3 +36,5 @@ next-env.d.ts
 
 public/domains.json
 public/icons/
+
+.idea
