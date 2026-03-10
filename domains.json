@@ -3,7 +3,7 @@
     "domain": "abanca.com",
     "name": "ABANCA banca online para particulares y empresas | ABANCA",
     "description": "ABANCA, la banca para particulares y negocios. Cuenta online, cuenta nómina, cuenta joven, hipotecas, depósitos, fondos, seguros y mucho más. Banco ABANCA.",
-    "icon": "icons/abanca.com.png",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -363,7 +363,7 @@
     "domain": "frontegg.com",
     "name": "Frontegg | The Identity Layer for Every SaaS Entry Point",
     "description": "Secure every entry point with Frontegg, the first identity layer for agentic SaaS. Protect APIs and scale with enterprise-grade CIAM.",
-    "icon": "icons/frontegg.com.svg",
+    "icon": "icons/frontegg.com.ico",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -473,7 +473,7 @@
     "domain": "hubspot.com",
     "name": "HubSpot | Software & Tools for your Business - Homepage",
     "description": "HubSpot's customer platform includes all the marketing, sales, customer service, and CRM software you need to grow your business.",
-    "icon": "icons/hubspot.com.png",
+    "icon": "icons/hubspot.com.ico",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -493,7 +493,7 @@
     "domain": "id.moneyforward.com",
     "name": "Money Forward ID",
     "description": "",
-    "icon": "icons/id.moneyforward.com.ico",
+    "icon": "",
     "endpoints": {
       "enroll": "https://id.moneyforward.com/webauthn/credentials",
       "manage": "https://id.moneyforward.com/webauthn/credentials"
@@ -523,7 +523,7 @@
     "domain": "ivoclar.com",
     "name": "Modern Dental Solutions for Dentists & Technicians | Ivoclar USA",
     "description": "Transform smiles with Ivoclar's innovative dental solutions. Our efficient workflows and revolutionary products deliver exceptional results. Discover Ivoclar. ",
-    "icon": "icons/ivoclar.com.png",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -1003,7 +1003,7 @@
     "domain": "sktelecom.com",
     "name": "SK telecom",
     "description": "자강과 협력을 통한 ‘Global AI Company’로의 도약",
-    "icon": "",
+    "icon": "icons/sktelecom.com.ico",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -1163,7 +1163,7 @@
     "domain": "vinci-autoroutes.com",
     "name": "VINCI Autoroutes : info trafic, prévisions, itinéraire, télépéage | VINCI Autoroutes",
     "description": "VINCI Autoroutes vous accompagne pour Bien voyager. Info trafic en direct, prévisions trafic, services sur aires, travaux, télépéage, tarifs, actus, conseils.",
-    "icon": "icons/vinci-autoroutes.com.png",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -1223,7 +1223,7 @@
     "domain": "yahoo.co.jp",
     "name": "Yahoo! JAPAN",
     "description": "あなたの毎日をアップデートする情報ポータル。検索、ニュース、天気、スポーツ、メール、ショッピング、オークションなど便利なサービスを展開しています。",
-    "icon": "",
+    "icon": "icons/yahoo.co.jp.ico",
     "endpoints": {
       "enroll": "https://account.edit.yahoo.co.jp/authdevice?cpt_n=PasskeyEndpoints&cpt_m=link&cpt_s=PasskeyEndpoints",
       "manage": "https://account.edit.yahoo.co.jp/authdevice?cpt_n=PasskeyEndpoints&cpt_m=link&cpt_s=PasskeyEndpoints"
