@@ -3,7 +3,7 @@
     "domain": "abanca.com",
     "name": "ABANCA banca online para particulares y empresas | ABANCA",
     "description": "ABANCA, la banca para particulares y negocios. Cuenta online, cuenta nómina, cuenta joven, hipotecas, depósitos, fondos, seguros y mucho más. Banco ABANCA.",
-    "icon": "icons/abanca.com.ico",
+    "icon": "icons/abanca.com.png",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -20,9 +20,19 @@
     }
   },
   {
+    "domain": "aero.zip",
+    "name": "aero.zip — Your files, flying safe.",
+    "description": "The ultimate file transfer: 250 MB/s speeds, E2E encryption, and instant streaming. Auto-resumes on errors and browser-based. Free for transfers up to 2 GB.",
+    "icon": "icons/aero.zip.png",
+    "endpoints": {
+      "enroll": "https://aero.zip/user/security",
+      "manage": "https://aero.zip/user/security"
+    }
+  },
+  {
     "domain": "affirm.com",
-    "name": "Affirm | Buy now, pay later with no late fees or surprises",
-    "description": "With Affirm, you can pay over time at your favorite brands. No late fees or compounding interest—just a more responsible way to say yes to the things you love.",
+    "name": "Affirm | Pay over time with flexible payment plans and no fees",
+    "description": "Buy now pay later without the fees. Flexible payment options with longer plans, lower payments, and no fees. Pay in 4 interest-free or get more time and see your total cost upfront.",
     "icon": "icons/affirm.com.ico",
     "endpoints": {
       "enroll": "",
@@ -93,7 +103,7 @@
     "domain": "authsignal.com",
     "name": "Authsignal - Drop-in Passkeys, Adaptive MFA & Passwordless Authentication",
     "description": "The fastest way to integrate passkeys, adaptive MFA, and passwordless authentication. Protect B2C accounts and enhance security with drop-in passwordless features.",
-    "icon": "icons/authsignal.com.svg",
+    "icon": "icons/authsignal.com.png",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -151,8 +161,8 @@
   },
   {
     "domain": "bolt.com",
-    "name": "Bolt | Shockingly Simple Checkout & Finance",
-    "description": "Bolt powers frictionless experiences for retailers and customers at every step of the shopping journey—from login to checkout.",
+    "name": "Get the Bolt SuperApp",
+    "description": "Bolt lets you send, spend, and manage your cash and crypto and more—all in one place.",
     "icon": "icons/bolt.com.png",
     "endpoints": {
       "enroll": "",
@@ -162,7 +172,7 @@
   {
     "domain": "bolt.eu",
     "name": "Explore Bolt services | The all-in-one mobility app | Bolt",
-    "description": "Get a ride in minutes, order food and grocery delivery, rent a car or scooter, improve business travel and more. Available in 600+ cities and 50+ countries.",
+    "description": "Get a ride in minutes, order food and grocery delivery, rent a car or scooter, improve business travel and more. Available in 850+ cities and 50+ countries.",
     "icon": "icons/bolt.eu.png",
     "endpoints": {
       "enroll": "",
@@ -181,8 +191,8 @@
   },
   {
     "domain": "boursobank.com",
-    "name": "        BoursoBank (ex-Boursorama Banque) - Banque 100% en ligne - la moins chère depuis 17 ans\n",
-    "description": "        BoursoBank (ex-Boursorama Banque), banque la moins chère depuis 17 ans : carte bancaire gratuite, crédit immobilier, assurance vie, bourse, épargne...\n",
+    "name": "        BoursoBank (ex-Boursorama Banque) - Banque 100% en ligne - la moins chère depuis 18 ans\n",
+    "description": "        BoursoBank (ex-Boursorama Banque), banque la moins chère depuis 18 ans : carte bancaire gratuite, crédit immobilier, assurance vie, bourse, épargne...\n",
     "icon": "icons/boursobank.com.png",
     "endpoints": {
       "enroll": "",
@@ -251,8 +261,8 @@
   },
   {
     "domain": "corbado.com",
-    "name": "Corbado - The Passkey Adoption Platform",
-    "description": "Corbado is the Passkey Adoption Platform for large-scale B2C applications. We help you get to >80% passkey adoption by delivering a plug-in layer.",
+    "name": "Corbado - Passkey Observability & Adoption Layer",
+    "description": "Corbado adds passkey-native observability & adoption controls to any IDP. See why passkeys fail, prove ROI & increase adoption with safe rollout governance.",
     "icon": "icons/corbado.com.png",
     "endpoints": {
       "enroll": "",
@@ -323,7 +333,7 @@
     "domain": "finom.co",
     "name": "Business Account, Invoicing & Accounting Integrations | Finom",
     "description": "Finom is an online payment solution for entrepreneurs that makes it easy to open a business account and securely manage their finances.",
-    "icon": "icons/finom.co.png",
+    "icon": "icons/finom.co.ico",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -351,9 +361,9 @@
   },
   {
     "domain": "frontegg.com",
-    "name": "Frontegg | Secure User Management for B2B & B2C SaaS",
-    "description": "Frontegg removes dependencies in SaaS teams with secure, low-code user management. Reduce developer toil by making security self-sufficient.",
-    "icon": "icons/frontegg.com.ico",
+    "name": "Frontegg | The Identity Layer for Every SaaS Entry Point",
+    "description": "Secure every entry point with Frontegg, the first identity layer for agentic SaaS. Protect APIs and scale with enterprise-grade CIAM.",
+    "icon": "icons/frontegg.com.svg",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -371,8 +381,8 @@
   },
   {
     "domain": "gitlab.com",
-    "name": "The most-comprehensive AI-powered DevSecOps platform",
-    "description": "From planning to production, bring teams together in one application. Ship secure code more efficiently to deliver value faster.",
+    "name": "Finally, AI for the entire software lifecycle.",
+    "description": "Your intelligent orchestration platform for DevSecOps",
     "icon": "icons/gitlab.com.ico",
     "endpoints": {
       "enroll": "",
@@ -421,8 +431,8 @@
   },
   {
     "domain": "hanko.io",
-    "name": "Hanko — Modern Authentication. On Your Terms.",
-    "description": "Open source, privacy-first, and built to scale. Hanko is the fastest way you integrate passkeys, 2FA, SSO, and more—with full control over your data. Move between self-hosted and Hanko Cloud anytime. No lock-in. Just auth how it should be: secure, fast, user friendly, and fully yours.",
+    "name": "Hanko | Modern Authentication. On Your Terms.",
+    "description": "Open source, privacy-first, and built to scale. Hanko is the fastest way you integrate passkeys, 2FA, SSO, and more, with full control over your data. Move between self-hosted and Hanko Cloud anytime. No lock-in. Just auth how it should be: secure, fast, user friendly, and fully yours.",
     "icon": "icons/hanko.io.png",
     "endpoints": {
       "enroll": "",
@@ -441,8 +451,8 @@
   },
   {
     "domain": "homedepot.com",
-    "name": "",
-    "description": "",
+    "name": "The Home Depot",
+    "description": "Shop online for all your home improvement needs: appliances, bathroom decorating ideas, kitchen remodeling, patio furniture, power tools, bbq grills, carpeting, lumber, concrete, lighting, ceiling fans and more at The Home Depot.",
     "icon": "icons/homedepot.com.ico",
     "endpoints": {
       "enroll": "",
@@ -463,7 +473,7 @@
     "domain": "hubspot.com",
     "name": "HubSpot | Software & Tools for your Business - Homepage",
     "description": "HubSpot's customer platform includes all the marketing, sales, customer service, and CRM software you need to grow your business.",
-    "icon": "icons/hubspot.com.ico",
+    "icon": "icons/hubspot.com.png",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -483,7 +493,7 @@
     "domain": "id.moneyforward.com",
     "name": "Money Forward ID",
     "description": "",
-    "icon": "",
+    "icon": "icons/id.moneyforward.com.ico",
     "endpoints": {
       "enroll": "https://id.moneyforward.com/webauthn/credentials",
       "manage": "https://id.moneyforward.com/webauthn/credentials"
@@ -501,9 +511,9 @@
   },
   {
     "domain": "intuit.com",
-    "name": "Intuit®: Outdo your financial goals—all in one place",
-    "description": "The Intuit platform puts a team of AI agents and trusted experts by your side.",
-    "icon": "icons/intuit.com.png",
+    "name": "",
+    "description": "",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -521,8 +531,8 @@
   },
   {
     "domain": "justpass.me",
-    "name": "justpass.me Passkeys in Minutes",
-    "description": "Justpass.me provides passkeys as a service for both web apps and mobile apps over openID Connect Protocol. It supports Firebase as well.",
+    "name": "",
+    "description": "",
     "icon": "",
     "endpoints": {
       "enroll": "",
@@ -562,7 +572,7 @@
   {
     "domain": "laakari.chat",
     "name": "Lääkäri.chat – Helppo ja nopea lääkäri-chat",
-    "description": "Lääkärin chat-vastaanotto, asioi helposti ja turvallisesti yksityisen etälääkärin kanssa. Edullinen reseptin uusiminen samana päivänä 14,99 €. Etälääkärin vastaanotot omavastuu alkaen 19,99 €.",
+    "description": "Lääkärin chat-vastaanotto, asioi helposti ja turvallisesti yksityisen etälääkärin kanssa. Edullinen reseptin uusiminen samana päivänä 19,99 €. Etälääkärin chat-vastaanotot omavastuu 36,99 €.",
     "icon": "",
     "endpoints": {
       "enroll": "",
@@ -661,9 +671,9 @@
   },
   {
     "domain": "microsoft.com",
-    "name": "",
-    "description": "",
-    "icon": "",
+    "name": "Microsoft – AI, Cloud, Productivity, Computing, Gaming & Apps",
+    "description": "Explore Microsoft products and services and support for your home or business. Shop Microsoft 365, Copilot, Teams, Xbox, Windows, Azure, Surface and more.",
+    "icon": "icons/microsoft.com.ico",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -685,8 +695,8 @@
     "description": "Looking for a total solution? Then Moneybird is the right software for you!",
     "icon": "",
     "endpoints": {
-      "enroll": "",
-      "manage": ""
+      "enroll": "https://moneybird.com/user/webauthn_credential_setup/new",
+      "manage": "https://moneybird.com/user/webauthn_credentials"
     }
   },
   {
@@ -742,7 +752,7 @@
   {
     "domain": "notion.com",
     "name": "The AI workspace that works for you. | Notion",
-    "description": "Build custom agents, search across all your apps, and automate busywork. The AI workspace where teams get more done, faster.",
+    "description": "Build Custom Agents, search across all your apps, and automate busywork. The AI workspace where teams get more done, faster.",
     "icon": "icons/notion.com.png",
     "endpoints": {
       "enroll": "",
@@ -753,7 +763,7 @@
     "domain": "nvidia.com",
     "name": "World Leader in Artificial Intelligence Computing | NVIDIA",
     "description": "NVIDIA invents the GPU and drives advances in AI, HPC, gaming, creative design, autonomous vehicles, and robotics.",
-    "icon": "",
+    "icon": "icons/nvidia.com.ico",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -763,7 +773,7 @@
     "domain": "offshoot.rentals",
     "name": "Equipment rental for still and motion photography - Offshoot Rentals Melbourne",
     "description": "Offshoot Rentals is a trusted production partner in Melbourne, supplying equipment and support to a wide range of productions since 2010.",
-    "icon": "icons/offshoot.rentals.ico",
+    "icon": "icons/offshoot.rentals.png",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -772,7 +782,7 @@
   {
     "domain": "okta.com",
     "name": "Secure Identity for Employees, Customers, and AI | Okta",
-    "description": "The Okta and Auth0 Platforms enable secure access, authentication, and automation — putting Identity at the heart of business security and growth.",
+    "description": "The Okta and Auth0 Platforms enable secure access, authentication, and automation — putting identity at the heart of business security and growth.",
     "icon": "icons/okta.com.ico",
     "endpoints": {
       "enroll": "",
@@ -811,9 +821,9 @@
   },
   {
     "domain": "passage.1password.com",
-    "name": "Passage by 1Password",
-    "description": "Passage provides passwordless authentication that you can add to your app or website with just a few lines of code. Learn more.",
-    "icon": "icons/passage.1password.com.png",
+    "name": "Password Manager & Extended Access Management | 1Password   | 1Password",
+    "description": "More than a password manager and leader in Extended Access Management. Secure all sign-ins to every application from any device with 1Password. ",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -821,9 +831,9 @@
   },
   {
     "domain": "passage.id",
-    "name": "Passage by 1Password",
-    "description": "Passage provides passwordless authentication that you can add to your app or website with just a few lines of code. Learn more.",
-    "icon": "icons/passage.id.png",
+    "name": "",
+    "description": "",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -831,9 +841,9 @@
   },
   {
     "domain": "passkeys.eu",
-    "name": "Passkeys Demo: Try Passkeys with your Biometrics",
-    "description": "Experience Passwordless Logins with the Free Passkeys Demo. Use Face ID, Touch ID, Android Biometrics or Windows Hello instead of Passwords.",
-    "icon": "icons/passkeys.eu.ico",
+    "name": "",
+    "description": "",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -891,9 +901,9 @@
   },
   {
     "domain": "porkbun.com",
-    "name": "",
-    "description": "",
-    "icon": "",
+    "name": "porkbun.com | An oddly satisfying experience.",
+    "description": "Porkbun is an amazingly awesome ICANN accredited domain name registrar based out of the Pacific Northwest. We're different, we're easy, and we're affordable. Use us, you won't be sorry. If you don't use us we'll be sad, but we'll still love you.",
+    "icon": "icons/porkbun.com.png",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -991,8 +1001,8 @@
   },
   {
     "domain": "sktelecom.com",
-    "name": "",
-    "description": "",
+    "name": "SK telecom",
+    "description": "자강과 협력을 통한 ‘Global AI Company’로의 도약",
     "icon": "",
     "endpoints": {
       "enroll": "",
@@ -1002,7 +1012,7 @@
   {
     "domain": "stripe.com",
     "name": "Stripe | Financial Infrastructure to Grow Your Revenue",
-    "description": "Stripe is a suite of APIs powering online payment processing and commerce solutions for internet businesses of all sizes. Accept payments and scale faster with AI.",
+    "description": "Stripe is a financial services platform that helps all types of businesses accept payments, build flexible billing models, and manage money movement.",
     "icon": "icons/stripe.com.svg",
     "endpoints": {
       "enroll": "",
@@ -1011,19 +1021,19 @@
   },
   {
     "domain": "subnoto.com",
-    "name": "Subnoto | Confidential e-Signatures & Privacy-Focused Solutions",
-    "description": "Sign documents online securely with Subnoto, the privacy-first confidential e-signature solution. Experience top-tier encryption and unmatched data protection.",
+    "name": "Subnoto | Confidential and Sovereign E-Signatures",
+    "description": "Subnoto is the only platform that keeps contracts confidential during signing, with cryptographic proof. Made in France.",
     "icon": "icons/subnoto.com.png",
     "endpoints": {
-      "enroll": "",
-      "manage": ""
+      "enroll": "https://app.subnoto.com/settings/passkeys",
+      "manage": "https://app.subnoto.com/settings/passkeys"
     }
   },
   {
     "domain": "synology.com",
-    "name": "",
-    "description": "",
-    "icon": "",
+    "name": "Synology Inc.",
+    "description": "Synology uniquely enables you to manage, secure, and protect your data – at the scale needed to accommodate the exponential data growth of the digital world.",
+    "icon": "icons/synology.com.png",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -1031,8 +1041,8 @@
   },
   {
     "domain": "tailscale.com",
-    "name": "Tailscale · Best VPN Service for Secure Networks",
-    "description": "Securely connect to anything on the internet with Tailscale. Deploy a WireGuard®-based VPN to achieve point-to-point connectivity that enforces least privilege.",
+    "name": "Tailscale | Secure Connectivity for AI, IoT & Multi-Cloud",
+    "description": "The connectivity platform for devs, IT, and security teams. Zero Trust identity-based access that deploys in minutes and scales to every resource. Start free.",
     "icon": "icons/tailscale.com.png",
     "endpoints": {
       "enroll": "",
@@ -1045,8 +1055,8 @@
     "description": "Shop Target online and in-store for everything from groceries and essentials to clothing and electronics. Choose contactless pickup or delivery today.",
     "icon": "icons/target.com.png",
     "endpoints": {
-      "enroll": "",
-      "manage": ""
+      "enroll": "https://www.target.com/account/settings/signinsecurity",
+      "manage": "https://www.target.com/account/settings/signinsecurity"
     }
   },
   {
@@ -1081,7 +1091,7 @@
   },
   {
     "domain": "trusona.com",
-    "name": "Home - Trusona",
+    "name": "Trusona - Account Takeover Protection for Enterprises",
     "description": "Trusona's ATO Protect allows IT Help Desks to know who is on the other end and ensure verified account recovery. Get started today!",
     "icon": "icons/trusona.com.png",
     "endpoints": {
@@ -1101,8 +1111,8 @@
   },
   {
     "domain": "ubank.com.au",
-    "name": "Online Bank | Bank Accounts & Home Loans - ubank",
-    "description": "Award-winning online bank accounts and home loans. Our mission is simple: to help more Australians be successful with money.",
+    "name": "ubank - That's how you money",
+    "description": "",
     "icon": "",
     "endpoints": {
       "enroll": "",
@@ -1111,12 +1121,12 @@
   },
   {
     "domain": "uber.com",
-    "name": "Explore the Uber Platform | Uber United States",
-    "description": "Learn how you can leverage the Uber platform and apps to earn more, eat, commute, get a ride, simplify business travel, and more.",
-    "icon": "icons/uber.com.png",
+    "name": "",
+    "description": "",
+    "icon": "",
     "endpoints": {
-      "enroll": "https://account.uber.com/passkeys",
-      "manage": "https://account.uber.com/passkeys"
+      "enroll": "",
+      "manage": ""
     }
   },
   {
@@ -1213,7 +1223,7 @@
     "domain": "yahoo.co.jp",
     "name": "Yahoo! JAPAN",
     "description": "あなたの毎日をアップデートする情報ポータル。検索、ニュース、天気、スポーツ、メール、ショッピング、オークションなど便利なサービスを展開しています。",
-    "icon": "icons/yahoo.co.jp.png",
+    "icon": "",
     "endpoints": {
       "enroll": "https://account.edit.yahoo.co.jp/authdevice?cpt_n=PasskeyEndpoints&cpt_m=link&cpt_s=PasskeyEndpoints",
       "manage": "https://account.edit.yahoo.co.jp/authdevice?cpt_n=PasskeyEndpoints&cpt_m=link&cpt_s=PasskeyEndpoints"
