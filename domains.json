@@ -10,6 +10,36 @@
     }
   },
   {
+    "domain": "accuweather.com",
+    "name": "",
+    "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "addisonlee.com",
+    "name": "Addison Lee | Taxis, Couriers & Chauffeurs London",
+    "description": "Your choice of service from premium taxis to high-end executive cars. Addison Lee also offers London's leading courier service.",
+    "icon": "icons/addisonlee.com.png",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "adidas.com",
+    "name": "",
+    "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
     "domain": "adobe.com",
     "name": "Adobe: Creative, marketing and document management solutions",
     "description": "Adobe is changing the world through digital experiences. We help our customers create, deliver and optimize content and applications.",
@@ -17,6 +47,26 @@
     "endpoints": {
       "enroll": "https://account.adobe.com/security?addPasskey",
       "manage": "https://account.adobe.com/security"
+    }
+  },
+  {
+    "domain": "adp.com",
+    "name": "Payroll, HR and Tax Services | ADP Official Site",
+    "description": "ADP offers industry-leading online payroll and HR solutions, plus tax, compliance, benefit administration and more.",
+    "icon": "icons/adp.com.png?rev=5627d66726b34b0e8390b25f5b072d4c",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "adt.com",
+    "name": "ADT®️ Homepage | Shop ADT®️ Home Alarm Systems | Home Security Systems & Services Provider ",
+    "description": "Protect Your Home with ADT Security, the Leader in Home Alarm Systems. Call 855-497-8573 for Your Risk-Free Quote and Join America’s #1 Home Alarm Provider Today!\n\n\n \n\n ",
+    "icon": "icons/adt.com.ico",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
     }
   },
   {
@@ -43,7 +93,47 @@
     "domain": "aflac.com",
     "name": "Aflac | #1 Supplemental Insurance Company - Get a Quote",
     "description": "Aflac provides supplemental insurance to help pay out-of-pocket expenses your major medical insurance doesn't cover. Get started with a quote today!",
-    "icon": "icons/aflac.com.ico",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "afterpay.com",
+    "name": "Buy Now Pay Later with Afterpay",
+    "description": "Afterpay is fully integrated with all your favorite stores. Shop as usual, then choose Afterpay as your payment method at checkout. First-time customers complete a quick registration, returning customers simply log in.",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "ageverif.com",
+    "name": " AgeVerif – Free, Fast & Easy Age Verification Integration",
+    "description": "Improve your site’s compliance in just a few minutes with AgeVerif’s simple, free solution. Easily integrate it into your age-restricted platform and offer users ultra-fast verification",
+    "icon": "icons/ageverif.com.svg",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "aid.no",
+    "name": "aID.no",
+    "description": "",
+    "icon": "icons/aid.no.ico",
+    "endpoints": {
+      "enroll": "https://aid.no/aid/webauthn/enroll",
+      "manage": "https://aid.no/aid/webauthn/manage"
+    }
+  },
+  {
+    "domain": "airfranceklm.com",
+    "name": "",
+    "description": "",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -53,6 +143,26 @@
     "domain": "airnewzealand.com",
     "name": "Air New Zealand™ – United States Official Site | Safest Airline 2025",
     "description": "Flights from the USA to New Zealand, Australia and the Pacific Islands. We fly direct to New Zealand from Los Angeles, San Francisco, Houston, Honolulu and New York.",
+    "icon": "icons/airnewzealand.com.png",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "alibaba.com",
+    "name": "Alibaba.com: Manufacturers, Suppliers, Exporters & Importers from the world's largest online B2B marketplace",
+    "description": "Find quality Manufacturers, Suppliers, Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trade Site. Import & Export on alibaba.com",
+    "icon": "icons/alibaba.com.ico",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "aliexpress.com",
+    "name": "",
+    "description": "",
     "icon": "",
     "endpoints": {
       "enroll": "",
@@ -60,10 +170,190 @@
     }
   },
   {
-    "domain": "amazon.com",
+    "domain": "amazon.ae",
     "name": "",
     "description": "",
     "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "amazon.ca",
+    "name": " ",
+    "description": "",
+    "icon": "icons/amazon.ca.ico",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "amazon.co.jp",
+    "name": "",
+    "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "amazon.co.uk",
+    "name": " ",
+    "description": "",
+    "icon": "icons/amazon.co.uk.ico",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "amazon.com",
+    "name": "Amazon.com. Spend less. Smile more.",
+    "description": "Free shipping on millions of items. Get the best of Shopping and Entertainment with Prime. Enjoy low prices and great deals on the largest selection of everyday essentials and other products, including fashion, home, beauty, electronics, Alexa Devices, sporting goods, toys, automotive, pets, baby, books, video games, musical instruments, office supplies, and more.",
+    "icon": "icons/amazon.com.ico",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "amazon.com.au",
+    "name": "Amazon.com.au: Shop online for Electronics, Apparel, Toys, Books, DVDs & more",
+    "description": "Shop online for Electronics, Computers, Clothing, Shoes, Toys, Books, DVDs, Sporting Goods, Beauty & more.",
+    "icon": "icons/amazon.com.au.ico",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "amazon.com.br",
+    "name": "Amazon.com.br | Tudo pra você, de A a Z.",
+    "description": "Encontre o que precisa na Amazon. Ofertas em Livros, Kindle, Echo com Alexa, Fire TV, Eletrônicos, Bebidas, Casa, Beleza e mais. Frete GRÁTIS com Amazon Prime.",
+    "icon": "icons/amazon.com.br.ico",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "amazon.com.mx",
+    "name": "Amazon.com.mx: Precios bajos - Envío rápido - Millones de productos",
+    "description": "Envío gratis en pedidos elegibles. Pagos fáciles y seguros. Compra ahora electrónicos, libros, ropa y mucho más. Devoluciones fáciles. Inicia tu prueba de Amazon Prime gratis.",
+    "icon": "icons/amazon.com.mx.ico",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "amazon.de",
+    "name": "Amazon.de: Low Prices in Electronics, Books, Sports Equipment & more",
+    "description": "Sign up to Amazon Prime for unlimited One-Day Delivery. Low prices at Amazon on digital cameras, MP3, sports, books, music, DVDs, video games, home & garden and much more.",
+    "icon": "icons/amazon.de.ico",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "amazon.es",
+    "name": "Amazon.es: online shopping for consumer electronics, books, sports, household items, fashion and more.",
+    "description": "Discover and buy online: consumer electronics, fashion, household items, books, sports and more at low prices on Amazon.es. Free delivery with Amazon Prime.",
+    "icon": "icons/amazon.es.ico",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "amazon.fr",
+    "name": "Amazon.fr: books, DVDs, video games, music, high-tech, computers, toys, clothing, shoes, sports, DIY, home, beauty, childcare, groceries and more!",
+    "description": "Buy and sell online from millions of products in stock. Free delivery for orders over €25. Your items at low prices: culture, high-tech, fashion, toys, sports, home and much more!",
+    "icon": "icons/amazon.fr.ico",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "amazon.in",
+    "name": "Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in",
+    "description": "Amazon.in: Online Shopping India - Buy mobiles, laptops, cameras, books, watches, apparel, shoes and e-Gift Cards. Free Shipping & Cash on Delivery Available.",
+    "icon": "icons/amazon.in.ico",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "amazon.it",
+    "name": "",
+    "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "amazon.nl",
+    "name": " ",
+    "description": "",
+    "icon": "icons/amazon.nl.ico",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "amazon.pl",
+    "name": "",
+    "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "amazon.se",
+    "name": "Amazon.se: Låga priser på Elektronik, Böcker, Sportutrustning & mer",
+    "description": "Börja prenumerera på Amazon Prime för obegränsad fri leverans. Låga priser hos Amazon på digitalkameror, sportartiklar, böcker, musik, tv-spel, hem & trädgård och mycket mer.",
+    "icon": "icons/amazon.se.ico",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "amazon.sg",
+    "name": "Amazon.sg: Shop Online for Electronics, Computers, Books, Toys, DVDs, Baby, Grocery, & more",
+    "description": "Shop online for Electronics, Computers, Books, Toys, Baby, Grocery, Beauty, Kitchen, Home, Personal Care & more on Amazon Singapore. Get Free Delivery on eligible orders in Singapore with Amazon Prime subscription.",
+    "icon": "icons/amazon.sg.ico",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "amazon.work",
+    "name": "Amazon A to Z Login",
+    "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "aol.com",
+    "name": "News, Politics, Sports, Mail & Latest Headlines - AOL.com",
+    "description": "Discover the latest breaking news in the U.S. and around the world — politics, weather, entertainment, lifestyle, finance, sports and much more.",
+    "icon": "icons/aol.com.png",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -80,6 +370,26 @@
     }
   },
   {
+    "domain": "april.fr",
+    "name": "APRIL : l'assurance en plus facile, nos meilleures offres en quelques clics",
+    "description": "Découvrez les contrats d'assurance APRIL : assurance emprunteur, complémentaire santé, assurance auto, prévoyance... Obtenez un devis en ligne.",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "arbeitsagentur.de",
+    "name": "Startseite | Bundesagentur für Arbeit",
+    "description": "Die Website rund ums Leben. Das Webportal der Bundesagentur für Arbeit möchte Menschen in jeder Lebenslage unterstützen. Jetzt informieren!",
+    "icon": "icons/arbeitsagentur.de.png",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
     "domain": "arpari.com",
     "name": "Arpari - Treasury Management Simplified",
     "description": "Treasury management built for complex account structures. Seamlessly and securely manage your treasury operations from a single platform.",
@@ -90,8 +400,48 @@
     }
   },
   {
+    "domain": "ascension.org",
+    "name": "Healthcare | Ascension",
+    "description": "At Ascension, we listen and provide healthcare that's right for you. Find a doctor, access your patient portal, pay your bill, or search for a job.",
+    "icon": "icons/ascension.org.ico",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "auone.jp",
+    "name": "au Webポータル|最新の国内外ニュースをリアルタイムに配信",
+    "description": "auが提供するポータルサイト。検索、天気、乗換・地図、占いなどの便利なサービスが利用できるほか、時事やスポーツ、芸能などの最新ニュースをリアルタイムにお届けしています。",
+    "icon": "icons/auone.jp.png",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "auth-basspro.com",
+    "name": "",
+    "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "auth-cabelas.com",
+    "name": "",
+    "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
     "domain": "authgear.com",
-    "name": "Authgear CLOUD - Your Managed IAM Solution",
+    "name": "Authgear CLOUD — Your Managed IAM Solution",
     "description": "Authgear makes it easier for developers to meet complex authentication requirements, delivering a frictionless and exceptional digital experience.",
     "icon": "icons/authgear.com.png",
     "endpoints": {
@@ -104,6 +454,36 @@
     "name": "Authsignal - Drop-in Passkeys, Adaptive MFA & Passwordless Authentication",
     "description": "The fastest way to integrate passkeys, adaptive MFA, and passwordless authentication. Protect B2C accounts and enhance security with drop-in passwordless features.",
     "icon": "icons/authsignal.com.png",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "axs.com",
+    "name": "",
+    "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "bcbsil.com",
+    "name": "Illinois Health Insurance | Blue Cross and Blue Shield of Illinois",
+    "description": "See what Blue Cross Blue Shield of Illinois plans have to offer you. Explore employer, individual, family, Medicare and Medicaid options available for you.",
+    "icon": "icons/bcbsil.com.png",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "bcbstx.com",
+    "name": "Health Insurance in Texas | Blue Cross and Blue Shield of Texas",
+    "description": "See what Blue Cross Blue Shield of Texas plans have to offer you. Explore employer, individual, family, Medicare and Medicaid options available for you.",
+    "icon": "icons/bcbstx.com.png",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -161,9 +541,9 @@
   },
   {
     "domain": "bolt.com",
-    "name": "Get the Bolt SuperApp",
-    "description": "Bolt lets you send, spend, and manage your cash and crypto and more—all in one place.",
-    "icon": "icons/bolt.com.png",
+    "name": "",
+    "description": "",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -174,6 +554,16 @@
     "name": "Explore Bolt services | The all-in-one mobility app | Bolt",
     "description": "Get a ride in minutes, order food and grocery delivery, rent a car or scooter, improve business travel and more. Available in 850+ cities and 50+ countries.",
     "icon": "icons/bolt.eu.png",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "booking.com",
+    "name": "",
+    "description": "",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -200,10 +590,70 @@
     }
   },
   {
+    "domain": "bp.com",
+    "name": "bp.com Homepage",
+    "description": "Our purpose is to deliver energy to the world, today and tomorrow",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
     "domain": "bridgecrest.com",
     "name": "Bridgecrest | Car Payment Management & Account Servicing",
     "description": "Keep your vehicle finances on the road to success with Bridgecrest. We make it easy to manage your account online, find convenient payment options, and get assistance when you need it.",
     "icon": "icons/bridgecrest.com.ico",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "britishairways.com",
+    "name": "British Airways | Book Flights, Holidays, City Breaks & Check In Online",
+    "description": "Save on worldwide flights and holidays when you book directly on ba.com. Browse our guide, find great deals, manage your booking and check in online",
+    "icon": "icons/britishairways.com.png",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "bumble.com",
+    "name": "Bumble | Date, Chat & Meet New People",
+    "description": "Bumble has changed the way people date, create meaningful relationships & network with women making the first move. Meet new people & download Bumble.",
+    "icon": "icons/bumble.com.png",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "canadalife.com",
+    "name": "\n       Canada Life: Insurance, Investments, & Retirement\n      \n    ",
+    "description": "We’ve been supporting the financial, physical and mental wellbeing of Canadians for 175 years. ",
+    "icon": "icons/canadalife.com.png",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "canva.com",
+    "name": "",
+    "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "capitalone.com",
+    "name": "Capital One | Credit Cards, Checking, Savings & Auto Loans",
+    "description": "Learn how banking with Capital One can help you meet your financial goals.",
+    "icon": "icons/capitalone.com.png",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -217,6 +667,16 @@
     "endpoints": {
       "enroll": "https://cardpointers.com/account/#security",
       "manage": "https://cardpointers.com/account/#security"
+    }
+  },
+  {
+    "domain": "caremark.com",
+    "name": "CVS Caremark Home",
+    "description": "CVS Caremark is a pharmacy benefit manager dedicated to helping each of our members on a path to better health by getting them the prescriptions they need when they need them.",
+    "icon": "icons/caremark.com.png",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
     }
   },
   {
@@ -240,9 +700,59 @@
     }
   },
   {
+    "domain": "cathaypacific.com",
+    "name": "",
+    "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "celebrations.com",
+    "name": "Gourmet Gift Baskets, Gift Boxes & Towers | Harry & David",
+    "description": "Shop premium gourmet gift baskets, boxes and towers filled with fresh fruit, chocolates, gourmet treats and wine. Perfect for every occasion.",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "check24.com",
+    "name": "CHECK24 | Das Vergleichsportal",
+    "description": "CHECK24 - Das Vergleichsportal: Sparen Sie mit den Vergleichsrechnern für Versicherungen, Kredite, Energie, Internet, Reisen, Flüge und mehr.",
+    "icon": "icons/check24.com.png",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "chime.com",
+    "name": "",
+    "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "clearpay.co.uk",
+    "name": "Buy Now Pay Later with Afterpay",
+    "description": "Afterpay is fully integrated with all your favorite stores. Shop as usual, then choose Afterpay as your payment method at checkout. First-time customers complete a quick registration, returning customers simply log in.",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
     "domain": "cloudflare.com",
-    "name": "Connect, protect, and build everywhere | Cloudflare",
-    "description": "Make employees, applications and networks faster and more secure everywhere, while reducing complexity and cost.",
+    "name": "Cloudflare: Build for the agent era",
+    "description": "Welcome to Cloudflare - Powering the next generation of applications",
     "icon": "icons/cloudflare.com.ico",
     "endpoints": {
       "enroll": "",
@@ -260,10 +770,50 @@
     }
   },
   {
+    "domain": "condenast.com",
+    "name": "Condé Nast",
+    "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "congstar.de",
+    "name": "Mobilfunk – Prepaid – Handytarife – Smartphones – 5G – DSL",
+    "description": "Dein Anbieter für alle Ansprüche:  ✔ Günstig ✔ Fair ✔ Verträge mit und ohne Laufzeit ✔ 5G Option ✔ mit GB+ automatisch mehr Datenvolumen jedes Jahr.\n",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "copaair.com",
+    "name": "Copa Airlines | Cheap Flights and Tickets to America",
+    "description": "Book cheap airline tickets in minutes and enjoy and your flight with Copa Airlines. Find the best deals on hotel bookings and car rental.",
+    "icon": "icons/copaair.com.png",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
     "domain": "corbado.com",
-    "name": "Corbado - Passkey Observability & Adoption Layer",
-    "description": "Corbado adds passkey-native observability & adoption controls to any IDP. See why passkeys fail, prove ROI & increase adoption with safe rollout governance.",
+    "name": "Passkey Intelligence Platform | Corbado",
+    "description": "See why passkey adoption is flat, what's breaking logins and how to scale passkeys enterprise-wide with Corbado.",
     "icon": "icons/corbado.com.png",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "costco.com",
+    "name": "",
+    "description": "",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -280,6 +830,16 @@
     }
   },
   {
+    "domain": "crypto.com",
+    "name": "Crypto.com: Buy, Sell & Trade Crypto with a Trusted App",
+    "description": "Buy, sell, store, and trade over 400+ cryptocurrencies on Crypto.com, a secure and trusted crypto exchange platform.",
+    "icon": "icons/crypto.com.ico",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
     "domain": "cutx.org",
     "name": "\n      Credit Union of Texas | Better Banking, Auto Loans, Mortgage, Refinancing\n    ",
     "description": "Checking accounts with perks you won't find at a bank. The best rates on mortgages, auto loans, refinancing, & more. We're banking with a purpose at CUTX.",
@@ -290,10 +850,40 @@
     }
   },
   {
+    "domain": "cvs.com",
+    "name": "CVS - Online Drugstore, Pharmacy, Prescriptions & Health Information",
+    "description": "Refill and transfer prescriptions online or find a CVS Pharmacy near you. Shop online, see ExtraCare deals, find MinuteClinic locations and more.",
+    "icon": "icons/cvs.com.ico",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "dell.com",
+    "name": "Computers, Monitors & Technology Solutions | Dell USA",
+    "description": "Dell provides technology solutions, services & support. Buy Laptops, Touch Screen PCs, Desktops, Servers, Storage, Monitors, Gaming & Accessories",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "dexcom.com",
+    "name": "",
+    "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
     "domain": "dinero.dk",
-    "name": "Regnskabsprogram » Dinero er gratis & nemt!",
-    "description": "Nyt online regnskabsprogram? Se her! Dinero er et gratis og nemt økonomisystem til mindre virksomheder. ✓ Opret GRATIS konto her!",
-    "icon": "icons/dinero.dk.png",
+    "name": "Regnskabsprogram til selvstændige | Prøv Dinero gratis",
+    "description": "Dinero er et nemt regnskabsprogram til selvstændige og små virksomheder. Send fakturaer, bogfør bilag og få styr på moms. Prøv Dinero gratis.",
+    "icon": "icons/dinero.dk.svg",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -310,6 +900,16 @@
     }
   },
   {
+    "domain": "docomo.ne.jp",
+    "name": "NTTドコモ",
+    "description": "NTTドコモの公式サイト。スマートフォンや携帯電話、料金プラン、dポイントなどの生活に役立つサービスやサポートの情報をご案内します。",
+    "icon": "icons/docomo.ne.jp.png",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
     "domain": "docusign.com",
     "name": "Docusign | #1 in Electronic Signature and Intelligent Agreement Management",
     "description": "Create, commit to, and manage your agreements all in one platform with Docusign IAM. Electronically sign for free.",
@@ -320,10 +920,150 @@
     }
   },
   {
-    "domain": "ebay.com",
+    "domain": "dropbox.com",
+    "name": "Dropbox.com",
+    "description": "Discover Dropbox – secure, easy cloud storage for file sharing and collaboration. With Dash, save time and organize all your company content in one place.",
+    "icon": "icons/dropbox.com.ico",
+    "endpoints": {
+      "enroll": "https://www.dropbox.com/account/security",
+      "manage": "https://www.dropbox.com/account/security"
+    }
+  },
+  {
+    "domain": "duke-energy.com",
     "name": "",
     "description": "",
     "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "duosecurity.com",
+    "name": "Complete Identity Security & MFA Solutions | Cisco Duo",
+    "description": "Duo Security offers solutions to protect organizations from identity threats. Explore Duo identity security, phishing-resistant MFA, and other solutions.",
+    "icon": "icons/duosecurity.com.png",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "ebay.ca",
+    "name": "Electronics, Cars, Fashion, Collectibles & More | eBay",
+    "description": "Buy & sell electronics, cars, clothes, collectibles & more on eBay, the world's online marketplace. Top brands, low prices & free shipping on many items.",
+    "icon": "icons/ebay.ca.ico",
+    "endpoints": {
+      "enroll": "https://accounts.ebay.ca/acctsec/manage/passkeys/create",
+      "manage": "https://accounts.ebay.ca/acctsec/security-center"
+    }
+  },
+  {
+    "domain": "ebay.co.uk",
+    "name": "eBay UK | Electronics, Cars, Fashion, Collectibles & More",
+    "description": "Buy & sell electronics, cars, clothes, collectibles & more on eBay UK's online marketplace. Top brands, low prices & free shipping on many items.",
+    "icon": "icons/ebay.co.uk.ico",
+    "endpoints": {
+      "enroll": "https://accounts.ebay.co.uk/acctsec/manage/passkeys/create",
+      "manage": "https://accounts.ebay.co.uk/acctsec/security-center"
+    }
+  },
+  {
+    "domain": "ebay.com",
+    "name": "Electronics, Cars, Fashion, Collectibles & More | eBay",
+    "description": "Buy & sell electronics, cars, clothes, collectibles & more on eBay, the world's online marketplace. Top brands, low prices & free shipping on many items.",
+    "icon": "icons/ebay.com.ico",
+    "endpoints": {
+      "enroll": "https://accounts.ebay.com/acctsec/manage/passkeys/create",
+      "manage": "https://accounts.ebay.com/acctsec/security-center"
+    }
+  },
+  {
+    "domain": "ebay.com.au",
+    "name": "eBay Australia | Electronics, Cars, Fashion, Collectibles & More",
+    "description": "Buy & sell electronics, cars, clothes, collectibles & more on eBay Australia's online marketplace. Top brands, low prices & free shipping on many items.",
+    "icon": "icons/ebay.com.au.ico",
+    "endpoints": {
+      "enroll": "https://accounts.ebay.com.au/acctsec/manage/passkeys/create",
+      "manage": "https://accounts.ebay.com.au/acctsec/security-center"
+    }
+  },
+  {
+    "domain": "ebay.de",
+    "name": "eBay.de | Elektronik, Autos, Mode, Sammlerstücke, Möbel und mehr Online-Shopping",
+    "description": "Kaufen und verkaufen Sie Elektronikartikel, Autos, Kleidung, Mode, Sammlerstücke, Sportartikel, Digitalkameras, Babyartikel, Gutscheine und vieles mehr bei eBay.de, dem weltweiten Online-Marktplatz.",
+    "icon": "icons/ebay.de.ico",
+    "endpoints": {
+      "enroll": "https://accounts.ebay.de/acctsec/manage/passkeys/create",
+      "manage": "https://accounts.ebay.de/acctsec/security-center"
+    }
+  },
+  {
+    "domain": "ebay.fr",
+    "name": "eBay : high-tech, maison, jardin, auto-moto et bien plus",
+    "description": "Achetez et vendez des produits en high-tech, maison, jardin, auto-moto, mode ou collection. Profitez d'une variété de produits neufs, d'occasion ou reconditionnés, en livraison rapide et gratuite. Paiements sécurisés. Retours simplifiés",
+    "icon": "icons/ebay.fr.ico",
+    "endpoints": {
+      "enroll": "https://accounts.ebay.fr/acctsec/manage/passkeys/create",
+      "manage": "https://accounts.ebay.fr/acctsec/security-center"
+    }
+  },
+  {
+    "domain": "ebay.it",
+    "name": "eBay | Il Marketplace delle passioni",
+    "description": "Offerte imperdibili su nuovo, usato e ricondizionato da negozi e venditori privati. Compra e vendi elettronica, videogiochi, collezionismo, accessori auto&moto, arredamento, e tanto altro. eBay. Un’altra storia.",
+    "icon": "icons/ebay.it.ico",
+    "endpoints": {
+      "enroll": "https://accounts.ebay.it/acctsec/manage/passkeys/create",
+      "manage": "https://accounts.ebay.it/acctsec/security-center"
+    }
+  },
+  {
+    "domain": "ee.co.uk",
+    "name": "EE | The UK's Best Mobile Network, Broadband & Tech Deals",
+    "description": "Get the fastest 5G, great SIM deals and fibre broadband with EE—rated the UK’s best mobile network. Shop phones, broadband and exclusive tech offers.",
+    "icon": "icons/ee.co.uk.png",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "electrifyamerica.com",
+    "name": "Electric Vehicle (EV) Charging Stations | Electrify America",
+    "description": "Charge your electric vehicle in as little as 30 minutes with Electrify America, the nation’s largest open Hyper-Fast charging network.",
+    "icon": "icons/electrifyamerica.com.ico",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "employmenthero.com",
+    "name": "Employment Hero | All-In-One HR, Payroll & Hiring Platform",
+    "description": "Recruitment, HR, Payroll & Benefits in one place - designed for small & medium businesses to be efficient, compliant & cost-Effective. Book a demo today!",
+    "icon": "icons/employmenthero.com.png",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "equifax.com",
+    "name": "Equifax | Credit Bureau | Check Your Credit",
+    "description": "Get credit reports and credit scores for businesses and consumers from Equifax today! We also have identity protection tools with daily monitoring and alerts",
+    "icon": "icons/equifax.com.png",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "experian.com",
+    "name": "Experian: Credit Report, FICO® Score & Financial Tools",
+    "description": "Get your free credit report and FICO® Score. Experian is your Big Financial Friend, helping you with credit cards, loans, insurance, and more.",
+    "icon": "icons/experian.com.png",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -350,6 +1090,26 @@
     }
   },
   {
+    "domain": "fool.com",
+    "name": "Stock Market News & Investing Research | The Motley Fool",
+    "description": "The Motley Fool has been providing investing insights and personal finance to millions of people for over 25 years. Learn how we make the world Smarter, Happier & Richer.",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "ford.com",
+    "name": "",
+    "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
     "domain": "formx.ai",
     "name": "FormX.ai - Automate Data Extraction to Empower Your Business",
     "description": "FormX.ai brings cutting-edge technology to your business, freeing you from manual work and minimizing human errors. Embrace a world where automation reigns, and efficiency is paramount!",
@@ -370,6 +1130,26 @@
     }
   },
   {
+    "domain": "ft.com",
+    "name": "",
+    "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "gemini.com",
+    "name": "Trade Crypto, Predict Outcomes & Earn — All in One Platform | Gemini | Gemini",
+    "description": "The crypto super app for trading, predicting, and earning. Buy 90+ cryptos, trade prediction markets, and earn with staking and the Gemini Credit Card.",
+    "icon": "icons/gemini.com.ico",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
     "domain": "github.com",
     "name": "GitHub · Change is constant. GitHub keeps you ahead. · GitHub",
     "description": "Join the world's most widely adopted, AI-powered developer platform where millions of developers, businesses, and the largest open source community build software that advances humanity.",
@@ -384,6 +1164,16 @@
     "name": "Finally, AI for the entire software lifecycle.",
     "description": "Your intelligent orchestration platform for DevSecOps",
     "icon": "icons/gitlab.com.ico",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "glady.com",
+    "name": "Glady devient Pluxee",
+    "description": "Glady rejoint officiellement la marque Pluxee pour vous offrir une gamme d'avantages sociaux complète et pour tout les goûts !",
+    "icon": "icons/glady.com.png",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -420,6 +1210,16 @@
     }
   },
   {
+    "domain": "gusto.com",
+    "name": "",
+    "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
     "domain": "haeppie.com",
     "name": "",
     "description": "",
@@ -444,6 +1244,56 @@
     "name": "hCaptcha - Stop bots and human abuse.",
     "description": "Enterprise grade AI security platform with a privacy focus. Replace reCAPTCHA v2, v3, or Enterprise with next generation tech at better value. Used by millions.",
     "icon": "icons/hcaptcha.com.png",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "healthequity.com",
+    "name": "",
+    "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "healthsafe-id.com",
+    "name": "",
+    "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "heb.com",
+    "name": "",
+    "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "hellolingo.com",
+    "name": "Lingo Glucose Biosensor & App — OTC CGM | Lingo by Abbott",
+    "description": "Lingo by Abbott tracks your glucose 24/7, translating the data into insights you can use to learn how to build new habits. HSA/FSA eligible. No prescription needed.",
+    "icon": "icons/hellolingo.com.png",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "hollandamerica.com",
+    "name": "Cruise Vacations - Award Winning Cruises with Holland America",
+    "description": "Book your next vacation with Holland America on one of our award-winning cruises! Enjoy exceptional service on our ships cruising to amazing destinations.",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -490,10 +1340,30 @@
     }
   },
   {
+    "domain": "icims.com",
+    "name": "ICIMS | Enterprise Recruiting Software & AI-Powered Applicant Tracking System",
+    "description": "ICIMS is a leading talent acquisition platform offering AI-powered applicant tracking, candidate engagement, onboarding, employer branding, and career site software to help organizations hire top talent at scale.",
+    "icon": "icons/icims.com.ico",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "id.me",
+    "name": "",
+    "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
     "domain": "id.moneyforward.com",
     "name": "Money Forward ID",
     "description": "",
-    "icon": "",
+    "icon": "icons/id.moneyforward.com.png",
     "endpoints": {
       "enroll": "https://id.moneyforward.com/webauthn/credentials",
       "manage": "https://id.moneyforward.com/webauthn/credentials"
@@ -504,6 +1374,46 @@
     "name": "",
     "description": "",
     "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "indeed.com",
+    "name": "",
+    "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "indrive.com",
+    "name": "Earn With inDrive or Offer Your Fare and Get Ride | inDrive",
+    "description": "Explore inDrive for easy, affordable rides with transparent fare prices. Our reliable service offers a seamless way to book rides and an opportunity for drivers to earn. Choose inDrive for all your travel needs!",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "inspirafinancial.com",
+    "name": "",
+    "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "instacart.com",
+    "name": "Instacart | Grocery Delivery or Pickup from Local Stores Near You",
+    "description": "Order same-day delivery or pickup from more than 300 retailers and grocers. Download the Instacart app or start shopping online now with Instacart to get groceries, alcohol, home essentials, and more delivered to you <b>in as fast as 1 hour</b> or select curbside pickup from your favorite local stores.",
+    "icon": "icons/instacart.com.ico",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -524,6 +1434,16 @@
     "name": "Modern Dental Solutions for Dentists & Technicians | Ivoclar USA",
     "description": "Transform smiles with Ivoclar's innovative dental solutions. Our efficient workflows and revolutionary products deliver exceptional results. Discover Ivoclar. ",
     "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "jaguarlandrover.com",
+    "name": "JLR Corporate Website",
+    "description": "",
+    "icon": "icons/jaguarlandrover.com.png?v=ljk6navp",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -560,7 +1480,7 @@
     }
   },
   {
-    "domain": "kraken.com",
+    "domain": "klarna.com",
     "name": "",
     "description": "",
     "icon": "",
@@ -570,10 +1490,60 @@
     }
   },
   {
+    "domain": "kraken.com",
+    "name": "Kraken | Own the Power of Your Money — Crypto, Stocks & more",
+    "description": "Own the power of your money with Kraken. Trade crypto, stocks, futures, staking and more. Trusted by millions worldwide since 2011. Get started today.",
+    "icon": "icons/kraken.com.png",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "la28.org",
+    "name": "LA 2028",
+    "description": "Welcome to LA28, the 2028 Olympic and Paralympic Games in Los Angeles.",
+    "icon": "icons/la28.org.png",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
     "domain": "laakari.chat",
     "name": "Lääkäri.chat – Helppo ja nopea lääkäri-chat",
-    "description": "Lääkärin chat-vastaanotto, asioi helposti ja turvallisesti yksityisen etälääkärin kanssa. Edullinen reseptin uusiminen samana päivänä 19,99 €. Etälääkärin chat-vastaanotot omavastuu 36,99 €.",
+    "description": "Lääkärin chat-vastaanotto, asioi helposti ja turvallisesti yksityisen etälääkärin kanssa. Edullinen reseptin uusiminen samana päivänä 13,99 €. Etälääkärin chat-vastaanotot omavastuu 29,99 €.",
     "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "libbyapp.com",
+    "name": "Libby",
+    "description": "All over the world, local libraries offer millions of ebooks and audiobooks. You can borrow them — for free, instantly — with a library card and Libby: the award-winning, much-loved app for libraries.",
+    "icon": "icons/libbyapp.com.png?v=1",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "lifeway.com",
+    "name": "Shop Christian Bible Studies, Books, & Bibles | Lifeway",
+    "description": "Lifeway is a Christian resource since 1891. Buy your family and church Bible studies, Christian books, Bibles, Christian gifts and Christian music.",
+    "icon": "icons/lifeway.com.png",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "link.com",
+    "name": "Link: The wallet for the AI economy",
+    "description": "Link helps you pay quickly and securely with your preferred payment methods.",
+    "icon": "icons/link.com.png",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -600,10 +1570,40 @@
     }
   },
   {
+    "domain": "login.nhs.uk",
+    "name": "",
+    "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "lotoquebec.com",
+    "name": "",
+    "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
     "domain": "lowes.com",
     "name": "Access Denied",
     "description": "",
     "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "luma.com",
+    "name": "Luma",
+    "description": "Discover and host memorable events effortlessly with Luma. Invite friends, sell tickets, and find great events happening near you.",
+    "icon": "icons/luma.com.png",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -632,7 +1632,7 @@
   {
     "domain": "mangadex.org",
     "name": "",
-    "description": "Read comics and manga online at MangaDex, with high quality images and support creators and translators!",
+    "description": "",
     "icon": "",
     "endpoints": {
       "enroll": "",
@@ -660,6 +1660,36 @@
     }
   },
   {
+    "domain": "mcclatchy.com",
+    "name": "McClatchy | Home Page",
+    "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "mercury.com",
+    "name": "Online Business Banking For Startups, Small Businesses & Scaling Companies",
+    "description": "Everything you do with money. All in one place. Apply in 10 minutes for business banking that transforms how you operate.",
+    "icon": "icons/mercury.com.svg?9c0dadf0c8dee356",
+    "endpoints": {
+      "enroll": "https://app.mercury.com/settings/security",
+      "manage": "https://app.mercury.com/settings/security"
+    }
+  },
+  {
+    "domain": "meta.com",
+    "name": "Meta - Shop AI glasses and VR headsets",
+    "description": "Shop the latest AI glasses and wearable technology from Meta. Explore Ray-Ban Meta, Oakley Meta, display glasses, and cutting-edge VR headsets.",
+    "icon": "icons/meta.com.webp",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
     "domain": "michigan.gov",
     "name": "",
     "description": "",
@@ -674,6 +1704,26 @@
     "name": "Microsoft – AI, Cloud, Productivity, Computing, Gaming & Apps",
     "description": "Explore Microsoft products and services and support for your home or business. Shop Microsoft 365, Copilot, Teams, Xbox, Windows, Azure, Surface and more.",
     "icon": "icons/microsoft.com.ico",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "migros.ch",
+    "name": "",
+    "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "mona.co",
+    "name": "",
+    "description": "",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -710,6 +1760,26 @@
     }
   },
   {
+    "domain": "monidentifiant.sncf",
+    "name": "Mon Identifiant SNCF",
+    "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "my.gov.au",
+    "name": "myGov Home | myGov",
+    "description": "Access government services from one place.",
+    "icon": "icons/my.gov.au.png",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
     "domain": "mychart.nyulmc.org",
     "name": "NYU Langone Health MyChart - Login Page",
     "description": "",
@@ -720,9 +1790,49 @@
     }
   },
   {
+    "domain": "mychart.org",
+    "name": "",
+    "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "myisolved.com",
+    "name": "",
+    "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
     "domain": "namecheap.com",
     "name": "",
     "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "nationalgrid.com",
+    "name": "Welcome to National Grid Group | National Grid",
+    "description": "National Grid is an energy company operating in the UK and the Northeast US. We deliver electricity and gas safely, reliably and efficiently to the customers and communities that we serve.",
+    "icon": "icons/nationalgrid.com.ico",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "natixis.com",
+    "name": "Internet website of Natixis CIB and Natixis IM business lines",
+    "description": "Welcome to the common website of Natixis CIB and Natixis IM",
     "icon": "",
     "endpoints": {
       "enroll": "",
@@ -760,6 +1870,26 @@
     }
   },
   {
+    "domain": "notion.so",
+    "name": "The AI workspace that works for you. | Notion",
+    "description": "Build Custom Agents, search across all your apps, and automate busywork. The AI workspace where teams get more done, faster.",
+    "icon": "icons/notion.so.png",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "npuserlogin.com",
+    "name": "",
+    "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
     "domain": "nvidia.com",
     "name": "World Leader in Artificial Intelligence Computing | NVIDIA",
     "description": "NVIDIA invents the GPU and drives advances in AI, HPC, gaming, creative design, autonomous vehicles, and robotics.",
@@ -773,7 +1903,7 @@
     "domain": "offshoot.rentals",
     "name": "Equipment rental for still and motion photography - Offshoot Rentals Melbourne",
     "description": "Offshoot Rentals is a trusted production partner in Melbourne, supplying equipment and support to a wide range of productions since 2010.",
-    "icon": "icons/offshoot.rentals.png",
+    "icon": "icons/offshoot.rentals.ico",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -784,6 +1914,16 @@
     "name": "Secure Identity for Employees, Customers, and AI | Okta",
     "description": "The Okta and Auth0 Platforms enable secure access, authentication, and automation — putting identity at the heart of business security and growth.",
     "icon": "icons/okta.com.ico",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "okx.com",
+    "name": "Buy Bitcoin & Crypto | Crypto Exchange, App & Wallet | OKX United States",
+    "description": "OKX United States - Buy BTC, ETH, XRP and more on OKX, a leading crypto exchange – explore Web3, invest in DeFi and NFTs. Register now and experience the future of finance.",
+    "icon": "icons/okx.com.png",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -810,6 +1950,16 @@
     }
   },
   {
+    "domain": "onelog.ch",
+    "name": "OneLog - Das Schweizer Medien-Login",
+    "description": "OneLog ist das gemeinsame Login der Schweizer Digital-Allianz – dem Zusammenschluss der grössten Schweizer Medien- und Verlagshäuser.",
+    "icon": "icons/onelog.ch.png",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
     "domain": "onlyfans.com",
     "name": "",
     "description": "",
@@ -820,9 +1970,29 @@
     }
   },
   {
+    "domain": "openai.com",
+    "name": "",
+    "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "ouraring.com",
+    "name": "Oura Ring. Smart Ring for Fitness, Stress, Sleep & Health.",
+    "description": "Enhance your health journey with Oura. The Oura Ring provides round-the-clock insights into sleep, fitness, and stress for wellness. Now HSA/FSA eligible.",
+    "icon": "icons/ouraring.com.png",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
     "domain": "passage.1password.com",
-    "name": "Password Manager & Extended Access Management | 1Password   | 1Password",
-    "description": "More than a password manager and leader in Extended Access Management. Secure all sign-ins to every application from any device with 1Password. ",
+    "name": "Passwords, Secrets, and Access Management | 1Password",
+    "description": "Protect passwords and secrets, manage app access, and secure AI tools with 1Password. Easy to adopt from growing teams to enterprise.",
     "icon": "",
     "endpoints": {
       "enroll": "",
@@ -890,6 +2060,36 @@
     }
   },
   {
+    "domain": "paze.com",
+    "name": "Meet Paze | Online Checkout",
+    "description": "Introducing the Paze digital wallet. The new way to pay from your financial institution: No new usernames or passwords to remember and no 16-digit card numbers to enter.",
+    "icon": "icons/paze.com.png",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "petco.com",
+    "name": "",
+    "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "plaid.com",
+    "name": "Plaid: Enabling all companies to build fintech solutions",
+    "description": "Plaid helps all companies build fintech solutions by making it easy, safe and reliable for people to connect their financial data to apps and services.",
+    "icon": "icons/plaid.com.png",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
     "domain": "playstation.com",
     "name": "",
     "description": "",
@@ -900,10 +2100,50 @@
     }
   },
   {
+    "domain": "pluxee.app",
+    "name": "",
+    "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "pluxee.fr",
+    "name": "Pluxee : titres cadeau et restau défiscalisés pour l'entreprise",
+    "description": "Pluxee : fidélisez, motivez, augmentez le pouvoir d'achat et améliorez l'équilibre de vie de vos salariés grâce aux solutions de QVT !",
+    "icon": "icons/pluxee.fr.png",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "polymarket.us",
+    "name": "Polymarket",
+    "description": "Polymarket is the world's largest prediction market, allowing you to stay informed and profit from your knowledge by trading on future events across various topics.",
+    "icon": "icons/polymarket.us.png",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
     "domain": "porkbun.com",
     "name": "porkbun.com | An oddly satisfying experience.",
     "description": "Porkbun is an amazingly awesome ICANN accredited domain name registrar based out of the Pacific Northwest. We're different, we're easy, and we're affordable. Use us, you won't be sorry. If you don't use us we'll be sad, but we'll still love you.",
     "icon": "icons/porkbun.com.png",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "porsche.com",
+    "name": "Porsche United States | Official Website",
+    "description": "Welcome to Porsche! The official source for information on all Porsche vehicles, services, dealers in your area and everything about the Porsche brand.",
+    "icon": "icons/porsche.com.png",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -921,7 +2161,7 @@
   },
   {
     "domain": "rad.dad",
-    "name": "rad.dad — Rad email, web address, and DNS",
+    "name": "rad.dad: Rad email, web address, and DNS",
     "description": "Rad internet tech for dads and non-dads alike",
     "icon": "icons/rad.dad.ico",
     "endpoints": {
@@ -970,10 +2210,50 @@
     }
   },
   {
+    "domain": "safeway.com",
+    "name": "Grocery Delivery Near You - Order Groceries Online | Safeway",
+    "description": "Thinking of grocery delivery? Shop at Safeway online store and get grocery delivered to your doorstep. Use Safeway for U rewards & coupons to save money on grocery.",
+    "icon": "icons/safeway.com.ico",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "sainsburys.co.uk",
+    "name": "",
+    "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
     "domain": "sandbox.fusionauth.io",
     "name": "FusionAuth",
     "description": "User Management Redefined. A Single Sign-On solution for your entire enterprise.",
     "icon": "icons/sandbox.fusionauth.io.png",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "sceneplus.ca",
+    "name": "",
+    "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "sharkninja.com",
+    "name": "SharkNinja | Kitchen Appliances, Vacuums & Beauty",
+    "description": "Shop Shark and Ninja products: vacuums, air fryers, hair dryers, red light masks & more. Free shipping on $99+ orders. Innovative products for every room.",
+    "icon": "icons/sharkninja.com.png",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -992,8 +2272,28 @@
   {
     "domain": "shopify.com",
     "name": "Shopify: The All-in-One Commerce Platform for Businesses - Shopify",
-    "description": "Try Shopify free and start a business or grow an existing one. Get more than ecommerce software with tools to manage every part of your business.",
+    "description": "Try Shopify free. Build or grow your business fast with AI. Get more than ecommerce software with tools to manage every part of your business.",
     "icon": "icons/shopify.com.ico",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "simplisafe.com",
+    "name": "SimpliSafe",
+    "description": "",
+    "icon": "icons/simplisafe.com.png",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "siriusxm.com",
+    "name": "SiriusXM: Music, Sports, Talk & Podcasts, Live & On Demand",
+    "description": "Whether it’s new hip-hop and classic comedy or ‘90s jams and sports podcasts, everything you want to hear lives here at SiriusXM.",
+    "icon": "icons/siriusxm.com.png",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -1002,8 +2302,48 @@
   {
     "domain": "sktelecom.com",
     "name": "SK telecom",
-    "description": "자강과 협력을 통한 ‘Global AI Company’로의 도약",
-    "icon": "icons/sktelecom.com.ico",
+    "description": "AX로 만들어가는 더 나은 내일",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "snapchat.com",
+    "name": "Snapchat - Say It In A Snap",
+    "description": "Chat, send Snaps, explore Stories, and try Lenses on desktop, or download the app on mobile! See how to connect & create with friends on Snapchat, wherever you are.",
+    "icon": "icons/snapchat.com.png",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "sony.com",
+    "name": "",
+    "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "statefarm.com",
+    "name": "State Farm® | An Insurance Company Valued For Over 100 Years ",
+    "description": "Discover State Farm's personalized insurance options with our innovative Personal Price Plan®. With over 100 years of experience, we provide personalized coverage options to help meet your needs. Get a quote today and experience the difference.",
+    "icon": "icons/statefarm.com.ico",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "stitchfix.com",
+    "name": "",
+    "description": "",
+    "icon": "",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -1027,6 +2367,46 @@
     "endpoints": {
       "enroll": "https://app.subnoto.com/settings/passkeys",
       "manage": "https://app.subnoto.com/settings/passkeys"
+    }
+  },
+  {
+    "domain": "swan.io",
+    "name": "Swan - The easiest way to embed banking features",
+    "description": "Use Swan's APIs and ready-made white-label interfaces to embed banking features like accounts, cards, and payments into your workflows and UX.",
+    "icon": "icons/swan.io.png",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "sweetwater.com",
+    "name": "",
+    "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "swissid.ch",
+    "name": "Home | SwissID",
+    "description": "Mit SwissID bei Onlinediensten sicher einloggen 🗸 Digital unterschreiben 🗸 Sich online sicher ausweisen 🗸 Rechtlich anerkannte SwissID-Identität",
+    "icon": "icons/swissid.ch.png",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "swisspass.ch",
+    "name": "",
+    "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
     }
   },
   {
@@ -1060,6 +2440,46 @@
     }
   },
   {
+    "domain": "telegram.org",
+    "name": "Telegram Messenger",
+    "description": "Fast. Secure. Powerful.",
+    "icon": "icons/telegram.org.png",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "telekom.com",
+    "name": "Corporate Website: Information about the Group | Deutsche Telekom",
+    "description": "Deutsche Telekom is one of the world's leading integrated telecommunications companies. Find information about the Group on our corporate website.",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "telenorid.com",
+    "name": "Telenor ID",
+    "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "telstra.com",
+    "name": "Telstra | Mobile Phones, Plans, NBN, Home Internet, Accessories & more",
+    "description": "Join Australia's largest mobile network, view our plans for NBN broadband internet, mobile phones, 5G & on-demand streaming services.",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
     "domain": "tender.run",
     "name": "Tender | The inbox for your finances",
     "description": "No-budget, inbox-zero personal finance software",
@@ -1080,12 +2500,92 @@
     }
   },
   {
+    "domain": "thomsonreuters.com",
+    "name": "Purpose-built technology | Thomson Reuters",
+    "description": "Thomson Reuters delivers technology with purpose — empowering professionals to make faster decisions, gain sharper insights, and deliver greater impact.",
+    "icon": "icons/thomsonreuters.com.ico",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "tiaa.org",
+    "name": "",
+    "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "ticketmaster.com",
+    "name": "",
+    "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
     "domain": "tiktok.com",
     "name": "TikTok - Make Your Day",
     "description": "",
     "icon": "icons/tiktok.com.png",
     "endpoints": {
       "enroll": "https://www.tiktok.com/ucenter_web/passkey_wizard?ug_source=others.pwdmanager&awedp_require_login=normal",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "tmr.qld.gov.au",
+    "name": "",
+    "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "toasttab.com",
+    "name": "",
+    "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "totalenergies.com",
+    "name": "TotalEnergies - integrated multi-energy company | TotalEnergies.com",
+    "description": "TotalEnergies is a global integrated energy company that produces and markets energies: oil and biofuels, natural gas and green gases, renewables and electricity.",
+    "icon": "icons/totalenergies.com.png",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "troweprice.com",
+    "name": "Invest with Confidence | T. Rowe Price",
+    "description": "T. Rowe Price, a global investment management firm dedicated to helping clients achieve long term success.",
+    "icon": "icons/troweprice.com.png",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "trumf.no",
+    "name": "Trumf - litt ka-ching i hverdagen! ",
+    "description": "Trumf er spart! Det er smart å spare penger når du handler dagligvarer, og alt annet du trenger. Spar bonus enkelt med Trumf Pay eller bankkort! ",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
       "manage": ""
     }
   },
@@ -1101,8 +2601,8 @@
   },
   {
     "domain": "twitter.com",
-    "name": "",
-    "description": "",
+    "name": "X. It’s what’s happening / X",
+    "description": "From breaking news and entertainment to sports and politics, get the full story with all the live commentary.",
     "icon": "icons/twitter.com.png",
     "endpoints": {
       "enroll": "",
@@ -1111,7 +2611,17 @@
   },
   {
     "domain": "ubank.com.au",
-    "name": "ubank - That's how you money",
+    "name": "Online Bank | Bank Accounts & Home Loans - Ubank",
+    "description": "Award-winning online bank accounts and home loans. Our mission is simple: to help more Australians be successful with money.",
+    "icon": "icons/ubank.com.au.png",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "uber.com",
+    "name": "",
     "description": "",
     "icon": "",
     "endpoints": {
@@ -1120,7 +2630,17 @@
     }
   },
   {
-    "domain": "uber.com",
+    "domain": "ui.com",
+    "name": "UniFi - Rethinking IT - Ubiquiti",
+    "description": "UniFi is rethinking IT with industry-leading products for enterprise networking, security, and more unified in an incredible software interface.",
+    "icon": "icons/ui.com.png",
+    "endpoints": {
+      "enroll": "https://account.ui.com/security",
+      "manage": "https://account.ui.com/security"
+    }
+  },
+  {
+    "domain": "upwork.com",
     "name": "",
     "description": "",
     "icon": "",
@@ -1140,9 +2660,19 @@
     }
   },
   {
+    "domain": "veolia.fr",
+    "name": "",
+    "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
     "domain": "vercel.com",
-    "name": "Vercel: Build and deploy the best web experiences with the AI Cloud",
-    "description": "Vercel gives developers the frameworks, workflows, and infrastructure to build a faster, more personalized web.",
+    "name": "Agentic Infrastructure",
+    "description": "The autonomous stack for every app and agent.",
     "icon": "icons/vercel.com.png",
     "endpoints": {
       "enroll": "",
@@ -1161,8 +2691,18 @@
   },
   {
     "domain": "vinci-autoroutes.com",
-    "name": "VINCI Autoroutes : info trafic, prévisions, itinéraire, télépéage | VINCI Autoroutes",
-    "description": "VINCI Autoroutes vous accompagne pour Bien voyager. Info trafic en direct, prévisions trafic, services sur aires, travaux, télépéage, tarifs, actus, conseils.",
+    "name": "VINCI Autoroutes : info trafic, prévisions, itinéraire, télépéage",
+    "description": "Bienvenue sur le site officiel de Vinci Autoroutes. Pour Bien voyager, retrouvez toutes les informations sur notre réseau, info trafic, aires, tarifs, actus, conseils",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "virgin.com",
+    "name": "Official site | Virgin",
+    "description": "We’re the official home of the Virgin Group and Branson family. Get the latest from Richard Branson and the Virgin companies.",
     "icon": "",
     "endpoints": {
       "enroll": "",
@@ -1174,6 +2714,46 @@
     "name": "",
     "description": "",
     "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "virginmediao2.co.uk",
+    "name": "",
+    "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "walmart.com",
+    "name": "Walmart | Save Money. Live better.",
+    "description": "Shop Walmart.com today for Every Day Low Prices. Join Walmart+ for unlimited free delivery from your store & free shipping with no order minimum. Start your free 30-day trial now!",
+    "icon": "icons/walmart.com.ico",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "warbyparker.com",
+    "name": "",
+    "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "warpcast.com",
+    "name": "Farcaster",
+    "description": "",
+    "icon": "icons/warpcast.com.png",
     "endpoints": {
       "enroll": "",
       "manage": ""
@@ -1200,6 +2780,26 @@
     }
   },
   {
+    "domain": "wework.com",
+    "name": "",
+    "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "whatnot.com",
+    "name": "",
+    "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
     "domain": "whatsapp.com",
     "name": "WhatsApp | Secure and Reliable Free Private Messaging and Calling",
     "description": "Use WhatsApp Messenger to stay in touch with friends and family. WhatsApp is free and offers simple, secure, reliable messaging and calling, available on phones all over the world.",
@@ -1210,9 +2810,49 @@
     }
   },
   {
-    "domain": "x.com",
+    "domain": "wise.com",
+    "name": "Wise: The international account | Money without borders | Wise United States",
+    "description": "Banks charge a lot for overseas transfers. We don't. Transfer money abroad easily and quickly with our low cost money transfers.",
+    "icon": "icons/wise.com.png",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "withpersona.com",
     "name": "",
     "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "wynnresorts.com",
+    "name": "Welcome to Wynn Resorts | Wynn Resorts, Limited",
+    "description": "Learn more about Wynn Resorts. Explore the latest financial reports, and stay informed with recent press releases and corporate news—all in one place.",
+    "icon": "icons/wynnresorts.com.png",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "wyze.com",
+    "name": "\n      Wyze | Smart Home Security Cameras & Devices\n",
+    "description": "Wyze smart home cameras offer 1080p to 4K video quality with advanced motion detection and alerts. Safe for indoor and outdoor use. Wireless battery-powered cams available. Build your complete smart home security system without breaking the bank. Premium tech, affordable price.",
+    "icon": "icons/wyze.com.png?crop=center&height=32&v=1718660552&width=32",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "x.com",
+    "name": "X. It’s what’s happening / X",
+    "description": "From breaking news and entertainment to sports and politics, get the full story with all the live commentary.",
     "icon": "icons/x.com.png",
     "endpoints": {
       "enroll": "",
@@ -1223,7 +2863,7 @@
     "domain": "yahoo.co.jp",
     "name": "Yahoo! JAPAN",
     "description": "あなたの毎日をアップデートする情報ポータル。検索、ニュース、天気、スポーツ、メール、ショッピング、オークションなど便利なサービスを展開しています。",
-    "icon": "icons/yahoo.co.jp.ico",
+    "icon": "icons/yahoo.co.jp.png",
     "endpoints": {
       "enroll": "https://account.edit.yahoo.co.jp/authdevice?cpt_n=PasskeyEndpoints&cpt_m=link&cpt_s=PasskeyEndpoints",
       "manage": "https://account.edit.yahoo.co.jp/authdevice?cpt_n=PasskeyEndpoints&cpt_m=link&cpt_s=PasskeyEndpoints"
@@ -1240,10 +2880,50 @@
     }
   },
   {
+    "domain": "yelp.com",
+    "name": "",
+    "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "yoti.com",
+    "name": "Building the world's trusted identity platform • Yoti",
+    "description": "Our comprehensive suite of customer verification tools make it easy for businesses to be compliant and safe for people to prove who they are.",
+    "icon": "icons/yoti.com.jpg",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "zaxbys.com",
+    "name": "",
+    "description": "",
+    "icon": "",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
     "domain": "zoho.com",
     "name": "Zoho | Cloud Software Suite for Businesses",
-    "description": "A unique and powerful software suite for businesses of all sizes. With 55+ applications, Zoho is trusted by 130 million+ users for their end-to-end business needs.",
+    "description": "A unique and powerful software suite trusted by millions of businesses worldwide. Zoho covers your end-to-end business needs, from sales and marketing to finance, HR, and beyond.",
     "icon": "icons/zoho.com.ico",
+    "endpoints": {
+      "enroll": "",
+      "manage": ""
+    }
+  },
+  {
+    "domain": "zoom.us",
+    "name": "One platform to connect | Zoom",
+    "description": "Modernize workflows with Zoom's trusted collaboration tools: including video meetings, Zoom Chat, VoIP phone, webinars, whiteboard, contact center, and events.",
+    "icon": "icons/zoom.us.ico",
     "endpoints": {
       "enroll": "",
       "manage": ""
